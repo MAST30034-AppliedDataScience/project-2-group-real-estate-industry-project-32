@@ -213,12 +213,10 @@ def get_rental_listings(pages, visited_urls: set, collided_urls: set, shared_dat
             return None   
     
      
-
-
 # We are going to use threading to speed up the process
 lock = threading.Lock()
 pages = list(range(1, 51))
-partitions = np.array_split(pages, 13)
+partitions = np.array_split(pages, 10)
 
 if __name__ == "__main__":
     shared_data = {
