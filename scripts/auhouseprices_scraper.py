@@ -16,6 +16,7 @@ from numpy.dtypes import StringDType
 import time
 import gzip
 import shutil
+import hashlib
 import pprint
 import os
 
@@ -56,7 +57,7 @@ def get_proxy_url():
 
     return proxy_url
 
-async def get_url(url: str, purpose: str, shared_data: DictProxy, max_retries=150, use_proxy=True):
+async def get_url(url: str, purpose: str, max_retries=150, use_proxy=True):
     '''
     Function to get the URL using aiohttp
     '''
@@ -93,7 +94,7 @@ async def get_url(url: str, purpose: str, shared_data: DictProxy, max_retries=15
                         else:
                             break
             except Exception as err:
-                print(f'get_url: {err}')
+                # print(f'get_url: {err}')
                 if use_proxy:
                     continue  # Retry with a new proxy
                 else:
@@ -127,7 +128,7 @@ async def scrape_listings(partition: list, progress_bar_dict: dict, shared_data:
                 continue               
         
         # Request the listing page
-        html_obj = await get_url(url, "return_response_object", shared_data)  
+        html_obj = await get_url(url, "return_response_object")  
         async with lock:
             if html_obj:
                 # Write the .html file to the directory
@@ -146,14 +147,15 @@ def display_progress(shared_progress):
         TextColumn("{task.completed}/{task.total} listings processed"),
     ) as progress:
         task = progress.add_task("Parsing listings...", total=shared_progress['total'])
-        while shared_progress['completed'] < shared_progress['total']:
-            progress.update(task, completed=shared_progress['completed'])
-            time.sleep(1)
+        while shared_progress['completed'] <= shared_progress['total']:
+            progress.update(task, completed=shared_progress['completed'])        
+        
+        progress.update(task, completed=shared_progress['total'])
 
 def parse_listings_wrapper(args):
     return parse_listings(*args)
 
-def parse_listings(partition: np.ndarray, partition_idx: int, shared_data: DictProxy, shared_progress: DictProxy):
+def parse_listings(partition: np.ndarray, partition_idx: int, shared_data: DictProxy, shared_progress: DictProxy, address_erroneous_files=False, multiprocessing_lock=None):
     '''
     Function to parse each of the listings
     '''    
@@ -161,7 +163,11 @@ def parse_listings(partition: np.ndarray, partition_idx: int, shared_data: DictP
     check_make_dir(auhouseprices_raw_dir)
     
     erroneous_files = set()
-    
+    error_data = {
+        'div.breadcrumbs-v3 error' : 0,
+        'div.container.content error' : 0,
+        'nested_row_error' : 0
+    }
     
     parsed_listings = []
     
@@ -181,6 +187,7 @@ def parse_listings(partition: np.ndarray, partition_idx: int, shared_data: DictP
                 # Use CSS selectors to directly find the elements
                 container = listing.select_one('div.breadcrumbs-v3')
                 if container is None:
+                    error_data['div.breadcrumbs-v3 error'] += 1
                     erroneous_files.add(file)
                 else:
                     # Extract breadcrumb information
@@ -204,12 +211,14 @@ def parse_listings(partition: np.ndarray, partition_idx: int, shared_data: DictP
                 
                 container = listing.select_one('div.container.content')
                 if container is None:
+                    error_data['div.container.content error'] += 1
                     erroneous_files.add(file)
                     continue
                 
                 # Find the nested row
                 nested_row = container.select_one('div.row > div.col-md-8.col-sm-7 > div.tag-box.tag-box-v2.box-shadow.shadow-effect-1 > div.row')
                 if nested_row is None:
+                    error_data['nested_row_error'] += 1
                     erroneous_files.add(file)
                     continue
                 
@@ -289,32 +298,165 @@ def parse_listings(partition: np.ndarray, partition_idx: int, shared_data: DictP
             
                 
                 parsed_listings.append(listing_info)
-                shared_data["num_extra_urls"] += num_extra_urls_found
-                shared_data["num_parsed"] += 1
-                # Update the progress bar
-                shared_progress['completed'] += 1
+                if multiprocessing_lock:
+                    with multiprocessing_lock:
+                        shared_data["num_extra_urls"] += num_extra_urls_found
+                        shared_data["num_parsed"] += 1
+                        # Update the progress bar
+                        shared_progress['completed'] += 1
 
     if parsed_listings:
         # Save the parsed listings to a CSV file
-        output_file = os.path.join(auhouseprices_raw_dir, f"parsed_listings_partition-{partition_idx}.csv")
-        with open(output_file, mode='w', newline='', encoding='utf-8') as csv_file:
-            fieldnames = parsed_listings[0].keys() if parsed_listings else []
-            writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-
-            writer.writeheader()
-            for listing in parsed_listings:
-                writer.writerow(listing)
+        if address_erroneous_files:
+            output_file = os.path.join(auhouseprices_raw_dir, f"fixed_erroneous_listings-{partition_idx}.csv")
+        else:
+            output_file = os.path.join(auhouseprices_raw_dir, f"parsed_listings_partition-{partition_idx}.csv")
+        if multiprocessing_lock:
+            with multiprocessing_lock:
+                with open(output_file, mode='w', newline='', encoding='utf-8') as csv_file:
+                    fieldnames = parsed_listings[0].keys() if parsed_listings else []
+                    writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        
+                    writer.writeheader()
+                    for listing in parsed_listings:
+                        writer.writerow(listing)       
             
-            print(f"Total number of listings parsed: {len(parsed_listings)}")
-
+    
+    # print(f"div.breadcrumbs-v3 error: {error_data['div.breadcrumbs-v3 error']}")
+    # print(f"div.container.content error: {error_data['div.container.content error']}")
+    # print(f"nested_row_error: {error_data['nested_row_error']}")
+       
     if erroneous_files:
         # Save erroneous URLs to a file
-        output_erroneous_file = os.path.join(auhouseprices_raw_dir, f"erroneous_urls_partition-{partition_idx}.txt")
+        if address_erroneous_files:
+            output_erroneous_file = os.path.join(auhouseprices_raw_dir, f"remaining_erroneous_urls_partition-{partition_idx}.txt")
+        else:
+            output_erroneous_file = os.path.join(auhouseprices_raw_dir, f"erroneous_urls_partition-{partition_idx}.txt")
         with open(output_erroneous_file, 'w', encoding='utf-8') as f:
             for url in erroneous_files:
                 f.write(f"{url}\n")
-            print(f"Total number of erroneous listings: {len(erroneous_files)}")
+            print(f"\nTotal number of erroneous listings for this partition: {len(erroneous_files)}")
     
+async def address_erroneous_urls():
+    '''
+    Address erroneous .html listings by re-scraping the URLs,
+    compare checksums of the re-scraped .html with the original .html,
+    attempt to re-parse the content and save the parsed listings to a new partioned
+    .csv file
+    '''    
+    all_erroneous_ids = []
+    
+    # Iterate through each erroneous_url_partition-{partition_idx}.txt file in the auhouseprices_raw_dir
+    for file in os.listdir(auhouseprices_raw_dir):
+        if file.startswith('erroneous_urls_partition-') and file.endswith('.txt'):
+            erroneous_urls_file = os.path.join(auhouseprices_raw_dir, file)
+            with open(erroneous_urls_file, 'r', encoding='utf-8') as f:
+                ids = f.readlines()                
+                ids = [int(id.strip().replace('.html', '')) for id in ids]
+                all_erroneous_ids.extend(ids)
+    
+    # Write an all_erroneous_files.txt file to the auhouseprices_raw_dir, containing all the erroneous filenames
+    all_erroneous_files_file = os.path.join(auhouseprices_raw_dir, 'all_erroneous_files.txt')
+    with open(all_erroneous_files_file, 'w', encoding='utf-8') as f:
+        for id in all_erroneous_ids:
+            f.write(f"{id}.html\n")
+    
+    # Re-scrape the erroneous URLs which contain the IDs in all_ids, from the all_urls.txt file
+    all_urls_file = os.path.join(auhouseprices_landing_dir, 'all_urls.txt')
+    with open(all_urls_file, 'r') as f:
+        all_urls = f.readlines()
+        all_urls = [url.strip() for url in all_urls]
+        id_url_map = {int(re.search(r'/rent/view/VIC/(\d+)/', url).group(1)): url for url in all_urls}
+        
+        # Write an all_erroneous_urls.txt file to the auhouseprices_raw_dir, containing all the erroneous URLs
+        all_erroneous_urls_file = os.path.join(auhouseprices_raw_dir, 'all_erroneous_urls.txt')
+        with open(all_erroneous_urls_file, 'w', encoding='utf-8') as f:
+            for id in all_erroneous_ids:
+                f.write(f"{id_url_map[id]}\n")
+            print(f"Total number of erroneous URLs: {len(all_erroneous_ids)}")                 
+        
+        with Progress(
+            SpinnerColumn(),
+            BarColumn(),
+            TextColumn("[progress.percentage]{task.percentage:>3.1f}%"),
+            TextColumn("{task.completed}/{task.total} listings processed"),
+        ) as progress:
+            task = progress.add_task("Erroneous listings...", total=len(all_erroneous_ids))
+            progress_bar_dict = {
+                'progress': progress,
+                'num_overwritten': 0,
+                'num_identical': 0
+            }
+            progress_bar_dict['task_id'] = task
+            
+            # Determine the maximum length of the URLs
+            max_url_length = max(len(url) for url in id_url_map.values())
+            
+            # Create the structured array with the appropriate dtype
+            # Filter id_url_map to only include entries corresponding to all_erroneous_ids
+            filtered_id_url_map = {id: id_url_map[id] for id in all_erroneous_ids if id in id_url_map}
+
+            # Determine the maximum length of the URLs in the filtered map
+            max_url_length = max(len(url) for url in filtered_id_url_map.values())
+
+            # Create the structured array with the appropriate dtype
+            partitions = np.array(list(filtered_id_url_map.items()), dtype=[('id', int), ('url', f'S{max_url_length}')])
+            partitions = np.array_split(partitions, 450)
+            
+            parsed_listings = []
+                    
+            tasks = []
+            for partition in partitions:
+                task = asyncio.create_task(
+                    verify_erroneous_listings(partition, parsed_listings, progress_bar_dict)
+                )
+                tasks.append(task)
+            
+            await asyncio.gather(*tasks)
+            
+            print(f"Number of listings overwritten: {progress_bar_dict['num_overwritten']}")
+            print(f"Number of listings identical: {progress_bar_dict['num_identical']}")
+        
+
+async def verify_erroneous_listings(partition: np.ndarray, parsed_listings: list, progress_bar_dict: dict):
+    '''
+    Verify the erroneous listings by re-scraping their respective URLs
+    '''
+    # Initialize the progress bar
+    progress = progress_bar_dict['progress']
+    progress.update(task_id=progress_bar_dict['task_id'], advance=0) 
+    
+    for entry in partition:
+        id = entry['id']
+        url = entry['url'].decode('utf-8')
+        
+        # Scrape the URL, then compare the checksums
+        # of the re-scraped .html with the original .html from the auhouseprices_landing_dir
+        # If the checksums are different, attempt to re-parse the content
+        
+        # Get the original .html file
+        original_html_file = os.path.join(auhouseprices_landing_dir, f"{id}.html")
+        async with lock:
+            with open(original_html_file, 'rb') as f:
+                original_html = f.read()
+                original_checksum = hashlib.md5(original_html).hexdigest()
+        
+        # Scrape the listing
+        response = await get_url(url, "return_response_object", use_proxy=True)
+        if response:
+            re_scraped_html = response
+            re_scraped_checksum = hashlib.md5(re_scraped_html).hexdigest()
+            async with lock:
+                if re_scraped_checksum != original_checksum:
+                    # Overwrite the original .html file with the re-scraped .html
+                    progress_bar_dict['num_overwritten'] += 1
+                    with open(original_html_file, 'wb') as f:
+                        f.write(re_scraped_html)
+                else:
+                    progress_bar_dict['num_identical'] += 1
+        
+            # Update the progress bar
+            progress.update(task_id=progress_bar_dict['task_id'], advance=1) 
 
 async def get_all_listing_urls(shared_data: DictProxy):
     '''
@@ -330,7 +472,7 @@ async def get_all_listing_urls(shared_data: DictProxy):
             return rental_listing_urls
             
     # Download and parse the sitemap.xml file
-    response = await get_url(sitemap_url, "return_response_object", shared_data, use_proxy=False)
+    response = await get_url(sitemap_url, "return_response_object", use_proxy=False)
     sitemap_content = response
     
     # Parse the sitemap XML
@@ -356,7 +498,7 @@ async def get_all_listing_urls(shared_data: DictProxy):
         
         # Download and extract the .xml.gz files
         for url in filtered_urls:
-            gz_content = await get_url(url, "stream_to_file", shared_data, use_proxy=False)
+            gz_content = await get_url(url, "stream_to_file", use_proxy=False)
             gz_filename = url.split('/')[-1]
             xml_filename = gz_filename.replace('.gz', '')
         
@@ -436,7 +578,7 @@ async def main(shared_data: DictProxy):
     
         print(f"Scraped {shared_data['num_scraped']} listings")    
     
-
+skip = True # Change to False to run the entire script
 lock = asyncio.Lock()
 if __name__ == "__main__":
     check_make_dir(auhouseprices_landing_dir)
@@ -445,9 +587,10 @@ if __name__ == "__main__":
     check_make_dir(auhouseprices_raw_dir)
     check_make_dir(tmp_dir)  
     
+    # asyncio.run(address_erroneous_urls())
+    # exit()
     
     manager = Manager()
-    
     shared_data = manager.dict()
     shared_data['num_file_already_seen'] = 0
     shared_data['num_scraped'] = 0
@@ -456,14 +599,22 @@ if __name__ == "__main__":
     shared_data['extra_urls'] = manager.list()
     shared_data['extra_urls'].append(set())
     shared_data['rental_listing_urls'] = manager.list()
-    shared_data['rental_listing_urls'].append(set())
+    shared_data['rental_listing_urls'].append(set())    
     shared_progress = manager.dict()    
-    shared_progress['completed'] = 0        
+    shared_progress['completed'] = 0
+    multiprocessing_lock = None    
+    address_erroneous_files = False
     
+    if skip:
+        multiprocessing_lock = manager.Lock()
+        address_erroneous_files = True
+        # Landing dir files for this are those from all_erroneous_files.txt file in the auhouseprices_raw_dir
+        with open(os.path.join(auhouseprices_raw_dir, 'all_erroneous_files.txt'), 'r') as f:
+            landing_dir_files = f.read().splitlines()
+    else:
+        asyncio.run(main(shared_data))
+        landing_dir_files = [file for file in os.listdir(auhouseprices_landing_dir) if file.endswith(".html")]
     
-    asyncio.run(main(shared_data))
-
-    landing_dir_files = [file for file in os.listdir(auhouseprices_landing_dir) if file.endswith(".html")]
     shared_progress['total'] = len(landing_dir_files)
     partitions = np.array_split(np.array(landing_dir_files, dtype=StringDType()), 8)
     
@@ -472,14 +623,14 @@ if __name__ == "__main__":
     
     pool = Pool(processes=8)  
 
-    pool.map(parse_listings_wrapper, [(partitions[partition_idx], partition_idx, shared_data, shared_progress) for partition_idx in range(len(partitions))])
-
-    pool.close()
-    pool.join()
+    pool.map(parse_listings_wrapper, 
+        [(partitions[partition_idx], partition_idx, shared_data, shared_progress, address_erroneous_files, multiprocessing_lock) for partition_idx in range(len(partitions))])
     
-    # Now it's safe to terminate the Manager
-    manager.shutdown()
-
-    progress_process.terminate()
-
+    pool.close()    
+    pool.join() 
+  
+    print(f"\nTotal number of listings parsed: {shared_data['num_parsed']}")
+    progress_process.terminate()  
     
+    
+    manager.shutdown()    
