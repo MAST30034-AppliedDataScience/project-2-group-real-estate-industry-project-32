@@ -1,0 +1,353 @@
+,suburb,v_high_vcaa,high_vcaa,good_vcaa,num_primary,num_secondary_public,num_secondary_private,num_secondary_catholic,num_edu_centre
+0,aberfeldie,0,0,1,1,0,0,1,0
+1,albert park,0,0,1,2,1,0,0,0
+2,alexandra,0,0,0,2,1,0,0,0
+3,alphington,1,0,0,3,0,1,0,0
+4,altona,0,0,1,3,1,0,1,0
+5,altona north,0,0,1,2,0,0,1,0
+6,apollo bay,0,1,0,1,1,0,0,0
+7,ararat,0,0,1,4,1,0,1,0
+8,armadale,2,0,0,3,0,2,0,0
+9,armstrong creek,0,0,2,3,1,1,0,0
+10,ashwood,0,1,0,1,1,0,0,2
+11,bacchus marsh,0,1,0,4,1,1,0,0
+12,bairnsdale,0,0,0,5,1,1,1,1
+13,ballarat,1,0,2,7,0,1,2,0
+14,ballarat east,0,0,1,3,1,0,0,0
+15,balmoral,0,0,0,1,1,0,0,0
+16,balwyn,1,0,0,2,0,1,0,2
+17,balwyn north,1,0,0,6,1,0,0,0
+18,bangholme,0,0,0,1,0,1,0,0
+19,bannockburn,0,0,0,2,1,0,0,0
+20,bayswater,0,0,0,4,1,0,0,0
+21,beaconsfield,0,0,0,1,0,0,1,0
+22,beaufort,0,0,0,1,1,0,0,0
+23,beaumaris,0,0,1,3,1,0,0,0
+24,beechworth,0,0,0,3,1,0,0,0
+25,belgrave,0,0,1,1,0,0,1,0
+26,belgrave heights,0,0,0,1,0,1,0,0
+27,bell post hill,0,1,0,3,0,2,0,0
+28,belmont,0,0,0,5,1,0,0,1
+29,benalla,0,0,0,3,1,1,1,1
+30,bendigo,1,0,0,7,3,2,1,2
+31,bentleigh,0,1,0,3,0,0,1,0
+32,bentleigh east,0,0,1,4,1,0,0,0
+33,berwick,2,0,3,9,4,1,0,0
+34,birchip,0,0,0,1,1,0,0,0
+35,blackburn,0,0,1,4,1,0,0,0
+36,boort,0,0,0,1,1,0,0,0
+37,boronia,0,0,0,5,1,0,0,0
+38,box hill,0,0,3,2,1,1,1,0
+39,braybrook,1,0,1,2,1,0,1,1
+40,bright,0,0,1,1,1,0,0,0
+41,brighton,2,1,0,7,0,2,1,0
+42,brighton east,1,1,0,3,1,1,0,0
+43,broadford,0,0,0,1,1,0,0,0
+44,broadmeadows,0,1,2,6,1,2,1,2
+45,brookfield,0,0,0,1,0,1,0,0
+46,brunswick,0,0,1,0,2,0,0,0
+47,bulleen,0,0,1,1,0,0,1,1
+48,bundoora,0,1,1,4,1,1,1,1
+49,burwood,2,0,0,3,0,2,0,0
+50,burwood east,0,0,0,2,1,0,0,1
+51,cairnlea,0,0,1,1,1,0,0,0
+52,camberwell,1,0,0,2,0,0,1,0
+53,camperdown,0,0,0,2,1,0,1,0
+54,cann river,0,0,0,1,1,0,0,0
+55,canterbury,3,1,1,4,2,3,0,0
+56,caroline springs,0,0,1,6,3,1,1,0
+57,carrum,0,0,0,1,0,0,0,0
+58,carrum downs,0,0,0,3,1,0,0,0
+59,casterton,0,0,1,2,1,0,0,0
+60,castlemaine,0,0,0,4,1,0,0,0
+61,caulfield east,0,0,1,0,1,0,0,0
+62,caulfield north,1,0,0,1,1,0,0,0
+63,chadstone,0,1,0,1,0,0,1,0
+64,charlemont,0,0,0,0,0,0,1,0
+65,charlton,0,0,1,2,1,0,0,0
+66,cheltenham,0,0,0,5,1,0,0,0
+67,chirnside park,1,0,0,2,0,1,0,0
+68,churchill,0,0,0,3,0,0,0,0
+69,clarinda,0,0,1,2,0,1,0,0
+70,clayton,1,0,0,2,1,0,0,1
+71,clayton south,0,0,0,4,1,0,0,0
+72,clyde north,0,0,0,5,0,1,0,0
+73,cobden,0,0,0,1,1,0,0,1
+74,cobram,0,0,1,3,1,1,0,1
+75,coburg,0,0,0,6,1,1,1,1
+76,cohuna,0,0,0,2,1,0,0,0
+77,colac,0,0,0,4,1,0,1,1
+78,coolaroo,0,1,0,2,0,1,0,0
+79,corio,0,1,0,3,1,1,0,0
+80,corryong,1,0,0,2,1,0,0,0
+81,craigieburn,0,0,0,8,3,0,0,1
+82,cranbourne,0,0,3,8,2,1,1,0
+83,cranbourne east,0,0,1,4,1,1,0,1
+84,cranbourne north,0,0,1,2,1,0,0,0
+85,croydon,0,0,0,5,2,0,0,0
+86,croydon hills,0,1,0,2,0,1,0,0
+87,dallas,0,0,0,3,0,0,0,0
+88,dandenong,0,0,0,6,1,0,1,1
+89,dandenong north,0,0,0,4,1,0,0,0
+90,daylesford,0,0,0,3,1,0,0,0
+91,delahey,0,0,0,1,1,0,0,0
+92,derrinallum,0,0,0,1,1,0,0,0
+93,diamond creek,0,0,0,3,1,0,0,0
+94,dimboola,0,0,0,2,1,0,0,0
+95,dingee,0,0,1,1,1,0,0,0
+96,donald,0,0,1,2,1,0,0,0
+97,doncaster,0,0,1,3,1,0,0,0
+98,doncaster east,1,0,0,5,1,0,0,0
+99,donvale,0,1,1,3,0,1,1,1
+100,doreen,0,0,1,6,1,1,0,0
+101,dromana,0,0,1,1,1,0,0,1
+102,drouin,0,0,1,3,1,1,0,0
+103,drysdale,0,0,1,2,1,0,0,0
+104,eaglehawk,0,0,0,3,1,0,0,0
+105,east geelong,0,0,0,0,1,0,0,0
+106,echuca,0,0,0,5,1,1,1,1
+107,edenhope,0,0,0,2,1,0,0,0
+108,elsternwick,1,0,0,4,0,2,0,0
+109,eltham,0,0,2,3,1,0,1,0
+110,elwood,0,0,1,3,1,1,0,0
+111,emerald,0,0,0,2,1,0,0,0
+112,endeavour hills,0,0,1,8,1,1,0,1
+113,epping,0,0,1,6,2,1,1,0
+114,essendon,1,0,3,5,1,1,2,0
+115,euroa,0,0,0,2,1,0,0,0
+116,fawkner,0,1,0,3,1,0,0,0
+117,ferntree gully,0,0,1,7,0,2,1,1
+118,fitzroy,0,1,0,2,0,0,1,0
+119,fitzroy north,0,0,1,3,1,0,0,0
+120,flemington,0,0,1,3,1,0,0,0
+121,footscray,0,0,0,5,1,0,0,0
+122,foster,0,0,1,1,1,0,0,0
+123,frankston,0,0,2,9,2,0,1,3
+124,frankston north,0,0,0,2,1,0,0,0
+125,frankston south,0,0,0,2,1,0,0,0
+126,fraser rise,0,0,0,0,1,0,0,0
+127,geelong,0,0,0,1,1,0,0,0
+128,gisborne,0,0,0,3,1,0,0,0
+129,gladstone park,0,0,0,3,1,0,0,0
+130,glen iris,2,0,0,6,0,1,1,0
+131,glen waverley,0,1,3,8,3,0,0,2
+132,glenroy,0,0,0,5,1,1,0,1
+133,goroke,0,0,0,1,1,0,0,0
+134,greensborough,0,0,0,5,1,0,0,1
+135,greenvale,0,0,1,5,1,1,0,0
+136,grovedale,0,0,0,4,1,0,0,0
+137,hallam,0,0,0,1,1,0,0,0
+138,hamilton,0,0,1,6,1,2,1,1
+139,hamlyn heights,0,0,0,2,1,0,0,1
+140,hampton park,0,0,0,5,1,0,0,0
+141,hastings,0,0,0,3,1,0,0,0
+142,hawkesdale,0,0,0,1,1,0,0,0
+143,hawthorn,2,0,0,6,1,2,0,1
+144,hawthorn east,0,0,1,2,1,2,0,0
+145,healesville,0,0,0,3,1,0,0,1
+146,heathmont,0,0,0,3,1,0,0,0
+147,heidelberg,0,0,1,2,0,0,1,1
+148,herne hill,0,0,1,0,0,0,1,0
+149,heywood,0,0,0,1,1,0,0,0
+150,hopetoun,0,0,0,2,1,0,0,0
+151,hoppers crossing,0,0,0,7,3,0,0,1
+152,horsham,0,0,1,4,1,1,1,1
+153,hughesdale,0,0,1,1,0,0,1,0
+154,irymple,0,0,0,4,1,2,0,0
+155,ivanhoe,1,1,0,4,0,2,0,0
+156,kangaroo flat,0,0,0,2,1,0,0,1
+157,kaniva,0,0,0,1,1,0,0,0
+158,keilor,0,0,1,3,0,1,0,0
+159,keilor downs,0,0,1,3,1,0,0,0
+160,keilor east,1,0,0,3,1,1,0,0
+161,keilor north,0,0,0,0,0,0,1,0
+162,kensington,0,0,0,2,1,0,0,0
+163,kerang,0,0,1,4,1,1,0,0
+164,kew,5,1,0,9,0,5,2,2
+165,kew east,0,0,1,2,1,0,0,0
+166,keysborough,2,0,1,6,0,3,0,0
+167,kialla,0,0,0,2,0,0,1,0
+168,kilmore,0,0,0,2,0,0,1,0
+169,knoxfield,0,0,0,2,1,0,0,0
+170,koo wee rup,0,0,0,2,1,0,0,0
+171,korumburra,0,0,0,2,1,0,0,0
+172,kyabram,0,0,0,2,1,0,1,0
+173,kyneton,0,0,0,2,1,0,1,0
+174,lakes entrance,0,0,0,2,1,0,0,0
+175,lalor,0,0,0,4,2,0,0,1
+176,langwarrin,0,0,1,4,1,0,0,0
+177,langwarrin south,0,0,2,2,0,2,0,0
+178,lara,0,0,0,2,1,0,0,0
+179,lavers hill,0,0,0,1,1,0,0,0
+180,laverton,0,0,0,2,1,0,0,2
+181,leneva,0,0,0,1,0,1,0,0
+182,leongatha,0,0,2,2,1,0,1,1
+183,lilydale,0,0,0,4,2,1,1,1
+184,lorne,0,0,1,1,1,0,0,0
+185,lovely banks,0,0,0,1,0,1,0,0
+186,macedon,0,1,0,2,0,1,0,0
+187,macleod,0,0,0,1,1,0,0,0
+188,macleod west,0,0,0,1,1,0,0,0
+189,maffra,0,0,0,2,1,0,0,0
+190,maiden gully,0,0,0,2,0,0,1,0
+191,mallacoota,1,0,0,1,1,0,0,0
+192,malvern,0,0,1,3,0,0,1,0
+193,mansfield,0,0,1,3,1,1,0,1
+194,maribyrnong,0,0,1,1,1,0,0,0
+195,maryborough,0,0,0,2,1,1,0,0
+196,mckinnon,1,0,0,0,1,0,0,0
+197,melbourne,2,0,2,2,1,5,0,2
+198,melton,0,0,0,4,1,2,1,1
+199,melton south,0,0,1,4,1,1,0,0
+200,melton west,0,0,1,4,0,1,0,0
+201,mentone,2,1,2,5,1,2,2,0
+202,merbein,0,0,0,2,1,0,0,0
+203,mernda,1,0,0,4,1,0,0,0
+204,mickleham,0,0,1,4,1,1,0,0
+205,mildura,0,0,1,6,2,1,1,1
+206,mirboo north,0,0,0,1,1,0,0,0
+207,mitcham,0,0,1,4,1,0,0,0
+208,monbulk,0,0,1,2,1,0,0,0
+209,mont albert north,0,0,1,0,2,0,0,0
+210,montmorency,0,0,1,3,1,0,0,0
+211,moorabbin,0,0,0,3,0,0,0,2
+212,mooroolbark,0,1,0,8,2,2,0,0
+213,mordialloc,0,0,2,2,2,0,0,0
+214,mornington,0,0,0,4,1,0,1,1
+215,mortlake,0,0,0,2,1,0,0,0
+216,mount beauty,0,0,0,1,1,0,0,0
+217,mount clear,0,0,0,2,1,0,1,0
+218,mount eliza,1,1,0,4,1,0,0,0
+219,mount evelyn,0,0,0,4,0,1,0,1
+220,mount martha,0,0,1,2,0,0,0,0
+221,mount waverley,1,0,2,7,1,0,1,0
+222,mulgrave,0,1,1,3,1,0,1,0
+223,murrayville,0,0,0,1,1,0,0,0
+224,murtoa,0,0,1,2,1,0,0,0
+225,myrtleford,0,0,1,2,1,0,1,0
+226,nar nar goon,0,0,0,2,0,0,0,0
+227,narre warren,0,0,0,5,1,0,0,2
+228,narre warren south,0,0,1,5,1,1,0,0
+229,nathalia,0,0,0,2,1,0,1,0
+230,neerim south,0,0,0,1,1,0,0,0
+231,newborough,0,0,0,3,1,0,0,0
+232,newcomb,0,0,1,2,1,0,0,0
+233,newport,0,0,0,3,0,0,0,0
+234,newtown,0,2,1,5,0,1,2,0
+235,nhill,0,0,0,3,1,0,0,0
+236,niddrie,0,0,0,2,1,0,0,1
+237,noble park,0,0,0,6,2,0,0,0
+238,noble park north,0,0,0,1,0,0,1,0
+239,north geelong,0,0,0,0,1,0,0,0
+240,north melbourne,0,0,1,2,0,0,1,2
+241,northcote,0,0,2,3,1,0,1,1
+242,numurkah,0,0,0,2,1,0,0,0
+243,nunawading,0,0,1,2,0,1,0,0
+244,oakleigh,0,0,1,3,0,1,0,0
+245,oakleigh south,0,0,0,2,1,0,0,0
+246,officer,0,1,0,6,1,0,0,1
+247,orbost,0,0,0,3,1,0,0,0
+248,ormond,2,0,0,4,0,2,0,0
+249,ouyen,1,0,0,1,1,0,0,0
+250,pakenham,0,0,1,9,2,2,0,0
+251,parkville,0,1,0,0,1,0,0,2
+252,pascoe vale,0,0,0,4,1,0,0,0
+253,pascoe vale south,0,0,0,2,0,0,1,0
+254,point cook,0,0,0,8,7,0,0,0
+255,portland,0,0,1,5,1,1,0,1
+256,preston,1,0,0,7,2,1,0,1
+257,preston east,0,0,0,1,0,0,0,0
+258,princes hill,0,0,1,0,1,0,0,0
+259,pyramid hill,0,0,0,2,1,0,0,0
+260,rainbow,0,0,0,1,1,0,0,0
+261,red cliffs,0,0,0,3,1,0,0,0
+262,research,0,1,0,2,0,1,0,0
+263,reservoir,0,0,0,7,2,0,0,2
+264,rhyll,0,0,1,1,0,1,0,0
+265,richmond,0,1,1,4,3,0,1,1
+266,ringwood,1,0,2,4,2,1,1,0
+267,ringwood east,1,0,0,3,0,1,0,0
+268,robinvale,0,0,0,2,1,0,1,0
+269,rochester,0,0,0,2,1,0,0,0
+270,rosebud,0,0,0,2,1,0,0,1
+271,rowville,0,0,0,5,1,0,0,0
+272,roxburgh park,0,0,0,4,1,0,0,0
+273,rushworth,0,0,0,2,1,0,0,0
+274,rutherglen,0,0,0,2,1,0,0,0
+275,ryanston,0,0,0,0,0,1,0,0
+276,sale,0,0,2,6,1,1,1,1
+277,sandringham,0,0,1,3,1,0,0,0
+278,sassafras,0,0,0,2,1,0,0,0
+279,scoresby,0,0,0,2,1,0,0,0
+280,sea lake,0,0,0,2,1,0,0,0
+281,sebastopol,0,0,0,4,1,1,0,0
+282,seymour,0,0,0,2,1,0,1,0
+283,shepparton,1,0,1,8,1,3,1,1
+284,somerville,0,0,0,3,1,0,0,0
+285,south melbourne,0,0,0,1,0,1,0,1
+286,south morang,0,0,0,3,1,1,1,0
+287,south yarra,2,0,0,3,2,1,0,1
+288,southbank,0,1,0,1,1,0,0,0
+289,springvale,0,0,1,5,0,1,1,1
+290,springvale south,0,0,0,3,1,0,0,0
+291,st albans,0,0,1,9,1,0,1,1
+292,st arnaud,0,0,0,2,1,0,0,0
+293,st kilda,1,0,0,4,0,2,0,0
+294,st kilda east,3,0,1,5,0,3,1,0
+295,stawell,0,0,0,3,1,0,0,1
+296,strathdale,0,0,0,1,0,1,0,0
+297,strathmore,0,0,1,3,1,0,0,0
+298,sunbury,0,0,1,10,2,1,1,1
+299,sunshine west,0,0,2,3,1,0,1,0
+300,swan hill,0,0,1,4,1,0,1,1
+301,swifts creek,0,0,0,1,1,0,0,0
+302,sydenham,0,0,0,2,0,0,1,0
+303,tallangatta,0,0,0,2,1,0,0,0
+304,tarneit,0,0,2,9,2,2,1,0
+305,taylors hill,0,0,0,2,0,1,0,0
+306,taylors lakes,0,0,0,1,1,0,0,0
+307,templestowe lower,0,0,0,2,1,0,0,0
+308,terang,0,0,1,2,1,0,0,0
+309,thomastown,0,0,0,5,1,0,0,0
+310,thornbury,0,0,1,6,3,0,0,0
+311,timboon,0,0,0,1,1,0,0,0
+312,toorak,3,0,0,4,0,1,2,0
+313,torquay,0,0,0,3,1,0,0,0
+314,trafalgar,0,0,1,2,1,0,0,0
+315,traralgon,0,0,1,5,1,0,1,1
+316,truganina,0,1,0,6,2,2,0,0
+317,tyabb,0,0,0,3,0,1,0,0
+318,tynong,0,0,0,1,0,1,0,0
+319,upwey,0,0,0,2,1,0,0,0
+320,vermont,0,0,1,3,1,0,0,0
+321,vermont south,0,0,1,3,0,0,1,1
+322,viewbank,0,0,1,1,1,0,0,0
+323,wallan,0,0,0,1,1,0,0,0
+324,wangaratta,0,0,0,8,1,1,1,2
+325,wantirna,0,0,0,4,1,0,0,0
+326,wantirna south,0,2,1,6,0,3,0,1
+327,warracknabeal,0,0,1,2,1,0,0,1
+328,warragul,0,0,1,5,1,1,1,2
+329,warrandyte,0,0,0,2,1,0,0,0
+330,warranwood,0,0,1,2,0,1,0,0
+331,warrnambool,0,0,2,6,2,1,1,1
+332,watsonia,0,0,0,1,0,0,1,0
+333,wedderburn,0,0,0,1,1,0,0,0
+334,wendouree,0,0,1,5,2,1,0,0
+335,werribee,1,0,3,11,3,1,1,0
+336,west melbourne,0,0,0,0,0,0,1,0
+337,west wodonga,0,0,0,1,0,0,0,1
+338,wheelers hill,1,0,0,6,1,0,0,1
+339,whittlesea,0,0,0,2,1,0,0,0
+340,williamstown,0,1,0,5,2,0,0,0
+341,windsor,0,1,0,1,1,0,0,0
+342,wodonga,0,0,0,6,2,1,1,1
+343,wollert,0,0,0,4,2,0,0,0
+344,wonthaggi,0,0,0,3,1,0,0,1
+345,woodend,0,0,1,3,0,1,0,0
+346,wycheproof,0,0,1,1,1,0,0,0
+347,wyndham vale,0,0,0,4,1,0,0,0
+348,yarra junction,0,0,1,3,1,1,0,0
+349,yarram,0,0,0,2,1,0,0,0
+350,yarrawonga,0,0,0,2,1,0,1,0
+351,yea,0,0,0,2,1,0,0,0
