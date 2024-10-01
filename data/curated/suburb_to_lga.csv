@@ -1,6 +1,2953 @@
 ,suburb,lga
 0,allambee,baw baw
 1,ardmona,greater shepparton
-2,arnold vic,loddon
-3,barkly vic,pyrenees
+2,arnold,loddon
+3,barkly,pyrenees
 4,baxter,mornington peninsula
+5,beauchamp,gannawarra swan hill
+6,bellarine,greater geelong
+7,blackburn,whitehorse
+8,bochara,southern grampians
+9,boho south,benalla strathbogie
+10,boomahnoomoonah,moira
+11,broadmeadows,hume
+12,buln buln,baw baw
+13,buln buln east,baw baw
+14,burkes flat,loddon
+15,california gully,greater bendigo
+16,ceres,greater geelong
+17,clayton south,kingston
+18,delacombe,ballarat
+19,deptford,east gippsland
+20,devils river,murrindindi
+21,diamond creek,nillumbik
+22,dingee,loddon
+23,doctors flat,east gippsland
+24,dunach,central goldfields hepburn
+25,east bairnsdale,east gippsland
+26,elmhurst,ararat pyrenees
+27,flowerdale,mitchell murrindindi
+28,geelong west,greater geelong
+29,glenalbyn,loddon
+30,glenisla,southern grampians
+31,goroke,west wimmera
+32,hallston,south gippsland
+33,hattah,mildura
+34,heathcote south,mitchell
+35,hedley,south gippsland wellington
+36,hernes oak,latrobe
+37,homewood,murrindindi
+38,howqua,mansfield
+39,irrewillipe east,colac otway
+40,ivanhoe,banyule
+41,jan juc,surf coast
+42,kennington,greater bendigo
+43,kevington,mansfield
+44,kiata,hindmarsh
+45,kinglake central,murrindindi
+46,kotupna,moira
+47,kunat,swan hill
+48,little river,greater geelong wyndham
+49,lower plenty,banyule
+50,lynbrook,casey
+51,maindample,mansfield
+52,maribyrnong,maribyrnong
+53,mckinnon,glen eira
+54,meadow creek,wangaratta
+55,miowera,wellington
+56,moe,baw baw latrobe
+57,moggs creek,surf coast
+58,monbulk,yarra ranges
+59,mont albert north,whitehorse
+60,montmorency,banyule
+61,murchison,greater shepparton
+62,myrtle creek,greater bendigo mount alexander
+63,nanneella,campaspe
+64,newington,ballarat
+65,pascoe vale south,moreland
+66,patterson lakes,kingston
+67,pitfield,golden plains
+68,purdeet,moyne
+69,reedy flat,east gippsland
+70,roslynmead,campaspe
+71,sawmill settlement,mansfield
+72,smiths beach,bass coast
+73,smiths gully,nillumbik
+74,somerton,hume
+75,stavely,ararat
+76,stockdale,wellington
+77,surrey hills,boroondara whitehorse
+78,swanpool,benalla
+79,tallarook,mitchell
+80,teesdale,golden plains
+81,the sisters,moyne
+82,tower hill,moyne
+83,trafalgar south,baw baw
+84,upper lurg,benalla
+85,wal wal,northern grampians
+86,walpa,east gippsland
+87,wandella,gannawarra
+88,wangoom,moyne
+89,waterways,kingston
+90,waurn ponds,greater geelong
+91,westmere,ararat
+92,wheelers hill,monash
+93,wickliffe,ararat
+94,willatook,moyne
+95,winchelsea south,surf coast
+96,windsor,melbourne port phillip stonnington
+97,wonga park,manningham maroondah nillumbik yarra ranges
+98,woodhouse,southern grampians
+99,woorndoo,ararat moyne
+100,wroxham,east gippsland
+101,wyuna,campaspe
+102,yeungroon,buloke
+103,yuulong,colac otway
+104,jingellic,greater hume shire snowy valleys towong
+105,altona meadows,hobsons bay
+106,appin south,gannawarra loddon
+107,ballarat central,ballarat
+108,barrys reef,moorabool
+109,batesford,golden plains greater geelong
+110,beaumaris,bayside
+111,bellbrae,surf coast
+112,bend of islands,nillumbik
+113,bete bolong north,east gippsland
+114,blowhard,ballarat
+115,bonn,campaspe
+116,boorhaman north,wangaratta
+117,brumby,east gippsland
+118,brunswick,moreland
+119,brunswick west,moreland
+120,buangor,ararat pyrenees
+121,buffalo river,alpine
+122,bundalaguah,wellington
+123,burramboot,campaspe
+124,bylands,macedon ranges mitchell
+125,calulu,east gippsland
+126,cape woolamai,bass coast
+127,carag carag,campaspe
+128,chiltern,indigo
+129,cocoroc,wyndham
+130,collingwood,yarra
+131,corunnun,colac otway
+132,culgoa,buloke
+133,darraweit guim,macedon ranges
+134,dawson,wellington
+135,ellinbank,baw baw
+136,elsternwick,glen eira
+137,eltham north,banyule nillumbik
+138,epping,whittlesea
+139,epsom,greater bendigo
+140,euroa,strathbogie
+141,ferndale,baw baw
+142,garfield,cardinia
+143,glen forbes,bass coast
+144,glen waverley,monash
+145,gower,mount alexander
+146,gredgwin,gannawarra loddon
+147,greenwald,glenelg
+148,hillcrest,pyrenees
+149,humevale,whittlesea
+150,jeetho,south gippsland
+151,junction village,casey
+152,keely,gannawarra
+153,kerang east,gannawarra
+154,killingworth,murrindindi
+155,koroit,moyne
+156,korweinguboora,hepburn moorabool
+157,kotta,campaspe
+158,koyuga,campaspe
+159,kurting,loddon
+160,langley,mount alexander
+161,licola,wellington
+162,lysterfield south,casey
+163,macedon,macedon ranges
+164,macs cove,mansfield
+165,main ridge,mornington peninsula
+166,manorina,east gippsland
+167,marnoo west,northern grampians
+168,merton,mansfield murrindindi strathbogie
+169,moonambel,pyrenees
+170,moorngag,benalla
+171,morton plains,buloke
+172,mount cottrell,melton wyndham
+173,mount eccles,south gippsland
+174,mount hooghly,central goldfields
+175,myall buloke ,buloke
+176,neuarpurr,west wimmera
+177,newlands arm,east gippsland
+178,newmerella,east gippsland
+179,oaklands junction,hume
+180,ocean grange,east gippsland wellington
+181,osbornes flat,indigo
+182,parkville,melbourne moonee valley moreland
+183,pigeon ponds,southern grampians
+184,pine grove,campaspe
+185,queenscliff,queenscliffe
+186,rich avon,buloke
+187,rich avon west,northern grampians
+188,robertsons beach,wellington
+189,russells bridge,golden plains
+190,rythdale,cardinia
+191,serpentine,loddon
+192,sherbrooke,yarra ranges
+193,st kilda west,port phillip
+194,tahara,glenelg southern grampians
+195,tallygaroopna,greater shepparton
+196,taminick,benalla
+197,tamleugh north,greater shepparton
+198,tanjil south,baw baw latrobe
+199,tarrawingee,wangaratta
+200,tawonga,alpine
+201,taylor bay,murrindindi
+202,the patch,yarra ranges
+203,timboon,corangamite
+204,tinamba west,wellington
+205,toolleen,campaspe greater bendigo
+206,toolome,wellington
+207,toolong,moyne
+208,travancore,moonee valley
+209,vinifera,swan hill
+210,westbury,baw baw
+211,whipstick,greater bendigo
+212,whittington,greater geelong
+213,wombelano,west wimmera
+214,wonwondah,horsham
+215,woodstock on loddon,loddon
+216,wooragee,indigo
+217,wychitella,loddon
+218,wyuna east,campaspe
+219,youarang,moira
+220,glenburnie,glenelg grant mount gambier
+221,kyalite,balranald murray river swan hill
+222,aireys inlet,surf coast
+223,airport west,moonee valley
+224,ayrford,corangamite moyne
+225,bamawm extension,campaspe
+226,baromi,south gippsland
+227,barwon heads,greater geelong
+228,benalla,benalla
+229,birchip west,buloke
+230,bittern,mornington peninsula unincorporated vic
+231,blackwarry,wellington
+232,bolwarra,glenelg
+233,boort,loddon
+234,braybrook,maribyrnong
+235,bright,alpine
+236,bulla,hume
+237,cabbage tree creek,east gippsland
+238,campbells creek,mount alexander
+239,canary island,loddon
+240,carapook,glenelg southern grampians
+241,caroline springs,melton
+242,carrum downs,frankston
+243,churchill,latrobe
+244,cockatoo,cardinia
+245,cora lynn,cardinia
+246,cowleys creek,corangamite
+247,derrinal,greater bendigo
+248,east wangaratta,wangaratta
+249,east warburton,yarra ranges
+250,ferntree gully,knox
+251,flinders,mornington peninsula
+252,gannawarra,gannawarra
+253,gerangamete,colac otway
+254,girgarre east,greater shepparton
+255,gorae,glenelg
+256,hampton,bayside
+257,huon,indigo towong wodonga
+258,huon creek,wodonga
+259,hurstbridge,nillumbik
+260,iraak,mildura
+261,jarklin,loddon
+262,kangaroo flat,greater bendigo
+263,kardella,south gippsland
+264,kiewa,indigo
+265,laceby,wangaratta
+266,lake tyrrell,buloke
+267,lake wellington,wellington
+268,lalbert,gannawarra
+269,larpent,colac otway
+270,lavers hill,colac otway
+271,limestone,murrindindi
+272,linton,golden plains pyrenees
+273,loy yang,latrobe
+274,lyonville,hepburn
+275,macarthur,moyne
+276,maffra west upper,wellington
+277,manangatang,swan hill
+278,merrinee,mildura
+279,mininera,ararat
+280,mittyack,mildura
+281,molesworth,murrindindi
+282,molyullah,benalla
+283,mooroopna north west,greater shepparton
+284,moriac,surf coast
+285,mount napier,southern grampians
+286,myrrhee,wangaratta
+287,nar nar goon north,cardinia
+288,nungurner,east gippsland
+289,parkdale,kingston
+290,peronne,west wimmera
+291,plenty,nillumbik
+292,portarlington,greater geelong
+293,portsea,mornington peninsula
+294,ravenswood south,mount alexander
+295,rowsley,moorabool
+296,scotts creek,corangamite
+297,seaview,baw baw
+298,sheans creek,strathbogie
+299,skenes creek,colac otway
+300,strathdownie,glenelg
+301,sutherlands creek,golden plains
+302,sutton,buloke
+303,swanwater west,northern grampians
+304,tangambalanga,indigo
+305,tawonga south,alpine
+306,thornhill park,melton
+307,tongio,east gippsland
+308,toorloo arm,east gippsland
+309,tottenham,maribyrnong
+310,tourello,ballarat
+311,tyrrell,buloke swan hill
+312,vaughan,mount alexander
+313,waldara,wangaratta
+314,wallace,moorabool
+315,warne,buloke
+316,warrayure,southern grampians
+317,waterford park,mitchell
+318,wildwood,hume
+319,wurdiboluc,surf coast
+320,yando,loddon
+321,yellingbo,yarra ranges
+322,yulecart,southern grampians
+323,table top,albury greater hume shire towong
+324,allansford,moyne warrnambool
+325,anakie,golden plains greater geelong
+326,areegra,yarriambiack
+327,auchmore,loddon
+328,bailieston,strathbogie
+329,ballendella,campaspe
+330,baw baw,baw baw
+331,bayles,cardinia
+332,bearii,moira
+333,belgrave,yarra ranges
+334,bindi,east gippsland
+335,bruarong,indigo
+336,buchan,east gippsland
+337,bunding,moorabool
+338,bundoora,banyule darebin nillumbik whittlesea
+339,bungeet west,benalla
+340,campbellfield,hume
+341,carlyle,indigo
+342,carnegie,glen eira
+343,casterton,glenelg
+344,chirrip,buloke
+345,coburg north,moreland
+346,colbrook,moorabool
+347,crib point,mornington peninsula
+348,croxton east,southern grampians
+349,dumosa,buloke
+350,eltham,banyule manningham nillumbik
+351,englefield,southern grampians
+352,erica,baw baw
+353,everton upper,wangaratta
+354,fawkner,darebin hume moreland whittlesea
+355,fern hill,hepburn macedon ranges
+356,fernihurst,loddon
+357,flynns creek,latrobe
+358,giffard,wellington
+359,glenfyne,corangamite
+360,glenormiston south,corangamite
+361,glenthompson,ararat moyne southern grampians
+362,goldie,macedon ranges
+363,granite rock,east gippsland
+364,gre gre north,northern grampians
+365,grenville,golden plains moorabool
+366,hamlyn heights,greater geelong
+367,hazelwood south,latrobe
+368,hillside melton ,brimbank melton
+369,howes creek,mansfield
+370,ironbark,greater bendigo
+371,irymple,mildura
+372,kalkallo,hume
+373,karyrie,buloke
+374,killara glenelg ,glenelg
+375,kirwans bridge,strathbogie
+376,kurunjang,melton
+377,kyabram,campaspe greater shepparton
+378,laang,moyne
+379,laverton north,wyndham
+380,learmonth,ballarat
+381,lemnos,greater shepparton
+382,lindenow,east gippsland
+383,lyons,glenelg
+384,macleod,banyule darebin
+385,manor lakes,wyndham
+386,marlo,east gippsland
+387,marraweeney,strathbogie
+388,melville forest,southern grampians
+389,mepunga west,moyne
+390,merrijig east gippsland ,east gippsland
+391,minhamite,moyne
+392,minjah,moyne
+393,minyip,yarriambiack
+394,mirimbah,mansfield
+395,mirranatwa,southern grampians
+396,modewarre,surf coast
+397,molka,strathbogie
+398,mount dryden,northern grampians
+399,narraport,buloke
+400,netherby,hindmarsh
+401,nicholson,east gippsland
+402,nowhere creek,pyrenees
+403,orrvale,greater shepparton
+404,polisbet,swan hill
+405,prahran,stonnington
+406,rhyll,bass coast
+407,riachella,northern grampians
+408,rosanna,banyule
+409,somers,mornington peninsula
+410,stonyford,colac otway corangamite
+411,strathmore,moonee valley
+412,thoona,benalla
+413,tonghi creek,east gippsland
+414,torwood,baw baw
+415,tostaree,east gippsland
+416,vermont,knox maroondah whitehorse
+417,vesper,baw baw
+418,warragul west,baw baw
+419,warrenbayne,benalla
+420,wattle bank,bass coast
+421,woodvale,greater bendigo
+422,woorarra east,south gippsland
+423,yabba south,moira
+424,yarpturk,moyne
+425,yarroweyah,moira
+426,ada,baw baw
+427,aire valley,colac otway
+428,albion,brimbank
+429,allans flat,indigo
+430,alvie,colac otway
+431,amor,baw baw
+432,archdale,central goldfields northern grampians
+433,baddaginnie,benalla strathbogie
+434,badger creek,yarra ranges
+435,balintore,colac otway
+436,balnarring,mornington peninsula
+437,barrabool,surf coast
+438,bellbridge,towong
+439,boigbeat,buloke
+440,brit brit,southern grampians
+441,budgerum east,gannawarra
+442,bullaharre,corangamite
+443,bundalong,moira
+444,bungaree,moorabool
+445,cabarita,mildura
+446,carranballac,pyrenees
+447,cassilis,east gippsland
+448,caulfield east,glen eira
+449,caveat,murrindindi
+450,cherokee,macedon ranges
+451,chewton,mount alexander
+452,cobberas,east gippsland
+453,coghills creek,ballarat
+454,cokum,buloke
+455,coonooer west,northern grampians
+456,cornishtown,indigo
+457,cullen,gannawarra
+458,dadswells bridge,horsham northern grampians
+459,drouin,baw baw
+460,edi,wangaratta
+461,emerald,cardinia yarra ranges
+462,emu,central goldfields loddon northern grampians
+463,fairhaven,surf coast
+464,forge creek,east gippsland
+465,fosterville,greater bendigo
+466,fumina,baw baw
+467,giffard west,wellington
+468,gisborne,macedon ranges
+469,glen creek,alpine
+470,glen huntly,glen eira
+471,glen park,ballarat moorabool
+472,glendonald,ballarat
+473,glengarry west,latrobe
+474,glenloth,buloke
+475,glenorchy,northern grampians
+476,gnotuk,corangamite
+477,golden point ballarat ,ballarat
+478,gong gong,ballarat
+479,gowangardie,greater shepparton
+480,hadfield,moreland
+481,hiawatha,wellington
+482,hoddles creek,yarra ranges
+483,howqua hills,mansfield
+484,howqua inlet,mansfield
+485,katamatite,moira
+486,katamatite east,moira
+487,knockwood,mansfield
+488,kulwin,mildura
+489,lake bolac,ararat
+490,landsborough,pyrenees
+491,leslie manor,corangamite
+492,litchfield,buloke
+493,longwarry,baw baw cardinia
+494,macks creek,wellington
+495,major plains,benalla greater shepparton
+496,meeniyan,south gippsland
+497,merbein west,mildura
+498,mollongghip,hepburn moorabool
+499,mooroolbark,yarra ranges
+500,mount beckworth,hepburn
+501,muckatah,moira
+502,mundoona,moira
+503,mywee,moira
+504,nalangil,colac otway
+505,newtown golden plains ,golden plains
+506,noorinbee north,east gippsland
+507,nullawarre north,moyne
+508,oakvale,gannawarra
+509,omeo,east gippsland
+510,paradise,northern grampians
+511,pearsondale,wellington
+512,pine lodge,greater shepparton
+513,pirron yallock,colac otway corangamite
+514,powers creek,west wimmera
+515,richmond,yarra
+516,ryanston,bass coast
+517,sheep hills,yarriambiack
+518,skipton,corangamite golden plains pyrenees
+519,slaty creek,northern grampians
+520,springvale,greater dandenong
+521,staceys bridge,wellington
+522,strathmerton,moira
+523,sunshine,brimbank
+524,tabor,southern grampians
+525,taradale,hepburn macedon ranges mount alexander
+526,tarwin,south gippsland
+527,tatyoon,ararat
+528,taylors hill,melton
+529,tesbury,corangamite
+530,towong,towong
+531,truganina,brimbank melton wyndham
+532,tyrendarra east,moyne
+533,victoria point,southern grampians
+534,violet town,benalla greater shepparton strathbogie
+535,waarre,corangamite
+536,wangaratta south,wangaratta
+537,wannon,southern grampians
+538,warrong,moyne
+539,wedderburn,loddon
+540,wemen,swan hill
+541,wendouree,ballarat
+542,werona,hepburn mount alexander
+543,werribee south,wyndham
+544,west bendigo,greater bendigo
+545,wodonga,wodonga
+546,wulgulmerang,east gippsland
+547,yelta,mildura
+548,anglesea,surf coast
+549,archdale junction,central goldfields northern grampians
+550,aubrey,yarriambiack
+551,bagshot north,greater bendigo
+552,barunah park,golden plains
+553,bendoc,east gippsland
+554,bolton,swan hill
+555,boorcan,corangamite
+556,boweya,benalla moira wangaratta
+557,bradvale,corangamite
+558,brighton east,bayside glen eira kingston
+559,buffalo,south gippsland
+560,caniambo,greater shepparton
+561,cann river,east gippsland
+562,capel sound,mornington peninsula
+563,caulfield,glen eira
+564,cheshunt south,wangaratta
+565,colac west,colac otway
+566,corio,greater geelong
+567,croydon north,maroondah
+568,dandenong south,greater dandenong
+569,deans marsh,surf coast
+570,dederang,alpine
+571,docker,wangaratta
+572,drouin east,baw baw
+573,dundonnell,moyne
+574,elwood,port phillip
+575,ercildoune,ballarat pyrenees
+576,fairley,gannawarra
+577,genoa,east gippsland
+578,goughs bay,mansfield
+579,gowanbrae,moreland
+580,homerton,glenelg
+581,jam jerrup,bass coast
+582,jarrahmond,east gippsland
+583,jumbuk,latrobe
+584,keilor east,brimbank moonee valley
+585,keilor north,brimbank
+586,kilmany,wellington
+587,konongwootong,southern grampians
+588,koondrook,gannawarra
+589,kyneton south,macedon ranges
+590,lake fyans,northern grampians
+591,lake powell,swan hill
+592,lauriston,macedon ranges
+593,lima east,benalla
+594,long forest,moorabool
+595,manifold heights,greater geelong
+596,maroona,ararat
+597,mepunga,moyne
+598,merino,glenelg
+599,mitchell park,ballarat
+600,mitre,horsham west wimmera
+601,mitta mitta,alpine east gippsland towong
+602,modella,baw baw cardinia
+603,morrisons,moorabool
+604,mount alfred,towong
+605,murrumbeena,glen eira
+606,nandaly,buloke
+607,nariel valley,east gippsland towong
+608,niddrie,moonee valley
+609,nilma,baw baw
+610,nyah west,swan hill
+611,ombersley,colac otway golden plains surf coast
+612,pakenham south,cardinia
+613,pental island,swan hill
+614,perry bridge,wellington
+615,plumpton,melton
+616,pound creek,bass coast south gippsland
+617,pyalong,mitchell
+618,ravenhall,melton
+619,raywood,greater bendigo loddon
+620,red hill,mornington peninsula
+621,rippleside,greater geelong
+622,rochester,campaspe
+623,rokewood,golden plains
+624,sailors hill,hepburn
+625,shelley,towong
+626,south purrumbete,corangamite
+627,st arnaud east,northern grampians
+628,stradbroke,wellington
+629,strathewen,nillumbik
+630,swan marsh,colac otway
+631,sydenham,brimbank
+632,tarraville,wellington
+633,tennyson,campaspe
+634,terrick terrick,loddon
+635,toolamba west,greater shepparton
+636,toorongo,baw baw yarra ranges
+637,trawool,mitchell
+638,traynors lagoon,northern grampians
+639,tuerong,mornington peninsula
+640,tungamah,moira
+641,tyabb,mornington peninsula
+642,tyntynder south,swan hill
+643,upotipotpon,strathbogie
+644,vasey,southern grampians
+645,w tree,east gippsland
+646,walhalla,baw baw wellington
+647,wallan,mitchell
+648,waratah bay,south gippsland
+649,warrabkook,moyne
+650,warrion,colac otway
+651,watchem,buloke
+652,watsons creek,nillumbik
+653,weeaproinah,colac otway
+654,westmeadows,hume
+655,willow grove,baw baw
+656,winnindoo,wellington
+657,wollert,whittlesea
+658,woodfield,mansfield
+659,woorinen,swan hill
+660,yandoit,hepburn
+661,yarraberb,loddon
+662,yarrambat,nillumbik
+663,yeo,colac otway
+664,nungatta,bega valley east gippsland snowy monaro regional
+665,acheron,murrindindi
+666,allambee south,south gippsland
+667,ascot vale,moonee valley
+668,axe creek,greater bendigo
+669,barfold,mount alexander
+670,bathumi,moira
+671,bell post hill,greater geelong
+672,beveridge,hume macedon ranges mitchell whittlesea
+673,birchip,buloke
+674,bridgewater north,loddon
+675,brodribb river,east gippsland
+676,bullarto,hepburn
+677,bungador,colac otway
+678,burnewang,campaspe
+679,burnside heights,melton
+680,burramine south,moira
+681,cabbage tree,hepburn
+682,cadello,macedon ranges
+683,cambrian hill,golden plains
+684,catumnal,loddon
+685,cobains,wellington
+686,cobden,corangamite
+687,cobrico,corangamite
+688,cowa,wellington
+689,crowlands,ararat northern grampians pyrenees
+690,dalyenong,northern grampians
+691,darley,moorabool
+692,east bendigo,greater bendigo
+693,eganstown,hepburn
+694,gilderoy,yarra ranges
+695,glen alvie,bass coast
+696,golden square,greater bendigo
+697,goomalibee,benalla
+698,gowanford,swan hill
+699,gre gre,northern grampians
+700,hampton east,bayside
+701,heatherton,kingston
+702,highlands,mitchell murrindindi strathbogie
+703,hilgay,southern grampians
+704,iguana creek,east gippsland
+705,indigo valley,indigo
+706,inglewood,loddon
+707,jil jil,buloke
+708,jungaburra,loddon
+709,kergunyah,indigo
+710,killawarra,wangaratta
+711,kimbolton,greater bendigo
+712,langwarrin,frankston
+713,launching place,yarra ranges
+714,licola north,mansfield wellington
+715,marnoo east,northern grampians
+716,meringur,mildura
+717,mia mia,greater bendigo mitchell
+718,miralie,swan hill
+719,mont albert,boroondara whitehorse
+720,moora,campaspe
+721,moranding,mitchell
+722,murnungin,swan hill
+723,murtoa,yarriambiack
+724,nar nar goon,cardinia
+725,naringal,moyne
+726,narre warren south,casey
+727,newlyn north,hepburn
+728,oakleigh east,monash
+729,panitya,mildura
+730,park orchards,manningham maroondah
+731,pheasant creek,murrindindi
+732,piries,mansfield
+733,port campbell,corangamite
+734,quambatook,gannawarra
+735,quantong,horsham
+736,ranceby,south gippsland
+737,sailors falls,hepburn
+738,seaspray,wellington
+739,seville,yarra ranges
+740,simson,central goldfields
+741,south melbourne,port phillip
+742,spotswood,hobsons bay
+743,strangways,hepburn mount alexander
+744,strathtulloh,melton
+745,sulky,ballarat hepburn
+746,sunshine west,brimbank
+747,tallangatta east,towong
+748,timbarra,east gippsland
+749,tonimbuk,cardinia
+750,toongabbie,baw baw latrobe wellington
+751,ulupna,moira
+752,walkerville,south gippsland
+753,walpeup,mildura
+754,wandiligong,alpine
+755,wangarabell,east gippsland
+756,weir views,melton
+757,williamstown,hobsons bay
+758,willung south,wellington
+759,wonga,south gippsland
+760,woolshed flat,loddon
+761,yarrawonga south,moira
+762,agnes,south gippsland
+763,albanvale,brimbank
+764,allambee reserve,baw baw south gippsland
+765,barongarook west,colac otway
+766,bellellen,northern grampians
+767,blind bight,casey
+768,bonbeach,kingston
+769,boolarong,south gippsland
+770,brim,yarriambiack
+771,bulgana,northern grampians
+772,bunyip north,cardinia
+773,buragwonduc,wellington
+774,byaduk north,southern grampians
+775,carlsruhe,macedon ranges
+776,carpendeit,colac otway corangamite
+777,charam,west wimmera
+778,chesney vale,benalla
+779,clarendon,moorabool
+780,clematis,cardinia
+781,clifton hill,yarra
+782,clonbinane,mitchell
+783,clyde north,casey
+784,cowes,bass coast
+785,darlimurla,south gippsland
+786,devon north,wellington
+787,eildon,mansfield murrindindi yarra ranges
+788,elaine,moorabool
+789,elingamite,corangamite
+790,flagstaff,central goldfields
+791,fyans creek,northern grampians
+792,gazette,southern grampians
+793,germania,northern grampians
+794,glenlofty,pyrenees
+795,golden point mount alexander ,mount alexander
+796,greta west,wangaratta
+797,guys hill,cardinia
+798,halls gap,ararat northern grampians
+799,hansonville,wangaratta
+800,hunterston,wellington
+801,jamieson,mansfield
+802,kilmore,mitchell
+803,koonda,strathbogie
+804,korumburra,south gippsland
+805,kyabram south,greater shepparton
+806,lake tyers beach,east gippsland
+807,lang lang,bass coast cardinia south gippsland
+808,little desert,hindmarsh
+809,lower norton,horsham
+810,lysterfield,casey knox yarra ranges
+811,maintongoon,murrindindi
+812,malmsbury,hepburn macedon ranges mount alexander
+813,manns beach,wellington
+814,marcus hill,greater geelong
+815,marthavale,east gippsland
+816,maryknoll,cardinia
+817,meering west,gannawarra loddon
+818,merbein,mildura
+819,mill park,whittlesea
+820,milltown,glenelg
+821,minmindie,loddon
+822,mooroopna north,greater shepparton
+823,mount richmond,glenelg
+824,nine mile,buloke loddon
+825,noojee,baw baw
+826,noradjuha,horsham
+827,norlane,greater geelong
+828,pelluebla,moira
+829,pier milan,buloke
+830,pimpinio,horsham
+831,pira,swan hill
+832,poowong north,baw baw cardinia south gippsland
+833,port fairy,moyne
+834,pranjip,strathbogie
+835,rawson,baw baw
+836,red hill south,mornington peninsula
+837,redan,ballarat
+838,reedy dam,buloke
+839,riverslea,wellington
+840,running creek,alpine
+841,salisbury west,loddon
+842,sargood,wellington
+843,st andrews,nillumbik
+844,st germains,greater shepparton
+845,tamleugh,strathbogie
+846,tarrenlea,southern grampians
+847,tatura,greater shepparton
+848,terip terip,murrindindi
+849,thomson greater geelong ,greater geelong
+850,trafalgar east,baw baw
+851,upton hill,strathbogie
+852,waranga shores,campaspe
+853,waygara,east gippsland
+854,welshmans reef,mount alexander
+855,wilsons hill,greater bendigo
+856,woorarra west,south gippsland
+857,wyndham vale,wyndham
+858,yallourn,latrobe
+859,yambuk,moyne unincorporated vic
+860,yarck,murrindindi
+861,yarrawalla,loddon
+862,allestree,glenelg
+863,altona north,hobsons bay
+864,avonmore,greater bendigo
+865,balwyn,boroondara
+866,bandiana,wodonga
+867,bayindeen,ararat
+868,bell park,greater geelong
+869,bellfield northern grampians ,northern grampians
+870,bendigo,greater bendigo
+871,bentleigh,glen eira
+872,berrimal,loddon
+873,bete bolong,east gippsland
+874,boinka,mildura
+875,boolarra south,latrobe
+876,borung,loddon
+877,box hill north,whitehorse
+878,browns plains,indigo
+879,bungal,moorabool
+880,caralulup,central goldfields
+881,cardross,mildura
+882,castella,murrindindi
+883,castlemaine,mount alexander
+884,caulfield north,glen eira
+885,club terrace,east gippsland
+886,clydesdale,hepburn
+887,colignan,mildura
+888,coojar,southern grampians
+889,cororooke,colac otway
+890,costerfield,greater bendigo
+891,creek view,campaspe
+892,crookayan,wellington
+893,cudgewa,towong
+894,drouin south,baw baw
+895,drysdale,greater geelong
+896,eagle point,east gippsland
+897,eastville,loddon
+898,elmore,greater bendigo
+899,ensay north,east gippsland
+900,eskdale,towong
+901,flemington,maribyrnong melbourne moonee valley
+902,fyansford,greater geelong
+903,glen wills,east gippsland
+904,gorae west,glenelg
+905,hazelwood,latrobe
+906,hilldene,mitchell
+907,hotham heights,alpine east gippsland unincorporated vic
+908,jeeralang junction,latrobe
+909,jeparit,hindmarsh
+910,joel south,northern grampians
+911,kalpienung,buloke
+912,kanagulk,horsham
+913,kellalac,yarriambiack
+914,kenley,swan hill
+915,kergunyah south,alpine
+916,kew,boroondara
+917,kings park,brimbank
+918,koetong,towong
+919,koornalla,latrobe
+920,kooyong,stonnington
+921,lake wendouree,ballarat
+922,leonards hill,hepburn
+923,mailors flat,moyne
+924,mckenzie creek,horsham
+925,melbourne,melbourne port phillip stonnington yarra
+926,mepunga east,moyne
+927,miram,west wimmera
+928,montgomery,wellington
+929,mount buffalo,alpine
+930,mountain bay,mansfield
+931,mountain view,baw baw
+932,murphys creek,loddon
+933,murrabit,gannawarra
+934,murrindal,east gippsland
+935,myamyn,glenelg
+936,nareewillock,buloke
+937,piangil,swan hill
+938,portland north,glenelg
+939,rosewhite,alpine
+940,safety beach,mornington peninsula
+941,sandy creek,indigo
+942,sea lake,buloke
+943,seddon,maribyrnong
+944,separation creek,colac otway
+945,staghorn flat,indigo wodonga
+946,swan island,queenscliffe
+947,tooan,horsham
+948,turoar,swan hill
+949,turtons creek,south gippsland
+950,ullswater,west wimmera
+951,underbool,mildura
+952,wallinduc,golden plains
+953,wandin north,yarra ranges
+954,warrandyte,manningham
+955,wellsford,greater bendigo
+956,whirily,buloke
+957,wilby,moira
+958,winjallok,northern grampians
+959,wiseleigh,east gippsland
+960,woodford,moyne warrnambool
+961,wycheproof south,buloke
+962,yarra glen,yarra ranges
+963,yarram,wellington
+964,airly,wellington
+965,almurta,bass coast
+966,alphington,banyule boroondara darebin yarra
+967,appin,gannawarra
+968,aspendale gardens,kingston
+969,bairnsdale,east gippsland
+970,bambra,surf coast
+971,bealiba,central goldfields loddon northern grampians
+972,bengworden,east gippsland
+973,beremboke,moorabool
+974,bet bet,central goldfields
+975,black hill,ballarat
+976,boweya north,moira
+977,brenanah,loddon
+978,bromley,central goldfields
+979,bruthen,east gippsland
+980,budgee budgee,wellington
+981,bullengarook,macedon ranges
+982,bung bong,central goldfields pyrenees
+983,bushfield,moyne warrnambool
+984,carapooee,northern grampians
+985,cashmore,glenelg
+986,castle creek,wodonga
+987,chadstone,monash
+988,clear lake,horsham
+989,clover flat,glenelg southern grampians
+990,colac colac,towong
+991,colbinabbin,campaspe
+992,coolaroo,hume
+993,cranbourne,casey
+994,crossover,baw baw
+995,croydon,maroondah
+996,dalmore,cardinia
+997,dalyston,bass coast
+998,delburn,baw baw latrobe south gippsland
+999,dookie,greater shepparton
+1000,echuca village,campaspe
+1001,eppalock,greater bendigo
+1002,fiskville,moorabool
+1003,forest hill,whitehorse
+1004,foster north,south gippsland
+1005,foxhow,corangamite
+1006,frankston,frankston
+1007,frankston south,frankston
+1008,gerahmin,swan hill
+1009,glenaladale,east gippsland
+1010,glenhope,mitchell
+1011,glenhope east,mitchell
+1012,glenlyon,hepburn
+1013,gonn crossing,gannawarra
+1014,greta south,wangaratta
+1015,hallam,casey
+1016,huntly,greater bendigo
+1017,indented head,greater geelong
+1018,jindivick,baw baw
+1019,johnsonville,east gippsland
+1020,kadnook,west wimmera
+1021,kalimna,east gippsland
+1022,kelvin view,strathbogie
+1023,kilcunda,bass coast
+1024,koorool,wellington
+1025,lake marmal,buloke loddon
+1026,little hampton,hepburn
+1027,malvern,stonnington
+1028,meerlieu,wellington
+1029,mena park,pyrenees
+1030,moliagul,central goldfields loddon
+1031,moorilim,greater shepparton strathbogie
+1032,mount emu,pyrenees
+1033,murraysunset,mildura
+1034,myrtlebank,wellington
+1035,narre warren east,yarra ranges
+1036,nerrena,south gippsland
+1037,newborough,latrobe
+1038,north melbourne,melbourne
+1039,nowie,swan hill
+1040,peechelba,moira wangaratta
+1041,piedmont,baw baw
+1042,puckapunyal,mitchell
+1043,purnim,moyne
+1044,redbank,northern grampians pyrenees
+1045,riddells creek,macedon ranges
+1046,riverside,horsham
+1047,rocky point,ararat
+1048,sandringham,bayside
+1049,scoresby,knox
+1050,skinners flat,loddon
+1051,south kingsville,hobsons bay
+1052,southern cross,moyne
+1053,st albans park,greater geelong
+1054,st arnaud north,northern grampians
+1055,strathlea,central goldfields mount alexander
+1056,swan hill,swan hill
+1057,talbot,central goldfields
+1058,tallangatta,towong
+1059,tanjil,baw baw
+1060,templestowe lower,manningham
+1061,the honeysuckles,wellington
+1062,tinamba,wellington
+1063,toora,south gippsland
+1064,towaninny,buloke gannawarra
+1065,tyers,latrobe
+1066,valencia creek,wellington
+1067,victoria valley,southern grampians
+1068,wandong,mitchell
+1069,wattle flat,ballarat hepburn moorabool
+1070,wedderburn junction,loddon
+1071,wehla,loddon
+1072,west creek,bass coast
+1073,woosang,buloke loddon
+1074,yambuna,campaspe
+1075,albacutya,hindmarsh
+1076,alberton west,wellington
+1077,armstrong,ararat
+1078,bacchus marsh,moorabool
+1079,ballangeich,moyne
+1080,ballyrogan,ararat
+1081,barnawartha north,wodonga
+1082,beaufort,pyrenees
+1083,beulah,yarriambiack
+1084,bolangum,northern grampians
+1085,bonegilla,wodonga
+1086,boola,baw baw
+1087,boorool,south gippsland
+1088,brimin,indigo
+1089,bulga,swan hill
+1090,buninyong,ballarat moorabool
+1091,byawatha,wangaratta
+1092,calivil,loddon
+1093,carapooee west,northern grampians
+1094,charlemont,greater geelong
+1095,childers,baw baw
+1096,claretown,moorabool
+1097,coburg,moreland
+1098,cowwarr,baw baw latrobe wellington
+1099,cudgee,moyne
+1100,cullulleraine,mildura
+1101,dales creek,moorabool
+1102,darriman,wellington
+1103,dergholm,glenelg west wimmera
+1104,devenish,benalla
+1105,elingamite north,corangamite
+1106,errinundra,east gippsland
+1107,eureka,ballarat
+1108,fairbank,south gippsland
+1109,geelong,greater geelong
+1110,gooroc,northern grampians
+1111,high camp,mitchell
+1112,highett,bayside kingston
+1113,hordern vale,colac otway
+1114,jeffcott,buloke
+1115,kanyapella,campaspe
+1116,kerrisdale,murrindindi
+1117,kialla,greater shepparton
+1118,kirkstall,moyne
+1119,knowsley,greater bendigo
+1120,lake meran,gannawarra loddon
+1121,leneva,wodonga
+1122,lilliput,indigo
+1123,liparoo,swan hill
+1124,loch valley,baw baw
+1125,longlea,greater bendigo
+1126,mangalore,mitchell strathbogie
+1127,marong,greater bendigo loddon
+1128,merbein south,mildura
+1129,mernda,whittlesea
+1130,merrijig mansfield ,mansfield
+1131,miga lake,west wimmera
+1132,moornapa,wellington
+1133,mordialloc,kingston
+1134,mount eliza,mornington peninsula
+1135,moyreisk,northern grampians
+1136,muskerry,campaspe
+1137,myrniong,moorabool
+1138,nagambie,strathbogie
+1139,nelson,glenelg
+1140,new gisborne,macedon ranges
+1141,newbridge,loddon
+1142,nurran,east gippsland
+1143,officer,cardinia
+1144,ouyen,mildura
+1145,pakenham upper,cardinia
+1146,paschendale,glenelg
+1147,rochford,macedon ranges
+1148,rockbank,melton
+1149,shepherds flat,hepburn
+1150,snake valley,pyrenees
+1151,spring hill,hepburn macedon ranges
+1152,springdallah,golden plains
+1153,steiglitz,golden plains
+1154,taggerty,murrindindi
+1155,tallangatta valley,towong
+1156,thorpdale south,baw baw
+1157,toorak,stonnington
+1158,tootgarook,mornington peninsula
+1159,torquay,surf coast
+1160,tyntynder,swan hill
+1161,tyrrell downs,buloke
+1162,waitchie,swan hill
+1163,wandin east,yarra ranges
+1164,watsonia,banyule
+1165,welshpool,south gippsland
+1166,whorouly south,wangaratta
+1167,willaura,ararat
+1168,winter valley,ballarat
+1169,woodglen,east gippsland
+1170,wrathung,wellington
+1171,wulgulmerang east,east gippsland
+1172,yarrawonga,moira
+1173,yatchaw,southern grampians
+1174,arcadia,greater shepparton
+1175,arcadia south,strathbogie
+1176,ballapur,buloke
+1177,balnarring beach,mornington peninsula
+1178,barjarg,benalla mansfield
+1179,barnawartha,indigo
+1180,beeac,colac otway
+1181,belgrave heights,yarra ranges
+1182,bena,south gippsland
+1183,benambra,east gippsland
+1184,bimbourie,buloke
+1185,bolwarrah,moorabool
+1186,briagolong,wellington
+1187,broomfield,hepburn
+1188,buckley swamp,southern grampians
+1189,buckrabanyule,buloke loddon
+1190,burkes bridge,gannawarra
+1191,camberwell,boroondara
+1192,cardigan,ballarat
+1193,caringal,baw baw
+1194,carrum,kingston
+1195,chillingollah,swan hill
+1196,corndale,glenelg
+1197,cranbourne south,casey
+1198,dandenong,greater dandenong
+1199,dandenong north,greater dandenong
+1200,dandongadale,alpine
+1201,daylesford,hepburn
+1202,denver,hepburn macedon ranges
+1203,docklands,melbourne
+1204,don valley,yarra ranges
+1205,dooboobetic,buloke
+1206,dorodong,west wimmera
+1207,duchembegarra,horsham
+1208,dunnstown,moorabool
+1209,ebden,wodonga
+1210,edi upper,wangaratta
+1211,fernshaw,yarra ranges
+1212,fiery flat,loddon
+1213,fitzroy north,darebin moreland yarra
+1214,glenlogie,ararat pyrenees
+1215,gunbower,campaspe
+1216,happy valley swan hill ,swan hill
+1217,heathmere,glenelg
+1218,hinnomunjie,east gippsland
+1219,hopetoun,yarriambiack
+1220,jancourt east,colac otway corangamite
+1221,kalimna west,east gippsland
+1222,kamarooka north,loddon
+1223,karramomus,greater shepparton
+1224,kawarren,colac otway
+1225,kinglake west,mitchell murrindindi nillumbik whittlesea
+1226,kooloonong,swan hill
+1227,koorlong,mildura
+1228,kooroocheang,hepburn
+1229,labertouche,baw baw
+1230,laen,buloke
+1231,lake lonsdale,northern grampians
+1232,lalor,whittlesea
+1233,loch sport,wellington
+1234,longerenong,horsham
+1235,longford,wellington
+1236,longwood east,strathbogie
+1237,lucyvale,towong
+1238,lyndhurst,casey frankston greater dandenong
+1239,mcmahons creek,yarra ranges
+1240,mead,gannawarra
+1241,meadow heights,hume
+1242,mentone,kingston
+1243,middle park,port phillip
+1244,mingay,corangamite
+1245,mitchellstown,strathbogie
+1246,mitiamo,campaspe loddon
+1247,moondarra,baw baw
+1248,moorabool,greater geelong
+1249,moorooduc,mornington peninsula
+1250,mortlake,moyne
+1251,mount buller,mansfield unincorporated vic wangaratta wellington
+1252,mount burnett,cardinia
+1253,mount camel,greater bendigo
+1254,mount wallace,moorabool
+1255,mudgegonga,alpine
+1256,mumbannar,glenelg
+1257,myrtleford,alpine
+1258,mystic park,gannawarra
+1259,naroghid,corangamite
+1260,natimuk,horsham
+1261,neereman,mount alexander
+1262,neerim east,baw baw
+1263,nerring,pyrenees
+1264,newfield,corangamite
+1265,nichols point,mildura
+1266,north wangaratta,wangaratta
+1267,nunawading,manningham whitehorse
+1268,oakleigh south,glen eira kingston monash
+1269,ozenkadnook,west wimmera
+1270,panmure,moyne
+1271,pine mountain,towong
+1272,pioneer bay,bass coast
+1273,point lonsdale,greater geelong queenscliffe
+1274,portland,glenelg
+1275,reedy lake,gannawarra
+1276,roses gap,northern grampians
+1277,rupanyup,yarriambiack
+1278,san remo,bass coast
+1279,sebastopol,ballarat
+1280,smeaton,hepburn
+1281,soldiers hill,ballarat
+1282,south geelong,greater geelong
+1283,south yarra,melbourne stonnington yarra
+1284,springfield macedon ranges ,macedon ranges
+1285,st albans,brimbank
+1286,stirling,east gippsland
+1287,streatham,ararat pyrenees
+1288,sugarloaf,colac otway
+1289,surf beach,bass coast
+1290,swan hill west,swan hill
+1291,tallandoon,towong
+1292,tambo upper,east gippsland
+1293,tandarra,loddon
+1294,the cove,moyne
+1295,timmering,campaspe
+1296,tresco,swan hill
+1297,viewbank,banyule
+1298,walmer,mount alexander
+1299,wantirna south,knox
+1300,warrenheip,ballarat moorabool
+1301,waterholes,east gippsland
+1302,westby,gannawarra
+1303,winnambool,swan hill
+1304,winton north,benalla
+1305,woolsthorpe,moyne
+1306,wrixon,wellington
+1307,wye river,colac otway
+1308,yackandandah,indigo
+1309,yapeen,mount alexander
+1310,yarraville,maribyrnong
+1311,yuroke,hume
+1312,aberfeldie,moonee valley
+1313,adelaide lead,central goldfields
+1314,avonsleigh,cardinia
+1315,bamawm,campaspe
+1316,barwon downs,colac otway
+1317,bentleigh east,glen eira
+1318,berriwillock,buloke
+1319,big hill greater bendigo ,greater bendigo
+1320,birregurra,colac otway surf coast
+1321,black range,ararat northern grampians
+1322,boneo,mornington peninsula
+1323,boolite,yarriambiack
+1324,boronia,knox
+1325,bostocks creek,corangamite
+1326,botanic ridge,casey
+1327,box hill,whitehorse
+1328,broadford,mitchell
+1329,budgeree,latrobe
+1330,bullumwaal,east gippsland
+1331,bungeet,benalla
+1332,burrumbeet,ballarat pyrenees
+1333,caldermeade,cardinia
+1334,cape paterson,bass coast
+1335,castle donnington,swan hill
+1336,cathkin,murrindindi
+1337,cheltenham,bayside kingston
+1338,coomoora,hepburn
+1339,craigie,central goldfields
+1340,deer park,brimbank
+1341,dewhurst,cardinia
+1342,doncaster east,manningham
+1343,dropmore,murrindindi
+1344,eastwood,east gippsland
+1345,ecklin south,corangamite moyne
+1346,elphinstone,mount alexander
+1347,ensay,east gippsland
+1348,gisborne south,macedon ranges
+1349,granya,towong
+1350,grays bridge,northern grampians
+1351,greenhill,macedon ranges mount alexander
+1352,grovedale,greater geelong
+1353,haddon,golden plains
+1354,hawthorn east,boroondara
+1355,heathmont,maroondah
+1356,hepburn springs,hepburn
+1357,illabarook,golden plains
+1358,invergordon,moira
+1359,invermay,ballarat
+1360,jericho,baw baw
+1361,keilor lodge,brimbank
+1362,lake tyers,east gippsland
+1363,langi kal kal,pyrenees
+1364,leichardt,greater bendigo loddon
+1365,leongatha,south gippsland
+1366,lerderderg,moorabool
+1367,lubeck,horsham northern grampians yarriambiack
+1368,maude,golden plains
+1369,melbourne airport,hume
+1370,merriang,alpine
+1371,milloo,campaspe greater bendigo loddon
+1372,mount bolton,ballarat
+1373,mount cole,ararat
+1374,mount toolebewong,yarra ranges
+1375,muntham,glenelg southern grampians
+1376,musk vale,hepburn
+1377,neerim north,baw baw
+1378,newport,hobsons bay
+1379,newstead,mount alexander
+1380,noble park north,greater dandenong
+1381,norval,ararat
+1382,nuggetty,mount alexander
+1383,paraparap,surf coast
+1384,pipers creek,macedon ranges
+1385,poowong,south gippsland
+1386,princes hill,yarra
+1387,purnim west,moyne
+1388,quandong,wyndham
+1389,rainbow,hindmarsh yarriambiack
+1390,research,nillumbik
+1391,rhymney,ararat
+1392,ripplebrook,baw baw
+1393,rushworth,campaspe
+1394,seabrook,hobsons bay
+1395,skibo,corangamite
+1396,south wharf,melbourne
+1397,spargo creek,moorabool
+1398,springbank,moorabool
+1399,st andrews beach,mornington peninsula
+1400,st helens plains,horsham
+1401,staffordshire reef,golden plains
+1402,strathdale,greater bendigo
+1403,tarnagulla,loddon
+1404,tecoma,yarra ranges
+1405,thomson baw baw ,baw baw
+1406,thowgla valley,towong
+1407,timboon west,corangamite
+1408,tol tol,swan hill
+1409,trafalgar,baw baw
+1410,traralgon east,latrobe
+1411,tyaak,mitchell
+1412,waggarandall,moira
+1413,wallaloo east,northern grampians
+1414,wangie,buloke
+1415,watchem west,buloke yarriambiack
+1416,whoorel,colac otway
+1417,williamstown north,hobsons bay
+1418,wombat creek,east gippsland
+1419,wonnangatta,alpine
+1420,woolamai,bass coast
+1421,woori yallock,yarra ranges
+1422,woorinen north,swan hill
+1423,yalca,moira
+1424,euston,balranald mildura swan hill wentworth
+1425,ararat,ararat
+1426,ballan,moorabool
+1427,banyan,buloke
+1428,barunah plains,colac otway
+1429,blackburn north,whitehorse
+1430,boorolite,mansfield
+1431,cairnlea,brimbank
+1432,callignee north,wellington
+1433,calrossie,wellington
+1434,campbells forest,loddon
+1435,cape bridgewater,glenelg
+1436,carisbrook,central goldfields mount alexander
+1437,carrajung south,wellington
+1438,charleroi,indigo
+1439,cheshunt,wangaratta
+1440,chirnside park,yarra ranges
+1441,clarinda,kingston
+1442,clifton creek,east gippsland
+1443,cosgrove,greater shepparton
+1444,cottles bridge,nillumbik
+1445,cundare,colac otway
+1446,curyo,buloke
+1447,delatite,mansfield
+1448,durdidwarrah,golden plains
+1449,emu creek,greater bendigo
+1450,esmond,moira
+1451,essendon,moonee valley
+1452,eumemmerring,casey
+1453,everton,wangaratta
+1454,fentons creek,loddon
+1455,fingal,mornington peninsula
+1456,french island,unincorporated vic
+1457,gaffneys creek,mansfield
+1458,glenburn,murrindindi
+1459,glenrowan west,benalla
+1460,goongerah,east gippsland
+1461,gunyah,south gippsland
+1462,gymbowen,west wimmera
+1463,hepburn,hepburn
+1464,horfield,gannawarra
+1465,hunter,greater bendigo
+1466,jeffcott north,buloke
+1467,kanya,northern grampians
+1468,kardella south,south gippsland
+1469,katandra west,greater shepparton
+1470,kingower,loddon
+1471,kithbrook,strathbogie
+1472,koorooman,south gippsland
+1473,korobeit,moorabool
+1474,kurraca,loddon
+1475,lancaster,campaspe greater shepparton
+1476,langkoop,west wimmera
+1477,lawloit,west wimmera
+1478,mirboo,latrobe south gippsland
+1479,moe south,baw baw latrobe
+1480,mornington,mornington peninsula
+1481,mount lonarch,pyrenees
+1482,mount taylor,east gippsland
+1483,muckleford south,mount alexander
+1484,murrindindi,murrindindi
+1485,ninyeunook,gannawarra
+1486,nirranda,moyne
+1487,northcote,darebin
+1488,oak park,moreland
+1489,pomborneit east,corangamite
+1490,quarry hill,greater bendigo
+1491,rathscar west,pyrenees
+1492,rheola,loddon
+1493,rokewood junction,golden plains
+1494,ruffy,mitchell murrindindi strathbogie
+1495,seaton,wellington
+1496,shepparton east,greater shepparton
+1497,south dudley,bass coast
+1498,stony creek south gippsland ,south gippsland
+1499,straten,buloke
+1500,sugarloaf creek,mitchell
+1501,sunbury,hume
+1502,taroon,corangamite moyne
+1503,tarranyurk,hindmarsh
+1504,wabonga,wangaratta
+1505,walkerville north,south gippsland
+1506,warranwood,maroondah
+1507,watchupga,buloke
+1508,watsonia north,banyule
+1509,whorouly,wangaratta
+1510,winslow,moyne
+1511,wirrate,strathbogie
+1512,wool wool,colac otway corangamite
+1513,wy yung,east gippsland
+1514,yanac,hindmarsh
+1515,yeungroon east,buloke
+1516,abbeyard,alpine
+1517,alberton,wellington
+1518,alexandra,murrindindi
+1519,alfredton,ballarat
+1520,belgrave south,yarra ranges
+1521,bemm river,east gippsland
+1522,biggara,towong
+1523,bo peep,ballarat
+1524,bona vista,baw baw
+1525,boorhaman east,wangaratta
+1526,brookfield,melton
+1527,buxton,murrindindi
+1528,cannie,gannawarra
+1529,caramut,moyne
+1530,chandlers creek,east gippsland
+1531,chapple vale,colac otway corangamite
+1532,cherrypool,southern grampians
+1533,clifton springs,greater geelong
+1534,coldstream,yarra ranges
+1535,concongella,northern grampians
+1536,connewarre,greater geelong surf coast
+1537,coongulla,wellington
+1538,craigieburn,hume
+1539,dobie,ararat
+1540,drummond north,hepburn macedon ranges mount alexander
+1541,dunkeld,ararat southern grampians
+1542,dunrobin,glenelg
+1543,ferguson,colac otway
+1544,freshwater creek,surf coast
+1545,fryerstown,mount alexander
+1546,georges creek,towong
+1547,ghin ghin,murrindindi
+1548,gillum,wellington
+1549,glen iris,boroondara monash stonnington whitehorse
+1550,grassdale,glenelg
+1551,grassmere,moyne
+1552,greensborough,banyule nillumbik whittlesea
+1553,gritjurk,southern grampians
+1554,hill end,baw baw
+1555,hillside east gippsland ,east gippsland
+1556,huntingdale,monash
+1557,illawarra,northern grampians
+1558,irishtown,mount alexander
+1559,jarvis creek,towong
+1560,jumbunna,south gippsland
+1561,kariah,corangamite
+1562,lake condah,glenelg
+1563,lakes entrance,east gippsland
+1564,langsborough,wellington
+1565,laverton,hobsons bay wyndham
+1566,logan,loddon northern grampians
+1567,lorquon,hindmarsh
+1568,lovely banks,greater geelong
+1569,marengo,colac otway
+1570,merrigum,greater shepparton
+1571,moormbool west,strathbogie
+1572,mount egerton,moorabool
+1573,mount waverley,monash
+1574,moyston,ararat
+1575,murrabit west,gannawarra
+1576,murrawee,swan hill
+1577,myall gannawarra ,gannawarra
+1578,myers flat,greater bendigo
+1579,narbethong,murrindindi
+1580,nareeb,ararat moyne southern grampians
+1581,narre warren north,casey
+1582,neerim,baw baw
+1583,newtown greater geelong ,greater geelong
+1584,noorinbee,east gippsland
+1585,omeo valley,east gippsland
+1586,paaratte,corangamite
+1587,pastoria,macedon ranges
+1588,pearcedale,casey frankston mornington peninsula
+1589,picola west,moira
+1590,port franklin,south gippsland
+1591,richmond plains,buloke loddon
+1592,sale,wellington
+1593,sandhill lake,gannawarra
+1594,scarsdale,golden plains
+1595,seymour,mitchell
+1596,shelford,golden plains
+1597,shoreham,mornington peninsula
+1598,st arnaud,northern grampians
+1599,st james,moira
+1600,st kilda,port phillip
+1601,stanhope,campaspe
+1602,sutton grange,mount alexander
+1603,swan reach,east gippsland
+1604,tabilk,strathbogie
+1605,tambo crossing,east gippsland
+1606,tarra valley,wellington
+1607,tarwin lower,south gippsland
+1608,telopea downs,west wimmera
+1609,three bridges,yarra ranges
+1610,toolondo,horsham
+1611,tubbut,east gippsland
+1612,ullina,hepburn
+1613,ventnor,bass coast
+1614,venus bay,south gippsland
+1615,waaia,moira
+1616,warrock,glenelg
+1617,werrimull,mildura
+1618,west wodonga,wodonga
+1619,whanregarwen,murrindindi
+1620,whitfield,wangaratta
+1621,winchelsea,surf coast
+1622,wood wood,swan hill
+1623,woolenook,wellington
+1624,mulwala,berrigan federation moira
+1625,allendale,hepburn
+1626,avon plains,northern grampians
+1627,bael bael,gannawarra
+1628,balliang,greater geelong moorabool wyndham
+1629,bangholme,greater dandenong
+1630,bells beach,surf coast
+1631,binginwarri,south gippsland wellington
+1632,boonah,surf coast
+1633,boralma,wangaratta
+1634,branxholme,glenelg southern grampians
+1635,breakwater,greater geelong
+1636,bridge creek,benalla mansfield
+1637,buldah,east gippsland
+1638,bullarto south,hepburn moorabool
+1639,bungil,towong
+1640,burnside,melton
+1641,carlisle river,colac otway
+1642,cobungra,alpine east gippsland
+1643,croydon hills,maroondah
+1644,dixie,corangamite
+1645,donald,buloke
+1646,donvale,manningham
+1647,doveton,casey
+1648,eaglemont,banyule
+1649,ferny creek,yarra ranges
+1650,flora hill,greater bendigo
+1651,frankston north,frankston
+1652,gainsborough,baw baw
+1653,germantown,alpine
+1654,glenfalloch,wellington
+1655,havilah,alpine
+1656,hensley park,southern grampians
+1657,heyfield,wellington
+1658,irrewarra,colac otway
+1659,joel joel,northern grampians
+1660,kernot,bass coast
+1661,kilsyth,knox maroondah yarra ranges
+1662,knebsworth,moyne
+1663,lake goldsmith,pyrenees
+1664,lal lal,moorabool
+1665,langwarrin south,frankston
+1666,majorca,central goldfields
+1667,maramingo creek,east gippsland
+1668,meatian,gannawarra swan hill
+1669,merricks,mornington peninsula
+1670,merricks north,mornington peninsula
+1671,miners rest,ballarat
+1672,moolerr,northern grampians
+1673,moroka,wellington
+1674,morwell,latrobe
+1675,mount tassie,latrobe
+1676,narracan,baw baw latrobe
+1677,neerim south,baw baw
+1678,north blackwood,hepburn
+1679,north warrandyte,nillumbik
+1680,percydale,pyrenees
+1681,pootilla,moorabool
+1682,poowong east,baw baw south gippsland
+1683,ringwood north,manningham maroondah
+1684,rose river,wangaratta
+1685,shepparton,greater shepparton
+1686,stuart mill,northern grampians
+1687,swan bay,greater geelong queenscliffe
+1688,swanwater,northern grampians
+1689,tom groggin,east gippsland snowy valleys towong
+1690,traralgon south,latrobe
+1691,trentham east,hepburn macedon ranges moorabool
+1692,trida,baw baw south gippsland
+1693,tulkara,northern grampians
+1694,upwey,yarra ranges
+1695,wallagaraugh,east gippsland
+1696,wantirna,knox
+1697,warragul,baw baw
+1698,weatherboard,ballarat
+1699,wensleydale,surf coast
+1700,west melbourne,melbourne
+1701,wongungarra,alpine wellington
+1702,woodstock,whittlesea
+1703,woorinen south,swan hill
+1704,yaapeet,yarriambiack
+1705,youanmite,moira
+1706,almonds,moira
+1707,annuello,swan hill
+1708,armstrong creek,greater geelong
+1709,avoca,pyrenees
+1710,bahgallah,glenelg
+1711,bakery hill,ballarat
+1712,bannockburn,golden plains
+1713,barraport west,loddon
+1714,bass,bass coast
+1715,bayswater north,maroondah
+1716,beaconsfield,cardinia casey
+1717,berringa,golden plains
+1718,bethanga,towong
+1719,bonnie brook,melton
+1720,braeside,kingston
+1721,breamlea,greater geelong surf coast
+1722,brewster,pyrenees
+1723,brimboal,glenelg
+1724,brown hill,ballarat
+1725,bullioh,towong
+1726,bungalally,horsham
+1727,bunguluke,buloke
+1728,charlton,buloke
+1729,chelsea heights,kingston
+1730,chiltern valley,indigo
+1731,clarkes hill,moorabool
+1732,coimadai,moorabool
+1733,corindhap,golden plains
+1734,cranbourne north,casey
+1735,dereel,golden plains
+1736,diggers rest,brimbank hume macedon ranges melton
+1737,dingwall,gannawarra
+1738,dookie college,greater shepparton
+1739,eaglehawk,greater bendigo
+1740,earlston,strathbogie
+1741,eastern view,surf coast
+1742,enochs point,mansfield murrindindi
+1743,essendon north,moonee valley
+1744,fish creek,south gippsland
+1745,framlingham,moyne
+1746,framlingham east,moyne
+1747,franklinford,hepburn
+1748,garibaldi,golden plains
+1749,gelantipy,east gippsland
+1750,gipsy point,east gippsland
+1751,glenlee,hindmarsh
+1752,gooram,strathbogie
+1753,greens creek,northern grampians
+1754,harkaway,casey
+1755,harmers haven,bass coast
+1756,hastings,mornington peninsula
+1757,hawthorn,boroondara
+1758,healesville,yarra ranges
+1759,heathcote junction,mitchell
+1760,hopetoun park,moorabool
+1761,huntly north,greater bendigo
+1762,joyces creek,central goldfields mount alexander
+1763,junortoun,greater bendigo
+1764,kalorama,yarra ranges
+1765,katunga,moira
+1766,kerrie,macedon ranges
+1767,kinnabulla,buloke
+1768,krowera,bass coast
+1769,laen north,buloke
+1770,lah,yarriambiack
+1771,lake bunga,east gippsland
+1772,lake eppalock,greater bendigo
+1773,lake wongan,pyrenees
+1774,lascelles,yarriambiack
+1775,leaghur,loddon
+1776,ledcourt,northern grampians
+1777,lindsay point,mildura
+1778,macclesfield,yarra ranges
+1779,magpie,ballarat
+1780,marlbed,buloke
+1781,mockinya,horsham
+1782,mokepilly,northern grampians
+1783,mount dandenong,yarra ranges
+1784,murra warra,hindmarsh horsham yarriambiack
+1785,nareen,glenelg southern grampians west wimmera
+1786,naringal east,moyne
+1787,newhaven,bass coast
+1788,normanville,gannawarra
+1789,paradise beach,wellington
+1790,patchewollock,hindmarsh mildura yarriambiack
+1791,pine view,gannawarra
+1792,pomonal,ararat northern grampians
+1793,rathscar,pyrenees
+1794,reservoir,darebin
+1795,roxburgh park,hume
+1796,sarsfield,east gippsland
+1797,silverleaves,bass coast
+1798,stony creek central goldfields ,central goldfields
+1799,sunderland bay,bass coast
+1800,tallangatta south,towong
+1801,tarrengower,mount alexander
+1802,teddywaddy,buloke
+1803,the basin,knox
+1804,tintaldra,towong
+1805,tresco west,swan hill
+1806,tylden,hepburn macedon ranges
+1807,tyrendarra,glenelg
+1808,ultima,swan hill
+1809,wairewa,east gippsland
+1810,wando vale,glenelg southern grampians
+1811,wilkur,buloke
+1812,windermere,ballarat
+1813,woodend,macedon ranges
+1814,wychitella north,loddon
+1815,yanakie,south gippsland unincorporated vic
+1816,yarragon,baw baw
+1817,ardeer,brimbank
+1818,bald hills,ballarat
+1819,bamganie,golden plains
+1820,bannerton,swan hill
+1821,baringhup,mount alexander
+1822,barmah,moira
+1823,berrys creek,south gippsland
+1824,black rock,bayside
+1825,brooklyn,brimbank hobsons bay maribyrnong wyndham
+1826,brookville,east gippsland
+1827,buckland,alpine
+1828,bulart,southern grampians
+1829,bulleen,manningham
+1830,bundalong south,moira
+1831,bunkers hill,ballarat
+1832,burrowye,towong
+1833,chinkapook,swan hill
+1834,chintin,macedon ranges
+1835,cobbannah,east gippsland
+1836,cooriemungle,corangamite
+1837,cranbourne west,casey
+1838,creswick,ballarat hepburn
+1839,daisy hill,central goldfields
+1840,dartmouth,east gippsland towong
+1841,dennington,moyne warrnambool
+1842,doncaster,manningham
+1843,driffield,latrobe
+1844,dunneworthy,ararat
+1845,essendon west,moonee valley
+1846,eynesbury,melton moorabool wyndham
+1847,fairy dell campaspe ,campaspe
+1848,faraday,mount alexander
+1849,gherang,surf coast
+1850,gillieston,greater shepparton
+1851,glengarry north,baw baw latrobe wellington
+1852,gobarup,campaspe
+1853,goldsborough,central goldfields
+1854,gordon,moorabool
+1855,grand ridge,latrobe south gippsland wellington
+1856,greenvale,hume
+1857,hallora,baw baw
+1858,hamilton,southern grampians
+1859,harrow,horsham southern grampians west wimmera
+1860,hazelwood north,latrobe
+1861,ivanhoe east,banyule
+1862,kanumbra,murrindindi
+1863,karabeal,southern grampians
+1864,kialla east,greater shepparton
+1865,knoxfield,knox
+1866,laen east,buloke
+1867,lake gardens,ballarat
+1868,lamplough,pyrenees
+1869,lardner,baw baw
+1870,lethbridge,golden plains
+1871,lindsay,glenelg
+1872,longwood,strathbogie
+1873,lower moira,moira
+1874,mannibadar,golden plains
+1875,meredith,golden plains
+1876,miepoll,strathbogie
+1877,millbrook,moorabool
+1878,mincha west,gannawarra
+1879,mount bute,corangamite
+1880,moutajup,southern grampians
+1881,natya,swan hill
+1882,nhill,hindmarsh
+1883,nutfield,nillumbik
+1884,nyarrin,buloke
+1885,peterborough,corangamite moyne
+1886,port welshpool,south gippsland
+1887,prairie,loddon
+1888,princetown,corangamite
+1889,ringwood,maroondah
+1890,ringwood east,maroondah
+1891,rosebrook,moyne
+1892,seacombe,wellington
+1893,serviceton,west wimmera
+1894,she oaks,golden plains
+1895,speed,yarriambiack
+1896,springhurst,wangaratta
+1897,suggan buggan,east gippsland
+1898,summerlands,bass coast
+1899,tahara west,glenelg
+1900,tarrington,southern grampians
+1901,the heart,wellington
+1902,thornton,murrindindi
+1903,timor,central goldfields
+1904,vite vite,corangamite
+1905,wallacedale,glenelg moyne southern grampians
+1906,warneet,casey
+1907,waubra,ballarat hepburn pyrenees
+1908,weerite,corangamite
+1909,werribee,wyndham
+1910,wild dog valley,south gippsland
+1911,willowvale,golden plains
+1912,wingan river,east gippsland
+1913,wooroonook,buloke
+1914,yendon,moorabool
+1915,zumsteins,northern grampians
+1916,albert park,port phillip
+1917,altona,hobsons bay
+1918,ashwood,monash
+1919,attwood,hume
+1920,bangerang,yarriambiack
+1921,barkers creek,mount alexander
+1922,belmont,greater geelong
+1923,berrybank,corangamite golden plains
+1924,berwick,casey
+1925,blackburn south,whitehorse
+1926,bonshaw,ballarat
+1927,boosey,moira
+1928,box hill south,whitehorse
+1929,breakaway creek,glenelg moyne
+1930,brucknell,corangamite
+1931,burramine,moira
+1932,burwood east,whitehorse
+1933,cape schanck,mornington peninsula
+1934,carngham,pyrenees
+1935,carrajung lower,wellington
+1936,carron,buloke
+1937,chelsea,kingston
+1938,chewton bushlands,mount alexander
+1939,clydebank,wellington
+1940,cobram east,moira
+1941,cohuna,gannawarra
+1942,combienbar,east gippsland
+1943,coral bank,alpine
+1944,denicull creek,ararat
+1945,devon meadows,casey
+1946,dollar,south gippsland
+1947,dreeite south,colac otway
+1948,dunolly,central goldfields loddon
+1949,ellaswood,east gippsland
+1950,enfield,golden plains
+1951,fairy dell east gippsland ,east gippsland
+1952,gnarwarre,surf coast
+1953,goornong,greater bendigo
+1954,goulburn weir,strathbogie
+1955,gringegalgona,southern grampians
+1956,gruyere,yarra ranges
+1957,harrietville,alpine
+1958,hawkesdale,moyne
+1959,hazel park,south gippsland
+1960,heidelberg heights,banyule
+1961,hollands landing,east gippsland wellington
+1962,illowa,moyne warrnambool
+1963,inverloch,bass coast south gippsland
+1964,iona,cardinia
+1965,kalkee,horsham
+1966,kewell,yarriambiack
+1967,killara wodonga ,wodonga
+1968,kilmore east,mitchell
+1969,koonoomoo,moira
+1970,lima south,benalla mansfield
+1971,llanelly,loddon
+1972,long gully,greater bendigo
+1973,maiden gully,greater bendigo
+1974,mandurang,greater bendigo
+1975,mandurang south,greater bendigo
+1976,mcintyre,loddon
+1977,merricks beach,mornington peninsula
+1978,metung,east gippsland
+1979,minimay,west wimmera
+1980,nangeela,glenelg
+1981,narrawong,glenelg
+1982,nayook,baw baw
+1983,nerrina,ballarat
+1984,nyora,bass coast baw baw cardinia south gippsland
+1985,ocean grove,greater geelong
+1986,olinda,yarra ranges
+1987,powelltown,yarra ranges
+1988,raymond island,east gippsland
+1989,ruby,south gippsland
+1990,sandford,glenelg
+1991,scotchmans lead,ballarat
+1992,scotsburn,ballarat moorabool
+1993,seaholme,hobsons bay
+1994,seville east,yarra ranges
+1995,shays flat,northern grampians
+1996,skenes creek north,colac otway
+1997,snake island,wellington
+1998,st helena,banyule
+1999,stewarton,benalla greater shepparton strathbogie
+2000,tandarook,corangamite
+2001,tarrayoukyan,southern grampians
+2002,thalia,buloke
+2003,tongala,campaspe
+2004,tooborac,mitchell
+2005,tragowel,gannawarra
+2006,tyenna,buloke
+2007,warrenmang,pyrenees
+2008,west footscray,maribyrnong
+2009,wongarra,colac otway
+2010,woodside beach,wellington
+2011,wootong vale,southern grampians
+2012,worrowing,wellington
+2013,yandoit hills,mount alexander
+2014,yangery,moyne warrnambool
+2015,yangoura,wellington
+2016,yarra junction,yarra ranges
+2017,zeerust,greater shepparton
+2018,anderson,bass coast
+2019,arawata,south gippsland
+2020,argyle,greater bendigo
+2021,ballarat north,ballarat
+2022,balliang east,moorabool
+2023,beechworth,indigo
+2024,benjeroop,gannawarra
+2025,blakeville,moorabool
+2026,boisdale,wellington
+2027,bowmans forest,wangaratta
+2028,bunbartha,greater shepparton
+2029,burnbank,pyrenees
+2030,callignee south,wellington
+2031,camperdown,corangamite
+2032,cape conran,east gippsland
+2033,carboor,wangaratta
+2034,chepstowe,pyrenees
+2035,clayton,monash
+2036,corinella,bass coast
+2037,cowangie,mildura
+2038,crooked river,wellington
+2039,curdies river,corangamite
+2040,derby,loddon
+2041,derrinallum,corangamite
+2042,dingley village,kingston
+2043,drik drik,glenelg
+2044,dutson downs,wellington
+2045,east geelong,greater geelong
+2046,east melbourne,melbourne
+2047,eden park,whittlesea
+2048,ellerslie,moyne
+2049,eurobin,alpine
+2050,flaggy creek,east gippsland
+2051,flamingo beach,wellington
+2052,gapsted,alpine
+2053,gheringhap,golden plains
+2054,gladstone park,hume
+2055,greendale,moorabool
+2056,harcourt,mount alexander
+2057,heathcote,greater bendigo
+2058,henty,glenelg
+2059,highton,greater geelong
+2060,irrewillipe,colac otway
+2061,jack river,wellington
+2062,johanna,colac otway
+2063,kangaroo ground,nillumbik
+2064,kenmare,hindmarsh
+2065,kinglake,murrindindi nillumbik yarra ranges
+2066,koo wee rup,cardinia
+2067,laharum,horsham northern grampians
+2068,lake mundi,glenelg
+2069,langi logan,ararat
+2070,lawler,buloke
+2071,londrigan,wangaratta
+2072,longwarry north,baw baw
+2073,lucknow,east gippsland
+2074,mallacoota,bega valley east gippsland unincorporated vic
+2075,mannerim,greater geelong
+2076,massey,buloke
+2077,mcloughlins beach,wellington
+2078,mildura,mildura
+2079,milnes bridge,gannawarra
+2080,mirboo north,south gippsland
+2081,mongans bridge,alpine
+2082,monomak,wellington
+2083,mount helen,ballarat
+2084,mount prospect,hepburn
+2085,mulgrave,monash
+2086,murchison east,greater shepparton
+2087,murraydale,swan hill
+2088,napoleons,golden plains
+2089,navigators,moorabool
+2090,nelse,east gippsland
+2091,noorat east,corangamite
+2092,nurcoung,west wimmera
+2093,nyah,swan hill
+2094,nyerimilang,east gippsland
+2095,officer south,cardinia
+2096,oxley,wangaratta
+2097,panton hill,nillumbik
+2098,piggoreet,golden plains
+2099,red cliffs,mildura
+2100,reedy creek,mitchell
+2101,reynard,mansfield wellington
+2102,south morang,whittlesea
+2103,steels creek,yarra ranges
+2104,talgarno,towong
+2105,tanybryn,colac otway
+2106,taylors lakes,brimbank
+2107,terrick terrick east,campaspe
+2108,thologolong,towong
+2109,walhalla east,wellington
+2110,wallaloo,northern grampians
+2111,wharparilla,campaspe
+2112,wheatsheaf,hepburn
+2113,whittlesea,whittlesea
+2114,willaura north,ararat
+2115,williams landing,wyndham
+2116,yawong hills,buloke
+2117,yeodene,colac otway
+2118,yinnar south,latrobe
+2119,adams estate,bass coast
+2120,arnold west,loddon
+2121,avondale heights,moonee valley
+2122,balwyn north,banyule boroondara manningham whitehorse
+2123,baynton,macedon ranges
+2124,bears lagoon,loddon
+2125,beech forest,colac otway
+2126,bogong,alpine
+2127,boho,strathbogie
+2128,boorhaman,wangaratta
+2129,bornes hill,ararat
+2130,boxwood,benalla greater shepparton moira
+2131,bridgewater on loddon,loddon
+2132,butchers ridge,east gippsland
+2133,callawadda,northern grampians
+2134,cambarville,yarra ranges
+2135,cannons creek,casey
+2136,canterbury,boroondara
+2137,carlton,melbourne
+2138,colac east,colac otway
+2139,condah,glenelg
+2140,corringle,east gippsland
+2141,corryong,towong
+2142,cremorne,yarra
+2143,crymelon,yarriambiack
+2144,deddick valley,east gippsland
+2145,digby,glenelg
+2146,dockers plains,wangaratta
+2147,doreen,nillumbik whittlesea
+2148,drumcondra,greater geelong
+2149,dumbalk,south gippsland
+2150,dunluce,central goldfields
+2151,eurack,colac otway
+2152,freeburgh,alpine
+2153,garfield north,cardinia
+2154,gelliondale,wellington
+2155,glen valley,east gippsland
+2156,glenormiston north,corangamite
+2157,gobur,murrindindi
+2158,grangefields,melton
+2159,graytown,strathbogie
+2160,greta,wangaratta
+2161,guildford,hepburn mount alexander
+2162,hawkhurst,wellington
+2163,heidelberg,banyule
+2164,hesket,macedon ranges
+2165,keilor,brimbank hume
+2166,kew east,boroondara
+2167,kooreh,northern grampians
+2168,lake boga,swan hill
+2169,lillimur,west wimmera
+2170,marionvale,greater shepparton
+2171,maryvale,latrobe
+2172,mologa,loddon
+2173,monegeetta,macedon ranges
+2174,moorabbin,kingston
+2175,moorabbin airport,kingston
+2176,mount beauty,alpine
+2177,mount franklin,hepburn
+2178,mount macedon,macedon ranges
+2179,moyhu,wangaratta
+2180,neilborough,greater bendigo
+2181,newbury,hepburn
+2182,nirranda south,moyne
+2183,north wonthaggi,bass coast
+2184,numurkah,moira
+2185,peechelba east,wangaratta
+2186,pennyroyal,surf coast
+2187,point leo,mornington peninsula
+2188,port melbourne,hobsons bay maribyrnong melbourne port phillip
+2189,redesdale,greater bendigo mitchell mount alexander
+2190,runnymede,campaspe
+2191,ryans,east gippsland
+2192,sandhurst,frankston
+2193,sandon,mount alexander
+2194,shady creek,baw baw
+2195,shelbourne,greater bendigo loddon mount alexander
+2196,silvan,yarra ranges
+2197,simpson,colac otway corangamite
+2198,smoko,alpine
+2199,smythesdale,golden plains pyrenees
+2200,springmount,hepburn
+2201,stockyard hill,pyrenees
+2202,telford,moira
+2203,thornbury,darebin
+2204,timor west,central goldfields
+2205,tolmie,benalla mansfield wangaratta
+2206,tottington,northern grampians
+2207,undera,greater shepparton
+2208,vermont south,whitehorse
+2209,walkerville south,south gippsland
+2210,wangaratta,wangaratta
+2211,warburton,yarra ranges
+2212,warrandyte south,manningham
+2213,white hills,greater bendigo
+2214,willowmavin,mitchell
+2215,won wron,wellington
+2216,yallourn north,baw baw latrobe
+2217,yan yean,whittlesea
+2218,aberfeldy,baw baw
+2219,aintree,melton
+2220,armadale,stonnington
+2221,barwidgee,alpine
+2222,bayswater,knox
+2223,beenak,yarra ranges
+2224,billabong,wellington
+2225,bingo munjie,east gippsland
+2226,bringalbert,west wimmera
+2227,broughton,hindmarsh
+2228,brunswick east,moreland
+2229,buchan south,east gippsland
+2230,calder park,brimbank
+2231,cape otway,colac otway
+2232,capels crossing,gannawarra
+2233,cardinia,cardinia
+2234,carina,mildura
+2235,clunes,hepburn
+2236,coalville,baw baw
+2237,coomboona,greater shepparton
+2238,cross roads,pyrenees
+2239,dixons creek,yarra ranges
+2240,eaglehawk north,greater bendigo
+2241,eddington,central goldfields loddon mount alexander
+2242,elevated plains,hepburn
+2243,fish point,swan hill
+2244,flynn,latrobe wellington
+2245,fulham,wellington
+2246,glenaroua,mitchell
+2247,golden beach,wellington
+2248,grahamvale,greater shepparton
+2249,grey river,colac otway
+2250,gundowring,alpine indigo towong
+2251,havelock,central goldfields
+2252,haven,horsham
+2253,hesse,golden plains
+2254,jancourt,corangamite
+2255,jeruk,buloke
+2256,keilor downs,brimbank
+2257,keilor park,brimbank
+2258,kialla west,greater shepparton
+2259,killarney,moyne
+2260,kingston,hepburn
+2261,kinypanial,loddon
+2262,koo wee rup north,cardinia
+2263,lancefield,macedon ranges
+2264,lawrence,hepburn
+2265,lima,benalla
+2266,lismore,corangamite
+2267,llowalong,wellington
+2268,macorna,gannawarra loddon
+2269,macorna north,gannawarra
+2270,madalya,wellington
+2271,maddingley,moorabool
+2272,mambourin,wyndham
+2273,mcmillans,gannawarra
+2274,melton south,melton
+2275,merrimu,moorabool
+2276,mickleham,hume
+2277,monomeith,cardinia
+2278,montrose,yarra ranges
+2279,mooralla,southern grampians
+2280,morgiana,southern grampians
+2281,mount cole creek,ararat
+2282,mount duneed,greater geelong surf coast
+2283,mount sabine,colac otway
+2284,narre warren,casey
+2285,nulla vale,mitchell
+2286,oakleigh,monash
+2287,oxley flats,wangaratta
+2288,painswick,loddon
+2289,pascoe vale,moreland
+2290,pastoria east,macedon ranges
+2291,petticoat creek,colac otway
+2292,picola,moira
+2293,poolaijelo,west wimmera
+2294,ravenswood,greater bendigo mount alexander
+2295,red lion,central goldfields
+2296,rocklands,southern grampians
+2297,rutherglen,indigo
+2298,sebastian,greater bendigo loddon
+2299,somerville,mornington peninsula
+2300,sutherland,northern grampians
+2301,tamboon,east gippsland
+2302,tanjil bren,baw baw
+2303,tarcombe,mitchell strathbogie
+2304,tarrawarra,yarra ranges
+2305,tetoora road,baw baw
+2306,toombon,baw baw
+2307,tullamarine,brimbank hume moonee valley moreland
+2308,turriff east,buloke
+2309,upper ferntree gully,knox yarra ranges
+2310,wahgunyah,indigo
+2311,warrnambool,moyne warrnambool
+2312,wee wee rup,gannawarra
+2313,wentworth,east gippsland
+2314,wonyip,wellington
+2315,woodleigh,bass coast
+2316,wuk wuk,east gippsland
+2317,wurruk,wellington
+2318,wyelangta,colac otway
+2319,ancona,mansfield
+2320,anglers rest,east gippsland
+2321,arthurs creek,nillumbik
+2322,ascot greater bendigo ,greater bendigo
+2323,ashburton,boroondara
+2324,balmoral,southern grampians
+2325,beazleys bridge,northern grampians
+2326,bennison,south gippsland
+2327,berringama,towong
+2328,bonang,east gippsland
+2329,bridgewater,loddon
+2330,brimpaen,horsham
+2331,bullarook,moorabool
+2332,campbelltown,central goldfields hepburn mount alexander
+2333,caulfield south,glen eira
+2334,chocolyn,corangamite
+2335,chum creek,yarra ranges
+2336,clarkefield,hume macedon ranges mitchell
+2337,cobaw,macedon ranges
+2338,codrington,moyne
+2339,connewirricoo,west wimmera
+2340,coonooer bridge,buloke loddon northern grampians
+2341,corack east,buloke
+2342,cosgrove south,greater shepparton
+2343,cotswold,central goldfields
+2344,creswick north,hepburn
+2345,croydon south,maroondah
+2346,culla,southern grampians
+2347,daltons bridge,gannawarra
+2348,dartmoor,glenelg
+2349,derrimut,brimbank
+2350,double bridges,east gippsland
+2351,dutton way,glenelg
+2352,echuca,campaspe
+2353,eldorado,wangaratta
+2354,elliminyt,colac otway
+2355,essendon fields,moonee valley
+2356,forrest,colac otway
+2357,gatum,southern grampians
+2358,gellibrand lower,colac otway corangamite
+2359,gembrook,cardinia
+2360,glengower,central goldfields hepburn
+2361,golden gully,greater bendigo
+2362,goorambat,benalla
+2363,happy valley golden plains ,golden plains
+2364,hexham,moyne
+2365,heywood,glenelg
+2366,hiamdale,wellington
+2367,hmas cerberus,mornington peninsula
+2368,invermay park,ballarat
+2369,jacob creek,baw baw
+2370,kallista,yarra ranges
+2371,king valley,wangaratta
+2372,koriella,murrindindi
+2373,lake charm,gannawarra
+2374,lake eildon,mansfield
+2375,leitchville,campaspe gannawarra loddon murray river
+2376,leongatha south,south gippsland
+2377,lexton,pyrenees
+2378,lillicur,central goldfields pyrenees
+2379,maffra,wellington
+2380,malvern east,stonnington
+2381,maryborough,central goldfields
+2382,mccrae,mornington peninsula
+2383,melwood,east gippsland
+2384,metcalfe,mount alexander
+2385,moolort,central goldfields mount alexander
+2386,mossiface,east gippsland
+2387,munro,wellington
+2388,murmungee,wangaratta
+2389,musk,hepburn
+2390,myola,campaspe
+2391,navarre,northern grampians pyrenees
+2392,neerim junction,baw baw
+2393,newry,wellington
+2394,north bendigo,greater bendigo
+2395,nullawil,buloke
+2396,nyrraby,swan hill
+2397,orford,moyne
+2398,outtrim,bass coast south gippsland
+2399,ovens,alpine
+2400,pakenham,cardinia
+2401,pentland hills,moorabool
+2402,pittong,corangamite golden plains pyrenees
+2403,point wilson,greater geelong
+2404,porepunkah,alpine
+2405,powlett plains,loddon
+2406,rosebery,yarriambiack
+2407,rye,mornington peninsula
+2408,sedgwick,greater bendigo
+2409,smokeytown,hepburn
+2410,southbank,melbourne port phillip
+2411,stoneleigh,pyrenees
+2412,strath creek,murrindindi
+2413,sunset strip,bass coast
+2414,tahara bridge,glenelg
+2415,tarilta,hepburn mount alexander
+2416,tatong,benalla
+2417,toora north,south gippsland wellington
+2418,trawalla,pyrenees
+2419,tynong north,cardinia
+2420,upper gundowring,alpine
+2421,vervale,cardinia
+2422,wandana heights,greater geelong
+2423,warncoort,colac otway
+2424,warragul south,baw baw
+2425,waterloo,pyrenees
+2426,winlaton,swan hill
+2427,winton,benalla
+2428,wulgulmerang west,east gippsland
+2429,wunghnu,moira
+2430,abbotsford,yarra
+2431,alma,central goldfields
+2432,amherst,central goldfields
+2433,apsley,west wimmera
+2434,avenel,mitchell strathbogie
+2435,balaclava,port phillip
+2436,barnadown,greater bendigo
+2437,barrakee,buloke
+2438,baw baw village,unincorporated vic
+2439,big desert,hindmarsh mildura southern mallee tatiara west wimmera yarriambiack
+2440,boundary bend,swan hill
+2441,bradford,mount alexander
+2442,bravington,baw baw
+2443,carlton north,melbourne moreland yarra
+2444,carrajung,wellington
+2445,chapel flat,ballarat
+2446,cloverlea,baw baw
+2447,clyde,casey
+2448,cobram,moira
+2449,corack,buloke
+2450,coragulac,colac otway
+2451,corop,campaspe
+2452,cranbourne east,casey
+2453,cundare north,colac otway corangamite
+2454,dallas,hume
+2455,darlington,corangamite moyne
+2456,dean,hepburn
+2457,dhurringile,greater shepparton
+2458,dromana,mornington peninsula
+2459,drouin west,baw baw
+2460,drummond,hepburn
+2461,east sale,wellington
+2462,eversley,ararat
+2463,footscray,maribyrnong
+2464,glendaruel,ballarat
+2465,gre gre south,northern grampians
+2466,hampton park,casey
+2467,homebush,pyrenees
+2468,hoppers crossing,wyndham
+2469,horsham,horsham
+2470,icy creek,baw baw
+2471,kamarooka,greater bendigo loddon
+2472,keysborough,greater dandenong
+2473,kilsyth south,maroondah
+2474,kingsville,maribyrnong
+2475,koallah,corangamite
+2476,kongwak,bass coast south gippsland
+2477,koonwarra,south gippsland
+2478,lang lang east,cardinia
+2479,langdons hill,hepburn
+2480,leongatha north,south gippsland
+2481,lockwood,greater bendigo
+2482,maldon,mount alexander
+2483,mardan,south gippsland
+2484,metcalfe east,mount alexander
+2485,murrayville,mildura
+2486,murroon,colac otway
+2487,nathalia,moira
+2488,newlyn,hepburn
+2489,ninda,buloke
+2490,north geelong,greater geelong
+2491,northwood,mitchell
+2492,ormond,glen eira
+2493,porcupine ridge,hepburn
+2494,pyramid hill,loddon
+2495,rich avon east,northern grampians
+2496,ross creek,golden plains
+2497,rossbridge,ararat
+2498,rostron,northern grampians
+2499,samaria,benalla
+2500,sandy point,south gippsland
+2501,sassafras,yarra ranges
+2502,sidonia,macedon ranges
+2503,skye,frankston
+2504,spring gully,greater bendigo
+2505,strathallan,campaspe
+2506,strathmore heights,moonee valley
+2507,sunday creek,mitchell
+2508,teddywaddy west,buloke
+2509,templestowe,manningham
+2510,tempy,buloke mildura yarriambiack
+2511,the gurdies,bass coast
+2512,thomastown,whittlesea
+2513,towaninny south,buloke
+2514,wando bridge,glenelg
+2515,warrak,ararat
+2516,whiteheads creek,mitchell
+2517,whitelaw,south gippsland
+2518,whitlands,wangaratta
+2519,whroo,campaspe greater shepparton strathbogie
+2520,willung,wellington
+2521,woodend north,macedon ranges
+2522,wooreen,south gippsland
+2523,yabba north,moira
+2524,yannathan,cardinia
+2525,yielima,moira
+2526,yinnar,latrobe
+2527,addington,ballarat
+2528,arbuckle,wellington
+2529,ashbourne,macedon ranges
+2530,bagshot,greater bendigo
+2531,baranduda,wodonga
+2532,barramunga,colac otway
+2533,basalt,hepburn
+2534,beaconsfield upper,cardinia
+2535,benayeo,west wimmera
+2536,big hill surf coast ,surf coast
+2537,blackwood,moorabool
+2538,bolinda,macedon ranges
+2539,boole poole,east gippsland
+2540,buckley,surf coast
+2541,bundara,east gippsland
+2542,burwood,boroondara monash whitehorse
+2543,cargerie,moorabool
+2544,cochranes creek,loddon
+2545,colac,colac otway
+2546,coleraine,southern grampians
+2547,cooma,greater shepparton
+2548,cornella,campaspe
+2549,cressy,colac otway corangamite golden plains
+2550,darnum,baw baw
+2551,deanside,melton
+2552,deep lead,northern grampians
+2553,delegate river,east gippsland
+2554,diggora,campaspe
+2555,douglas,horsham west wimmera
+2556,drung,horsham
+2557,dry diggings,hepburn
+2558,durham ox,loddon
+2559,edithvale,kingston
+2560,evansford,central goldfields hepburn pyrenees
+2561,gateway island,wodonga
+2562,gentle annie,baw baw
+2563,girgarre,campaspe
+2564,glenmore,moorabool
+2565,glenroy,moreland
+2566,goschen,swan hill
+2567,grantville,bass coast
+2568,great western,ararat northern grampians
+2569,jeeralang,latrobe
+2570,kaniva,west wimmera
+2571,kyneton,macedon ranges
+2572,kyvalley,campaspe
+2573,leigh creek,moorabool
+2574,lillico,baw baw
+2575,lockwood south,greater bendigo mount alexander
+2576,lorne,surf coast
+2577,lucas,ballarat
+2578,maidstone,maribyrnong
+2579,marnoo,northern grampians
+2580,marungi,greater shepparton moira
+2581,matlock,baw baw mansfield murrindindi yarra ranges
+2582,milawa,wangaratta
+2583,mincha,loddon
+2584,moonee ponds,moonee valley
+2585,moonlight flat mount alexander ,mount alexander
+2586,mooroopna,greater shepparton
+2587,mount clear,ballarat
+2588,mount martha,mornington peninsula
+2589,mount mercer,golden plains
+2590,mount moriac,surf coast
+2591,mount pleasant,ballarat
+2592,nangiloc,mildura
+2593,nerrin nerrin,ararat moyne pyrenees
+2594,nintingbool,golden plains
+2595,notting hill,monash
+2596,nug nug,alpine
+2597,nunniong,east gippsland
+2598,paynesville,east gippsland
+2599,penshurst,moyne southern grampians
+2600,pomborneit north,corangamite
+2601,preston,darebin
+2602,reefton,yarra ranges
+2603,rocklyn,hepburn
+2604,seaford,frankston
+2605,sorrento,mornington peninsula
+2606,springfield buloke ,buloke
+2607,st clair,bass coast
+2608,st leonards,greater geelong
+2609,stonehaven,golden plains
+2610,tanwood,pyrenees
+2611,tarneit,wyndham
+2612,telangatuk east,horsham
+2613,terrappee,buloke loddon
+2614,ultima east,swan hill
+2615,vectis,horsham
+2616,wahring,strathbogie
+2617,wallington,greater geelong
+2618,wareek,central goldfields
+2619,warracknabeal,yarriambiack
+2620,wartook,horsham northern grampians
+2621,woods point,baw baw mansfield wellington yarra ranges
+2622,yea,murrindindi
+2623,york plains,northern grampians
+2624,apollo bay,colac otway
+2625,balook,latrobe wellington
+2626,barongarook,colac otway
+2627,bellfield banyule ,banyule
+2628,bessiebelle,glenelg moyne
+2629,beverford,swan hill
+2630,bobinawarrah,wangaratta
+2631,bonnie doon,mansfield
+2632,bowser,wangaratta
+2633,brandy creek,baw baw
+2634,broken creek,benalla
+2635,bunyip,cardinia
+2636,cannum,yarriambiack
+2637,cardigan village,ballarat
+2638,carwarp,mildura
+2639,chetwynd,glenelg southern grampians west wimmera
+2640,churchill island,bass coast
+2641,chute,pyrenees
+2642,cobblebank,melton
+2643,congupna,greater shepparton
+2644,coronet bay,bass coast
+2645,crossley,moyne
+2646,delahey,brimbank
+2647,donnybrook,whittlesea
+2648,dooen,horsham
+2649,dreeite,colac otway corangamite
+2650,echuca west,campaspe
+2651,edgecombe,macedon ranges
+2652,endeavour hills,casey
+2653,exford,melton
+2654,fairfield,boroondara darebin yarra
+2655,foster,south gippsland
+2656,frenchmans,pyrenees
+2657,gladfield,loddon
+2658,gladysdale,yarra ranges
+2659,glenaire,colac otway
+2660,glenmaggie,wellington
+2661,glenrowan,benalla wangaratta
+2662,gowar east,buloke loddon northern grampians
+2663,green gully,mount alexander
+2664,guys forest,towong
+2665,herne hill,greater geelong
+2666,hotspur,glenelg
+2667,howitt plains,alpine mansfield wangaratta wellington
+2668,inverleigh,golden plains surf coast
+2669,kaarimba,moira
+2670,karnak,west wimmera
+2671,kensington,maribyrnong melbourne moonee valley
+2672,kolora,corangamite moyne
+2673,koroop,gannawarra
+2674,laanecoorie,loddon
+2675,ladys pass,greater bendigo
+2676,lilydale,yarra ranges
+2677,loch,bass coast south gippsland
+2678,locksley,strathbogie
+2679,loddon vale,loddon
+2680,mafeking,ararat
+2681,main lead,pyrenees
+2682,markwood,wangaratta
+2683,melton west,melton
+2684,mount best,south gippsland
+2685,mount bruno,benalla
+2686,mount doran,moorabool
+2687,mount evelyn,yarra ranges
+2688,mount major,greater shepparton
+2689,murgheboluc,golden plains
+2690,mysia,loddon
+2691,newham,macedon ranges
+2692,nirranda east,moyne
+2693,nullawarre,moyne
+2694,ondit,colac otway
+2695,patho,campaspe
+2696,point cook,wyndham
+2697,pomborneit,corangamite
+2698,portland west,glenelg
+2699,ripponlea,port phillip
+2700,robinvale,swan hill
+2701,romsey,macedon ranges
+2702,rosebud,mornington peninsula
+2703,selby,yarra ranges
+2704,shepparton north,greater shepparton
+2705,staughton vale,greater geelong
+2706,strathbogie,strathbogie
+2707,strathkellar,southern grampians
+2708,swifts creek,east gippsland
+2709,sylvaterre,loddon
+2710,teal point,gannawarra
+2711,tenby point,bass coast
+2712,terang,corangamite moyne
+2713,tittybong,gannawarra
+2714,toolangi,murrindindi yarra ranges
+2715,torrumbarry,campaspe
+2716,towan,swan hill
+2717,tremont,yarra ranges
+2718,trentham,hepburn moorabool
+2719,wallup,yarriambiack
+2720,wandown,swan hill
+2721,warmur,buloke
+2722,wattle hill,corangamite
+2723,werneth,corangamite golden plains
+2724,willangie,buloke
+2725,wilsons promontory,south gippsland unincorporated vic wellington
+2726,wonthaggi,bass coast
+2727,yalmy,east gippsland
+2728,yundool,moira
+2729,ngarkat,coorong mildura southern mallee tatiara west wimmera
+2730,amphitheatre,pyrenees
+2731,antwerp,hindmarsh
+2732,archerton,benalla mansfield wangaratta
+2733,archies creek,bass coast
+2734,arthurs seat,mornington peninsula
+2735,athlone,baw baw
+2736,avalon,greater geelong
+2737,ballarat east,ballarat
+2738,balmattum,strathbogie
+2739,banyena,northern grampians
+2740,baringhup west,mount alexander
+2741,barkstead,moorabool
+2742,barraport,loddon
+2743,barwite,mansfield
+2744,betley,central goldfields
+2745,big pats creek,yarra ranges
+2746,blairgowrie,mornington peninsula
+2747,boolarra,latrobe
+2748,brighton,bayside
+2749,callignee,latrobe
+2750,chatsworth,ararat moyne
+2751,christmas hills,nillumbik
+2752,curlewis,greater geelong
+2753,dargo,alpine east gippsland unincorporated vic wellington
+2754,deepdene,boroondara
+2755,denison,wellington
+2756,dinner plain,alpine
+2757,drumanure,moira
+2758,drummartin,greater bendigo
+2759,dutson,wellington
+2760,edenhope,west wimmera
+2761,elizabeth island,unincorporated vic
+2762,fernbank,east gippsland wellington
+2763,forbes,mitchell
+2764,fraser rise,melton
+2765,gardenvale,glen eira
+2766,gerang gerung,hindmarsh
+2767,glengarry,latrobe wellington
+2768,glenpatrick,pyrenees
+2769,goon nure,east gippsland
+2770,harkness,melton
+2771,heytesbury lower,corangamite
+2772,katandra,greater shepparton
+2773,kealba,brimbank
+2774,kennedys creek,corangamite
+2775,korong vale,loddon
+2776,kurraca west,loddon
+2777,lance creek,bass coast
+2778,lindenow south,east gippsland
+2779,marshall,greater geelong
+2780,marysville,murrindindi unincorporated vic yarra ranges
+2781,melton,melton
+2782,merriang south,alpine
+2783,middle creek,ararat pyrenees
+2784,middle tarwin,south gippsland
+2785,morrl morrl,northern grampians
+2786,mount cameron,central goldfields
+2787,muckleford,mount alexander
+2788,nalinga,greater shepparton
+2789,nambrok,wellington
+2790,nangana,cardinia
+2791,nap nap marra,wellington
+2792,narrapumelap south,ararat
+2793,neds corner,mildura
+2794,newcomb,greater geelong
+2795,noorat,corangamite
+2796,norong,indigo
+2797,north shore,greater geelong
+2798,nowa nowa,east gippsland
+2799,nurrabiel,horsham
+2800,port albert,wellington
+2801,riggs creek,strathbogie
+2802,rosedale,wellington
+2803,rowville,knox
+2804,rubicon,murrindindi
+2805,simpsons creek,east gippsland
+2806,springvale south,greater dandenong
+2807,st kilda east,glen eira port phillip stonnington
+2808,stanley,indigo
+2809,stratford,wellington
+2810,tabberabbera,east gippsland
+2811,tamboritha,wellington
+2812,tatura east,greater shepparton
+2813,toolern vale,melton
+2814,torrita,mildura
+2815,towong upper,towong
+2816,upper ryans creek,benalla
+2817,vite vite north,corangamite
+2818,walwa,towong
+2819,wangandary,wangaratta
+2820,wattle creek,northern grampians
+2821,willenabrina,yarriambiack
+2822,woodside,wellington
+2823,yering,yarra ranges
+2824,ascot ballarat ,ballarat
+2825,aspendale,kingston
+2826,axedale,greater bendigo
+2827,bellbird creek,east gippsland
+2828,benloch,macedon ranges
+2829,benwerrin,surf coast
+2830,birdwoodton,mildura
+2831,blampied,hepburn
+2832,bookaar,corangamite
+2833,bowenvale,central goldfields
+2834,briar hill,banyule
+2835,broadwater,moyne
+2836,bumberrah,east gippsland
+2837,burnley,yarra
+2838,bushy park,wellington
+2839,byaduk,glenelg moyne southern grampians
+2840,byrneside,greater shepparton
+2841,campbells bridge,northern grampians
+2842,canadian,ballarat
+2843,cape clear,golden plains
+2844,catani,cardinia
+2845,cathcart,ararat
+2846,cavendish,southern grampians
+2847,chinangin,swan hill
+2848,cocamba,swan hill
+2849,cope cope,buloke northern grampians
+2850,creek junction,benalla mansfield strathbogie
+2851,creightons creek,strathbogie
+2852,curdievale,corangamite moyne
+2853,dimboola,hindmarsh
+2854,drumborg,glenelg
+2855,dumbalk north,south gippsland
+2856,durham lead,ballarat golden plains moorabool
+2857,duverney,corangamite
+2858,falls creek,alpine east gippsland unincorporated vic
+2859,fawcett,murrindindi
+2860,fitzroy,yarra
+2861,fumina south,baw baw
+2862,garvoc,corangamite moyne
+2863,gellibrand,colac otway
+2864,gerrigerrup,moyne
+2865,gil gil,buloke
+2866,glenbrae,pyrenees
+2867,glenloth east,buloke loddon
+2868,glenluce,mount alexander
+2869,glomar beach,wellington
+2870,gooramadda,indigo
+2871,gormandale,wellington
+2872,grampians,southern grampians
+2873,harcourt north,greater bendigo mount alexander
+2874,harston,greater shepparton
+2875,heath hill,baw baw cardinia
+2876,heidelberg west,banyule
+2877,hughesdale,monash
+2878,ingliston,moorabool
+2879,jacana,hume
+2880,jackass flat,greater bendigo
+2881,kancoona,alpine
+2882,kennett river,colac otway
+2883,kerang,gannawarra
+2884,kingsbury,darebin
+2885,korumburra south,south gippsland
+2886,lake rowan,moira
+2887,landsborough west,northern grampians
+2888,lara,greater geelong
+2889,leopold,greater geelong
+2890,linga,mildura
+2891,lockington,campaspe
+2892,lurg,benalla
+2893,mansfield,mansfield
+2894,mckenzie hill,mount alexander
+2895,menzies creek,cardinia yarra ranges
+2896,millgrove,yarra ranges
+2897,mitcham,whitehorse
+2898,moglonemby,strathbogie
+2899,moolap,greater geelong
+2900,moonlight flat central goldfields ,central goldfields
+2901,mount glasgow,central goldfields
+2902,mount rowan,ballarat
+2903,murchison north,greater shepparton
+2904,naring,moira
+2905,narrung,swan hill
+2906,natte yallock,central goldfields northern grampians pyrenees
+2907,nilma north,baw baw
+2908,noble park,greater dandenong
+2909,old tallangatta,towong
+2910,orbost,east gippsland
+2911,parwan,melton moorabool wyndham
+2912,patyah,west wimmera
+2913,pompapiel,loddon
+2914,pura pura,ararat corangamite moyne pyrenees
+2915,raglan,pyrenees
+2916,redcastle,campaspe greater bendigo strathbogie
+2917,rokeby,baw baw
+2918,sailors gully,greater bendigo
+2919,selwyn,alpine
+2920,smythes creek,ballarat golden plains
+2921,st helens,moyne
+2922,stawell,northern grampians
+2923,strathfieldsaye,greater bendigo
+2924,strzelecki,baw baw south gippsland
+2925,sunshine north,brimbank
+2926,tarnook,benalla
+2927,tarrone,moyne
+2928,thorpdale,baw baw
+2929,toolamba,greater shepparton
+2930,tooradin,cardinia casey
+2931,traralgon,latrobe
+2932,turriff,yarriambiack
+2933,tutye,mildura
+2934,tynong,cardinia
+2935,upper plenty,mitchell
+2936,waanyarra,loddon
+2937,wail,horsham
+2938,wargan,mildura
+2939,wattle glen,nillumbik
+2940,weering,colac otway
+2941,wesburn,yarra ranges
+2942,whorouly east,wangaratta
+2943,wimbledon heights,bass coast
+2944,wingeel,colac otway golden plains surf coast
+2945,winnap,glenelg
+2946,woodstock west,loddon
+2947,woomelang,yarriambiack
+2948,wycheproof,buloke
+2949,yallaypoora,ararat
+2950,yallambie,banyule
+2951,yarragon south,baw baw
