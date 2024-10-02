@@ -10,6 +10,7 @@ alpine,2020.0,13054.0
 alpine,2021.0,13166.0
 alpine,2022.0,13191.0
 alpine,2023.0,13182.0
+alpine,2024.0,13182.919946031217
 ararat,2013.0,11490.0
 ararat,2014.0,11560.0
 ararat,2015.0,11644.0
@@ -21,6 +22,7 @@ ararat,2020.0,11918.0
 ararat,2021.0,11827.0
 ararat,2022.0,11758.0
 ararat,2023.0,11683.0
+ararat,2024.0,11633.718762418066
 ballarat,2013.0,98344.0
 ballarat,2014.0,99914.0
 ballarat,2015.0,101479.0
@@ -32,6 +34,7 @@ ballarat,2020.0,111645.0
 ballarat,2021.0,113504.0
 ballarat,2022.0,116011.0
 ballarat,2023.0,118137.0
+ballarat,2024.0,120111.15093741348
 banyule,2013.0,124314.0
 banyule,2014.0,125107.0
 banyule,2015.0,126088.0
@@ -43,6 +46,7 @@ banyule,2020.0,130294.0
 banyule,2021.0,127370.0
 banyule,2022.0,127427.0
 banyule,2023.0,129602.0
+banyule,2024.0,129732.25088706095
 bass coast,2013.0,31331.0
 bass coast,2014.0,31917.0
 bass coast,2015.0,32576.0
@@ -54,6 +58,7 @@ bass coast,2020.0,38950.0
 bass coast,2021.0,40675.0
 bass coast,2022.0,41813.0
 bass coast,2023.0,42729.0
+bass coast,2024.0,43863.45342578972
 baw baw,2013.0,45627.0
 baw baw,2014.0,46644.0
 baw baw,2015.0,47837.0
@@ -65,6 +70,7 @@ baw baw,2020.0,55753.0
 baw baw,2021.0,57618.0
 baw baw,2022.0,59277.0
 baw baw,2023.0,60644.0
+baw baw,2024.0,62143.90700375005
 bayside,2013.0,98252.0
 bayside,2014.0,99797.0
 bayside,2015.0,101268.0
@@ -76,6 +82,7 @@ bayside,2020.0,105018.0
 bayside,2021.0,102328.0
 bayside,2022.0,102241.0
 bayside,2023.0,104272.0
+bayside,2024.0,104353.22882810097
 benalla,2013.0,13878.0
 benalla,2014.0,13898.0
 benalla,2015.0,13923.0
@@ -87,6 +94,7 @@ benalla,2020.0,14382.0
 benalla,2021.0,14436.0
 benalla,2022.0,14463.0
 benalla,2023.0,14529.0
+benalla,2024.0,14578.460739113356
 boroondara,2013.0,170485.0
 boroondara,2014.0,172660.0
 boroondara,2015.0,174753.0
@@ -98,6 +106,7 @@ boroondara,2020.0,177875.0
 boroondara,2021.0,169789.0
 boroondara,2022.0,169632.0
 boroondara,2023.0,174537.0
+boroondara,2024.0,174584.46840238845
 brimbank,2013.0,196169.0
 brimbank,2014.0,198468.0
 brimbank,2015.0,200860.0
@@ -109,6 +118,7 @@ brimbank,2020.0,204213.0
 brimbank,2021.0,196631.0
 brimbank,2022.0,193392.0
 brimbank,2023.0,196046.0
+brimbank,2024.0,196022.21436650315
 buloke,2013.0,6388.0
 buloke,2014.0,6335.0
 buloke,2015.0,6306.0
@@ -120,6 +130,7 @@ buloke,2020.0,6156.0
 buloke,2021.0,6132.0
 buloke,2022.0,6120.0
 buloke,2023.0,6040.0
+buloke,2024.0,6007.482633018148
 campaspe,2013.0,37213.0
 campaspe,2014.0,37338.0
 campaspe,2015.0,37429.0
@@ -131,6 +142,7 @@ campaspe,2020.0,38379.0
 campaspe,2021.0,38556.0
 campaspe,2022.0,38556.0
 campaspe,2023.0,38299.0
+campaspe,2024.0,38036.61546222667
 cardinia,2013.0,84591.0
 cardinia,2014.0,88070.0
 cardinia,2015.0,92298.0
@@ -142,6 +154,7 @@ cardinia,2020.0,116505.0
 cardinia,2021.0,119573.0
 cardinia,2022.0,123181.0
 cardinia,2023.0,126960.0
+cardinia,2024.0,130815.30383050418
 casey,2013.0,278023.0
 casey,2014.0,287937.0
 casey,2015.0,299528.0
@@ -153,6 +166,7 @@ casey,2020.0,363970.0
 casey,2021.0,369558.0
 casey,2022.0,379104.0
 casey,2023.0,392110.0
+casey,2024.0,402767.9880999555
 central goldfields,2013.0,12815.0
 central goldfields,2014.0,12884.0
 central goldfields,2015.0,12950.0
@@ -164,6 +178,7 @@ central goldfields,2020.0,13304.0
 central goldfields,2021.0,13388.0
 central goldfields,2022.0,13520.0
 central goldfields,2023.0,13574.0
+central goldfields,2024.0,13575.876090069163
 colac otway,2013.0,21035.0
 colac otway,2014.0,21131.0
 colac otway,2015.0,21230.0
@@ -175,6 +190,7 @@ colac otway,2020.0,22274.0
 colac otway,2021.0,22309.0
 colac otway,2022.0,22198.0
 colac otway,2023.0,22273.0
+colac otway,2024.0,22297.164525071727
 corangamite,2013.0,16410.0
 corangamite,2014.0,16340.0
 corangamite,2015.0,16274.0
@@ -186,6 +202,7 @@ corangamite,2020.0,16108.0
 corangamite,2021.0,16030.0
 corangamite,2022.0,15999.0
 corangamite,2023.0,15948.0
+corangamite,2024.0,15907.028853378764
 darebin,2013.0,147272.0
 darebin,2014.0,149511.0
 darebin,2015.0,151974.0
@@ -197,6 +214,7 @@ darebin,2020.0,157056.0
 darebin,2021.0,150296.0
 darebin,2022.0,150605.0
 darebin,2023.0,155683.0
+darebin,2024.0,155788.09097177343
 east gippsland,2013.0,43809.0
 east gippsland,2014.0,44277.0
 east gippsland,2015.0,44868.0
@@ -208,6 +226,7 @@ east gippsland,2020.0,47874.0
 east gippsland,2021.0,48477.0
 east gippsland,2022.0,48939.0
 east gippsland,2023.0,49179.0
+east gippsland,2024.0,49576.15050976779
 frankston,2013.0,134351.0
 frankston,2014.0,136181.0
 frankston,2015.0,137790.0
@@ -219,6 +238,7 @@ frankston,2020.0,142191.0
 frankston,2021.0,140824.0
 frankston,2022.0,141161.0
 frankston,2023.0,142826.0
+frankston,2024.0,143004.5289092166
 gannawarra,2013.0,10526.0
 gannawarra,2014.0,10534.0
 gannawarra,2015.0,10536.0
@@ -230,6 +250,7 @@ gannawarra,2020.0,10575.0
 gannawarra,2021.0,10615.0
 gannawarra,2022.0,10534.0
 gannawarra,2023.0,10420.0
+gannawarra,2024.0,10383.573740631378
 glen eira,2013.0,141260.0
 glen eira,2014.0,143694.0
 glen eira,2015.0,145924.0
@@ -241,6 +262,7 @@ glen eira,2020.0,154656.0
 glen eira,2021.0,150638.0
 glen eira,2022.0,151824.0
 glen eira,2023.0,156837.0
+glen eira,2024.0,157562.1853597247
 glenelg,2013.0,19797.0
 glenelg,2014.0,19755.0
 glenelg,2015.0,19722.0
@@ -252,6 +274,7 @@ glenelg,2020.0,20055.0
 glenelg,2021.0,20058.0
 glenelg,2022.0,20049.0
 glenelg,2023.0,20022.0
+glenelg,2024.0,19998.56009202341
 golden plains,2013.0,20362.0
 golden plains,2014.0,20899.0
 golden plains,2015.0,21388.0
@@ -263,6 +286,7 @@ golden plains,2020.0,24366.0
 golden plains,2021.0,24892.0
 golden plains,2022.0,25321.0
 golden plains,2023.0,25818.0
+golden plains,2024.0,26295.17219761483
 greater bendigo,2013.0,105957.0
 greater bendigo,2014.0,107955.0
 greater bendigo,2015.0,109908.0
@@ -274,6 +298,7 @@ greater bendigo,2020.0,119958.0
 greater bendigo,2021.0,121272.0
 greater bendigo,2022.0,122704.0
 greater bendigo,2023.0,124174.0
+greater bendigo,2024.0,125572.46371281127
 greater dandenong,2013.0,148502.0
 greater dandenong,2014.0,152135.0
 greater dandenong,2015.0,156061.0
@@ -285,6 +310,7 @@ greater dandenong,2020.0,165648.0
 greater dandenong,2021.0,160100.0
 greater dandenong,2022.0,159294.0
 greater dandenong,2023.0,163792.0
+greater dandenong,2024.0,164007.25686918478
 greater geelong,2013.0,223357.0
 greater geelong,2014.0,227744.0
 greater geelong,2015.0,232926.0
@@ -296,6 +322,7 @@ greater geelong,2020.0,266036.0
 greater geelong,2021.0,270932.0
 greater geelong,2022.0,276601.0
 greater geelong,2023.0,282809.0
+greater geelong,2024.0,288748.3806622262
 greater shepparton,2013.0,63244.0
 greater shepparton,2014.0,63919.0
 greater shepparton,2015.0,64489.0
@@ -307,6 +334,7 @@ greater shepparton,2020.0,68474.0
 greater shepparton,2021.0,68526.0
 greater shepparton,2022.0,68964.0
 greater shepparton,2023.0,69135.0
+greater shepparton,2024.0,69503.82326771246
 hepburn,2013.0,15022.0
 hepburn,2014.0,15184.0
 hepburn,2015.0,15334.0
@@ -318,6 +346,7 @@ hepburn,2020.0,16339.0
 hepburn,2021.0,16485.0
 hepburn,2022.0,16573.0
 hepburn,2023.0,16670.0
+hepburn,2024.0,16761.11185113316
 hindmarsh,2013.0,5852.0
 hindmarsh,2014.0,5844.0
 hindmarsh,2015.0,5808.0
@@ -329,6 +358,7 @@ hindmarsh,2020.0,5668.0
 hindmarsh,2021.0,5656.0
 hindmarsh,2022.0,5601.0
 hindmarsh,2023.0,5559.0
+hindmarsh,2024.0,5526.925046699815
 hobsons bay,2013.0,89188.0
 hobsons bay,2014.0,90417.0
 hobsons bay,2015.0,91674.0
@@ -340,6 +370,7 @@ hobsons bay,2020.0,95193.0
 hobsons bay,2021.0,92267.0
 hobsons bay,2022.0,91864.0
 hobsons bay,2023.0,93738.0
+hobsons bay,2024.0,93789.03796412176
 horsham,2013.0,19694.0
 horsham,2014.0,19748.0
 horsham,2015.0,19792.0
@@ -351,6 +382,7 @@ horsham,2020.0,20385.0
 horsham,2021.0,20376.0
 horsham,2022.0,20348.0
 horsham,2023.0,20315.0
+horsham,2024.0,20294.328696419052
 hume,2013.0,184873.0
 hume,2014.0,191278.0
 hume,2015.0,198176.0
@@ -362,6 +394,7 @@ hume,2020.0,243643.0
 hume,2021.0,246920.0
 hume,2022.0,253182.0
 hume,2023.0,262764.0
+hume,2024.0,270240.488597665
 indigo,2013.0,15605.0
 indigo,2014.0,15732.0
 indigo,2015.0,15922.0
@@ -373,6 +406,7 @@ indigo,2020.0,17115.0
 indigo,2021.0,17251.0
 indigo,2022.0,17425.0
 indigo,2023.0,17662.0
+indigo,2024.0,17867.121226921652
 kingston,2013.0,152336.0
 kingston,2014.0,154210.0
 kingston,2015.0,156244.0
@@ -384,6 +418,7 @@ kingston,2020.0,163196.0
 kingston,2021.0,159554.0
 kingston,2022.0,160107.0
 kingston,2023.0,163724.0
+kingston,2024.0,164052.2333880467
 knox,2013.0,156347.0
 knox,2014.0,157434.0
 knox,2015.0,158700.0
@@ -395,6 +430,7 @@ knox,2020.0,163242.0
 knox,2021.0,160481.0
 knox,2022.0,159549.0
 knox,2023.0,161766.0
+knox,2024.0,161856.27158308012
 latrobe,2013.0,74124.0
 latrobe,2014.0,74134.0
 latrobe,2015.0,74266.0
@@ -406,6 +442,7 @@ latrobe,2020.0,76714.0
 latrobe,2021.0,77117.0
 latrobe,2022.0,77705.0
 latrobe,2023.0,78154.0
+latrobe,2024.0,78554.11936264722
 loddon,2013.0,7518.0
 loddon,2014.0,7513.0
 loddon,2015.0,7531.0
@@ -417,6 +454,7 @@ loddon,2020.0,7657.0
 loddon,2021.0,7703.0
 loddon,2022.0,7750.0
 loddon,2023.0,7747.0
+loddon,2024.0,7760.276247096277
 macedon ranges,2013.0,44595.0
 macedon ranges,2014.0,45471.0
 macedon ranges,2015.0,46373.0
@@ -428,6 +466,7 @@ macedon ranges,2020.0,50894.0
 macedon ranges,2021.0,51599.0
 macedon ranges,2022.0,52202.0
 macedon ranges,2023.0,52920.0
+macedon ranges,2024.0,53568.20798124074
 manningham,2013.0,118357.0
 manningham,2014.0,119437.0
 manningham,2015.0,120785.0
@@ -439,6 +478,7 @@ manningham,2020.0,127987.0
 manningham,2021.0,125821.0
 manningham,2022.0,126570.0
 manningham,2023.0,129514.0
+manningham,2024.0,130526.1884013734
 mansfield,2013.0,8276.0
 mansfield,2014.0,8395.0
 mansfield,2015.0,8530.0
@@ -450,6 +490,7 @@ mansfield,2020.0,9792.0
 mansfield,2021.0,10121.0
 mansfield,2022.0,10338.0
 mansfield,2023.0,10546.0
+mansfield,2024.0,10734.095806699985
 maribyrnong,2013.0,79782.0
 maribyrnong,2014.0,82463.0
 maribyrnong,2015.0,84783.0
@@ -461,6 +502,7 @@ maribyrnong,2020.0,89418.0
 maribyrnong,2021.0,86385.0
 maribyrnong,2022.0,87605.0
 maribyrnong,2023.0,91762.0
+maribyrnong,2024.0,92051.9701812578
 maroondah,2013.0,109781.0
 maroondah,2014.0,111421.0
 maroondah,2015.0,113023.0
@@ -472,6 +514,7 @@ maroondah,2020.0,118295.0
 maroondah,2021.0,116075.0
 maroondah,2022.0,115759.0
 maroondah,2023.0,117434.0
+maroondah,2024.0,117573.45811209666
 melbourne,2013.0,118711.0
 melbourne,2014.0,127975.0
 melbourne,2015.0,136872.0
@@ -483,6 +526,7 @@ melbourne,2020.0,170589.0
 melbourne,2021.0,153110.0
 melbourne,2022.0,160328.0
 melbourne,2023.0,177396.0
+melbourne,2024.0,180210.2916883449
 melton,2013.0,123936.0
 melton,2014.0,129309.0
 melton,2015.0,134915.0
@@ -494,6 +538,7 @@ melton,2020.0,173566.0
 melton,2021.0,181346.0
 melton,2022.0,193285.0
 melton,2023.0,206070.0
+melton,2024.0,214271.00577591592
 merri-bek,2013.0,160282.0
 merri-bek,2014.0,164099.0
 merri-bek,2015.0,167870.0
@@ -505,6 +550,7 @@ merri-bek,2020.0,180030.0
 merri-bek,2021.0,173500.0
 merri-bek,2022.0,174886.0
 merri-bek,2023.0,181223.0
+merri-bek,2024.0,181791.06416229066
 mildura,2013.0,53156.0
 mildura,2014.0,53737.0
 mildura,2015.0,54156.0
@@ -516,6 +562,7 @@ mildura,2020.0,57335.0
 mildura,2021.0,56966.0
 mildura,2022.0,57250.0
 mildura,2023.0,57554.0
+mildura,2024.0,57794.203666818554
 mitchell,2013.0,37788.0
 mitchell,2014.0,39084.0
 mitchell,2015.0,40264.0
@@ -527,6 +574,7 @@ mitchell,2020.0,48073.0
 mitchell,2021.0,49712.0
 mitchell,2022.0,51682.0
 mitchell,2023.0,53723.0
+mitchell,2024.0,55313.75014137621
 moira,2013.0,28905.0
 moira,2014.0,29100.0
 moira,2015.0,29288.0
@@ -538,6 +586,7 @@ moira,2020.0,30298.0
 moira,2021.0,30367.0
 moira,2022.0,30584.0
 moira,2023.0,30775.0
+moira,2024.0,30957.62012687836
 monash,2013.0,183255.0
 monash,2014.0,186150.0
 monash,2015.0,189174.0
@@ -549,6 +598,7 @@ monash,2020.0,200791.0
 monash,2021.0,192893.0
 monash,2022.0,195081.0
 monash,2023.0,203560.0
+monash,2024.0,204653.33799335556
 moonee valley,2013.0,115464.0
 moonee valley,2014.0,117763.0
 moonee valley,2015.0,120231.0
@@ -560,6 +610,7 @@ moonee valley,2020.0,126786.0
 moonee valley,2021.0,122950.0
 moonee valley,2022.0,123119.0
 moonee valley,2023.0,126486.0
+moonee valley,2024.0,126693.60948068724
 moorabool,2013.0,30410.0
 moorabool,2014.0,31066.0
 moorabool,2015.0,31748.0
@@ -571,6 +622,7 @@ moorabool,2020.0,36944.0
 moorabool,2021.0,37910.0
 moorabool,2022.0,38526.0
 moorabool,2023.0,39092.0
+moorabool,2024.0,39957.30994896269
 mornington peninsula,2013.0,154001.0
 mornington peninsula,2014.0,156500.0
 mornington peninsula,2015.0,158831.0
@@ -582,6 +634,7 @@ mornington peninsula,2020.0,170186.0
 mornington peninsula,2021.0,170440.0
 mornington peninsula,2022.0,169733.0
 mornington peninsula,2023.0,170243.0
+mornington peninsula,2024.0,170811.78423731265
 mount alexander,2013.0,18247.0
 mount alexander,2014.0,18501.0
 mount alexander,2015.0,18794.0
@@ -593,6 +646,7 @@ mount alexander,2020.0,19939.0
 mount alexander,2021.0,20114.0
 mount alexander,2022.0,20324.0
 mount alexander,2023.0,20576.0
+mount alexander,2024.0,20794.927353444626
 moyne,2013.0,16431.0
 moyne,2014.0,16512.0
 moyne,2015.0,16591.0
@@ -604,6 +658,7 @@ moyne,2020.0,17091.0
 moyne,2021.0,17296.0
 moyne,2022.0,17478.0
 moyne,2023.0,17610.0
+moyne,2024.0,17741.454220974734
 murrindindi,2013.0,13563.0
 murrindindi,2014.0,13687.0
 murrindindi,2015.0,13848.0
@@ -615,6 +670,7 @@ murrindindi,2020.0,14872.0
 murrindindi,2021.0,15139.0
 murrindindi,2022.0,15353.0
 murrindindi,2023.0,15482.0
+murrindindi,2024.0,15673.023199268144
 nillumbik,2013.0,63174.0
 nillumbik,2014.0,63433.0
 nillumbik,2015.0,63675.0
@@ -626,6 +682,7 @@ nillumbik,2020.0,64322.0
 nillumbik,2021.0,63450.0
 nillumbik,2022.0,63066.0
 nillumbik,2023.0,63264.0
+nillumbik,2024.0,63249.02405948746
 northern grampians,2013.0,11880.0
 northern grampians,2014.0,11777.0
 northern grampians,2015.0,11644.0
@@ -637,6 +694,7 @@ northern grampians,2020.0,11805.0
 northern grampians,2021.0,11886.0
 northern grampians,2022.0,11879.0
 northern grampians,2023.0,11879.0
+northern grampians,2024.0,11901.789241401115
 port phillip,2013.0,102156.0
 port phillip,2014.0,104451.0
 port phillip,2015.0,106381.0
@@ -648,6 +706,7 @@ port phillip,2020.0,110574.0
 port phillip,2021.0,103438.0
 port phillip,2022.0,104096.0
 port phillip,2023.0,109515.0
+port phillip,2024.0,109625.50178048434
 pyrenees,2013.0,6938.0
 pyrenees,2014.0,7047.0
 pyrenees,2015.0,7179.0
@@ -659,6 +718,7 @@ pyrenees,2020.0,7544.0
 pyrenees,2021.0,7619.0
 pyrenees,2022.0,7653.0
 pyrenees,2023.0,7786.0
+pyrenees,2024.0,7868.652504105443
 queenscliffe,2013.0,3002.0
 queenscliffe,2014.0,2970.0
 queenscliffe,2015.0,2933.0
@@ -670,6 +730,7 @@ queenscliffe,2020.0,3095.0
 queenscliffe,2021.0,3236.0
 queenscliffe,2022.0,3221.0
 queenscliffe,2023.0,3238.0
+queenscliffe,2024.0,3273.264528135972
 south gippsland,2013.0,28273.0
 south gippsland,2014.0,28521.0
 south gippsland,2015.0,28781.0
@@ -681,6 +742,7 @@ south gippsland,2020.0,30272.0
 south gippsland,2021.0,30388.0
 south gippsland,2022.0,30708.0
 south gippsland,2023.0,30823.0
+south gippsland,2024.0,31043.77678571445
 southern grampians,2013.0,16355.0
 southern grampians,2014.0,16255.0
 southern grampians,2015.0,16162.0
@@ -692,6 +754,7 @@ southern grampians,2020.0,16506.0
 southern grampians,2021.0,16492.0
 southern grampians,2022.0,16401.0
 southern grampians,2023.0,16470.0
+southern grampians,2024.0,16541.13869495445
 stonnington,2013.0,103487.0
 stonnington,2014.0,105894.0
 stonnington,2015.0,108028.0
@@ -703,6 +766,7 @@ stonnington,2020.0,112610.0
 stonnington,2021.0,106190.0
 stonnington,2022.0,106524.0
 stonnington,2023.0,111335.0
+stonnington,2024.0,111445.2702591113
 strathbogie,2013.0,9867.0
 strathbogie,2014.0,10018.0
 strathbogie,2015.0,10175.0
@@ -714,6 +778,7 @@ strathbogie,2020.0,11158.0
 strathbogie,2021.0,11368.0
 strathbogie,2022.0,11515.0
 strathbogie,2023.0,11578.0
+strathbogie,2024.0,11631.505490840977
 surf coast,2013.0,28228.0
 surf coast,2014.0,28874.0
 surf coast,2015.0,29625.0
@@ -725,6 +790,7 @@ surf coast,2020.0,35827.0
 surf coast,2021.0,37648.0
 surf coast,2022.0,38672.0
 surf coast,2023.0,39292.0
+surf coast,2024.0,40392.81897713654
 swan hill,2013.0,21003.0
 swan hill,2014.0,20940.0
 swan hill,2015.0,20893.0
@@ -736,6 +802,7 @@ swan hill,2020.0,21499.0
 swan hill,2021.0,21381.0
 swan hill,2022.0,21239.0
 swan hill,2023.0,21212.0
+swan hill,2024.0,21219.65734502587
 towong,2013.0,5961.0
 towong,2014.0,5982.0
 towong,2015.0,6005.0
@@ -747,6 +814,7 @@ towong,2020.0,6170.0
 towong,2021.0,6186.0
 towong,2022.0,6198.0
 towong,2023.0,6243.0
+towong,2024.0,6270.763590872394
 wangaratta,2013.0,27650.0
 wangaratta,2014.0,27862.0
 wangaratta,2015.0,28143.0
@@ -758,6 +826,7 @@ wangaratta,2020.0,29517.0
 wangaratta,2021.0,29751.0
 wangaratta,2022.0,29915.0
 wangaratta,2023.0,30002.0
+wangaratta,2024.0,30122.80584426809
 warrnambool,2013.0,33423.0
 warrnambool,2014.0,33729.0
 warrnambool,2015.0,34005.0
@@ -769,6 +838,7 @@ warrnambool,2020.0,35418.0
 warrnambool,2021.0,35433.0
 warrnambool,2022.0,35576.0
 warrnambool,2023.0,35907.0
+warrnambool,2024.0,36118.60132566523
 wellington,2013.0,42721.0
 wellington,2014.0,42948.0
 wellington,2015.0,43172.0
@@ -780,6 +850,7 @@ wellington,2020.0,45105.0
 wellington,2021.0,45469.0
 wellington,2022.0,45818.0
 wellington,2023.0,46124.0
+wellington,2024.0,46463.365468154894
 west wimmera,2013.0,4124.0
 west wimmera,2014.0,4038.0
 west wimmera,2015.0,3974.0
@@ -791,6 +862,7 @@ west wimmera,2020.0,3994.0
 west wimmera,2021.0,3978.0
 west wimmera,2022.0,3943.0
 west wimmera,2023.0,3933.0
+west wimmera,2024.0,3935.4381422595657
 whitehorse,2013.0,162081.0
 whitehorse,2014.0,164320.0
 whitehorse,2015.0,166679.0
@@ -802,6 +874,7 @@ whitehorse,2020.0,176794.0
 whitehorse,2021.0,171077.0
 whitehorse,2022.0,172607.0
 whitehorse,2023.0,178639.0
+whitehorse,2024.0,179469.70755262367
 whittlesea,2013.0,179272.0
 whittlesea,2014.0,187899.0
 whittlesea,2015.0,196847.0
@@ -813,6 +886,7 @@ whittlesea,2020.0,231040.0
 whittlesea,2021.0,231831.0
 whittlesea,2022.0,237143.0
 whittlesea,2023.0,245029.0
+whittlesea,2024.0,249006.62040982963
 wodonga,2013.0,37575.0
 wodonga,2014.0,38369.0
 wodonga,2015.0,39223.0
@@ -824,6 +898,7 @@ wodonga,2020.0,42666.0
 wodonga,2021.0,43207.0
 wodonga,2022.0,43716.0
 wodonga,2023.0,44276.0
+wodonga,2024.0,44783.676963462814
 wyndham,2013.0,190211.0
 wyndham,2014.0,201512.0
 wyndham,2015.0,213815.0
@@ -835,6 +910,7 @@ wyndham,2020.0,287292.0
 wyndham,2021.0,296322.0
 wyndham,2022.0,309398.0
 wyndham,2023.0,324087.0
+wyndham,2024.0,337384.40170781594
 yarra,2013.0,83962.0
 yarra,2014.0,87228.0
 yarra,2015.0,89923.0
@@ -846,6 +922,7 @@ yarra,2020.0,96662.0
 yarra,2021.0,91521.0
 yarra,2022.0,92392.0
 yarra,2023.0,97448.0
+yarra,2024.0,97727.77672578441
 yarra ranges,2013.0,150902.0
 yarra ranges,2014.0,151968.0
 yarra ranges,2015.0,153391.0
@@ -857,6 +934,7 @@ yarra ranges,2020.0,158876.0
 yarra ranges,2021.0,157421.0
 yarra ranges,2022.0,157467.0
 yarra ranges,2023.0,158694.0
+yarra ranges,2024.0,158928.45802210388
 yarriambiack,2013.0,7032.0
 yarriambiack,2014.0,6924.0
 yarriambiack,2015.0,6826.0
@@ -868,3 +946,4 @@ yarriambiack,2020.0,6641.0
 yarriambiack,2021.0,6510.0
 yarriambiack,2022.0,6437.0
 yarriambiack,2023.0,6389.0
+yarriambiack,2024.0,6351.316010159865
