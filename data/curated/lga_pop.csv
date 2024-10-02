@@ -1,6018 +1,870 @@
-,lga,year,lga_population
-0,nillumbik,2013,63174
-1,nillumbik,2014,63433
-2,nillumbik,2015,63675
-3,nillumbik,2016,64174
-4,nillumbik,2017,64414
-5,nillumbik,2018,64542
-6,nillumbik,2019,64464
-7,nillumbik,2020,64322
-8,nillumbik,2021,63450
-9,nillumbik,2022,63066
-10,nillumbik,2023,63264
-11,south burnett,2013,32647
-12,south burnett,2014,32606
-13,south burnett,2015,32589
-14,south burnett,2016,32625
-15,south burnett,2017,32680
-16,south burnett,2018,32698
-17,south burnett,2019,32784
-18,south burnett,2020,32952
-19,south burnett,2021,33323
-20,south burnett,2022,33783
-21,south burnett,2023,34290
-22,maralinga tjarutja,2013,74
-23,maralinga tjarutja,2014,70
-24,maralinga tjarutja,2015,66
-25,maralinga tjarutja,2016,62
-26,maralinga tjarutja,2017,68
-27,maralinga tjarutja,2018,76
-28,maralinga tjarutja,2019,85
-29,maralinga tjarutja,2020,93
-30,maralinga tjarutja,2021,102
-31,maralinga tjarutja,2022,102
-32,maralinga tjarutja,2023,102
-33,yankalilla,2013,4759
-34,yankalilla,2014,4925
-35,yankalilla,2015,5095
-36,yankalilla,2016,5276
-37,yankalilla,2017,5398
-38,yankalilla,2018,5519
-39,yankalilla,2019,5617
-40,yankalilla,2020,5736
-41,yankalilla,2021,5931
-42,yankalilla,2022,5991
-43,yankalilla,2023,6100
-44,carnamah,2013,566
-45,carnamah,2014,566
-46,carnamah,2015,568
-47,carnamah,2016,564
-48,carnamah,2017,564
-49,carnamah,2018,555
-50,carnamah,2019,554
-51,carnamah,2020,555
-52,carnamah,2021,573
-53,carnamah,2022,572
-54,carnamah,2023,579
-55,unincorporated nt,2013,8215
-56,unincorporated nt,2014,7970
-57,unincorporated nt,2015,7112
-58,unincorporated nt,2016,7065
-59,unincorporated nt,2017,7034
-60,unincorporated nt,2018,7023
-61,unincorporated nt,2019,7102
-62,unincorporated nt,2020,7263
-63,unincorporated nt,2021,7420
-64,unincorporated nt,2022,7571
-65,unincorporated nt,2023,7713
-66,tweed,2013,90226
-67,tweed,2014,91139
-68,tweed,2015,92261
-69,tweed,2016,93742
-70,tweed,2017,94597
-71,tweed,2018,95355
-72,tweed,2019,96068
-73,tweed,2020,96857
-74,tweed,2021,97216
-75,tweed,2022,97966
-76,tweed,2023,98967
-77,litchfield,2013,22195
-78,litchfield,2014,23256
-79,litchfield,2015,24757
-80,litchfield,2016,25355
-81,litchfield,2017,25203
-82,litchfield,2018,24498
-83,litchfield,2019,23331
-84,litchfield,2020,23111
-85,litchfield,2021,22879
-86,litchfield,2022,23083
-87,litchfield,2023,23415
-88,burke,2013,506
-89,burke,2014,450
-90,burke,2015,396
-91,burke,2016,342
-92,burke,2017,362
-93,burke,2018,381
-94,burke,2019,399
-95,burke,2020,415
-96,burke,2021,430
-97,burke,2022,432
-98,burke,2023,438
-99,inverell,2013,17715
-100,inverell,2014,17746
-101,inverell,2015,17764
-102,inverell,2016,17815
-103,inverell,2017,17840
-104,inverell,2018,17895
-105,inverell,2019,17974
-106,inverell,2020,17985
-107,inverell,2021,17920
-108,inverell,2022,17965
-109,inverell,2023,18059
-110,devonport,2013,25407
-111,devonport,2014,25295
-112,devonport,2015,25162
-113,devonport,2016,25128
-114,devonport,2017,25405
-115,devonport,2018,25852
-116,devonport,2019,26262
-117,devonport,2020,26566
-118,devonport,2021,26896
-119,devonport,2022,26935
-120,devonport,2023,26977
-121,coffs harbour,2013,72303
-122,coffs harbour,2014,73016
-123,coffs harbour,2015,73739
-124,coffs harbour,2016,74670
-125,coffs harbour,2017,75753
-126,coffs harbour,2018,76887
-127,coffs harbour,2019,77810
-128,coffs harbour,2020,78409
-129,coffs harbour,2021,78781
-130,coffs harbour,2022,79725
-131,coffs harbour,2023,80489
-132,dardanup,2013,13824
-133,dardanup,2014,14036
-134,dardanup,2015,14190
-135,dardanup,2016,14241
-136,dardanup,2017,14413
-137,dardanup,2018,14503
-138,dardanup,2019,14706
-139,dardanup,2020,14931
-140,dardanup,2021,15197
-141,dardanup,2022,15376
-142,dardanup,2023,15685
-143,narromine,2013,6761
-144,narromine,2014,6721
-145,narromine,2015,6668
-146,narromine,2016,6617
-147,narromine,2017,6596
-148,narromine,2018,6584
-149,narromine,2019,6565
-150,narromine,2020,6521
-151,narromine,2021,6448
-152,narromine,2022,6429
-153,narromine,2023,6443
-154,sutherland shire,2013,222549
-155,sutherland shire,2014,223921
-156,sutherland shire,2015,225218
-157,sutherland shire,2016,226461
-158,sutherland shire,2017,227428
-159,sutherland shire,2018,228239
-160,sutherland shire,2019,229213
-161,sutherland shire,2020,230379
-162,sutherland shire,2021,230994
-163,sutherland shire,2022,231845
-164,sutherland shire,2023,235029
-165,loddon,2013,7518
-166,loddon,2014,7513
-167,loddon,2015,7531
-168,loddon,2016,7558
-169,loddon,2017,7569
-170,loddon,2018,7602
-171,loddon,2019,7629
-172,loddon,2020,7657
-173,loddon,2021,7703
-174,loddon,2022,7750
-175,loddon,2023,7747
-176,wyndham,2013,190211
-177,wyndham,2014,201512
-178,wyndham,2015,213815
-179,wyndham,2016,227008
-180,wyndham,2017,241573
-181,wyndham,2018,257010
-182,wyndham,2019,273201
-183,wyndham,2020,287292
-184,wyndham,2021,296322
-185,wyndham,2022,309398
-186,wyndham,2023,324087
-187,oberon,2013,5300
-188,oberon,2014,5318
-189,oberon,2015,5329
-190,oberon,2016,5349
-191,oberon,2017,5409
-192,oberon,2018,5455
-193,oberon,2019,5489
-194,oberon,2020,5540
-195,oberon,2021,5567
-196,oberon,2022,5596
-197,oberon,2023,5600
-198,kellerberrin,2013,1251
-199,kellerberrin,2014,1251
-200,kellerberrin,2015,1249
-201,kellerberrin,2016,1242
-202,kellerberrin,2017,1220
-203,kellerberrin,2018,1202
-204,kellerberrin,2019,1191
-205,kellerberrin,2020,1180
-206,kellerberrin,2021,1177
-207,kellerberrin,2022,1180
-208,kellerberrin,2023,1166
-209,wellington,2013,42721
-210,wellington,2014,42948
-211,wellington,2015,43172
-212,wellington,2016,43530
-213,wellington,2017,43872
-214,wellington,2018,44233
-215,wellington,2019,44676
-216,wellington,2020,45105
-217,wellington,2021,45469
-218,wellington,2022,45818
-219,wellington,2023,46124
-220,charles sturt,2013,111324
-221,charles sturt,2014,112846
-222,charles sturt,2015,114125
-223,charles sturt,2016,114980
-224,charles sturt,2017,116438
-225,charles sturt,2018,118160
-226,charles sturt,2019,120098
-227,charles sturt,2020,122119
-228,charles sturt,2021,123105
-229,charles sturt,2022,124865
-230,charles sturt,2023,127440
-231,nungarin,2013,254
-232,nungarin,2014,256
-233,nungarin,2015,259
-234,nungarin,2016,259
-235,nungarin,2017,257
-236,nungarin,2018,257
-237,nungarin,2019,261
-238,nungarin,2020,261
-239,nungarin,2021,263
-240,nungarin,2022,261
-241,nungarin,2023,256
-242,bass coast,2013,31331
-243,bass coast,2014,31917
-244,bass coast,2015,32576
-245,bass coast,2016,33464
-246,bass coast,2017,34748
-247,bass coast,2018,36083
-248,bass coast,2019,37440
-249,bass coast,2020,38950
-250,bass coast,2021,40675
-251,bass coast,2022,41813
-252,bass coast,2023,42729
-253,mareeba,2013,21379
-254,mareeba,2014,21542
-255,mareeba,2015,21812
-256,mareeba,2016,22038
-257,mareeba,2017,22227
-258,mareeba,2018,22501
-259,mareeba,2019,22681
-260,mareeba,2020,23010
-261,mareeba,2021,23171
-262,mareeba,2022,23367
-263,mareeba,2023,23702
-264,mount magnet,2013,661
-265,mount magnet,2014,615
-266,mount magnet,2015,563
-267,mount magnet,2016,507
-268,mount magnet,2017,542
-269,mount magnet,2018,560
-270,mount magnet,2019,599
-271,mount magnet,2020,643
-272,mount magnet,2021,699
-273,mount magnet,2022,701
-274,mount magnet,2023,701
-275,belmont,2013,39919
-276,belmont,2014,40531
-277,belmont,2015,41055
-278,belmont,2016,41448
-279,belmont,2017,41683
-280,belmont,2018,41872
-281,belmont,2019,42719
-282,belmont,2020,43614
-283,belmont,2021,43868
-284,belmont,2022,44364
-285,belmont,2023,45976
-286,toodyay,2013,4682
-287,toodyay,2014,4620
-288,toodyay,2015,4535
-289,toodyay,2016,4461
-290,toodyay,2017,4513
-291,toodyay,2018,4520
-292,toodyay,2019,4570
-293,toodyay,2020,4611
-294,toodyay,2021,4709
-295,toodyay,2022,4814
-296,toodyay,2023,4954
-297,carrathool,2013,2797
-298,carrathool,2014,2800
-299,carrathool,2015,2766
-300,carrathool,2016,2793
-301,carrathool,2017,2825
-302,carrathool,2018,2864
-303,carrathool,2019,2863
-304,carrathool,2020,2892
-305,carrathool,2021,2873
-306,carrathool,2022,2829
-307,carrathool,2023,2765
-308,edward river,2013,8929
-309,edward river,2014,8962
-310,edward river,2015,9012
-311,edward river,2016,8991
-312,edward river,2017,8847
-313,edward river,2018,8728
-314,edward river,2019,8657
-315,edward river,2020,8547
-316,edward river,2021,8437
-317,edward river,2022,8456
-318,edward river,2023,8430
-319,east gippsland,2013,43809
-320,east gippsland,2014,44277
-321,east gippsland,2015,44868
-322,east gippsland,2016,45600
-323,east gippsland,2017,46219
-324,east gippsland,2018,46881
-325,east gippsland,2019,47464
-326,east gippsland,2020,47874
-327,east gippsland,2021,48477
-328,east gippsland,2022,48939
-329,east gippsland,2023,49179
-330,cook,2013,4222
-331,cook,2014,4065
-332,cook,2015,4217
-333,cook,2016,4302
-334,cook,2017,4414
-335,cook,2018,4471
-336,cook,2019,4532
-337,cook,2020,4579
-338,cook,2021,4631
-339,cook,2022,4673
-340,cook,2023,4761
-341,whitsunday,2013,34113
-342,whitsunday,2014,34362
-343,whitsunday,2015,34509
-344,whitsunday,2016,34538
-345,whitsunday,2017,35083
-346,whitsunday,2018,35651
-347,whitsunday,2019,36266
-348,whitsunday,2020,37105
-349,whitsunday,2021,37642
-350,whitsunday,2022,38509
-351,whitsunday,2023,39712
-352,berri barmera,2013,10804
-353,berri barmera,2014,10847
-354,berri barmera,2015,10854
-355,berri barmera,2016,10835
-356,berri barmera,2017,10833
-357,berri barmera,2018,10826
-358,berri barmera,2019,10812
-359,berri barmera,2020,10800
-360,berri barmera,2021,10741
-361,berri barmera,2022,10710
-362,berri barmera,2023,10730
-363,prospect,2013,20959
-364,prospect,2014,21050
-365,prospect,2015,21096
-366,prospect,2016,21124
-367,prospect,2017,21272
-368,prospect,2018,21460
-369,prospect,2019,21841
-370,prospect,2020,22234
-371,prospect,2021,22487
-372,prospect,2022,22750
-373,prospect,2023,23137
-374,wyndham-east kimberley,2013,8243
-375,wyndham-east kimberley,2014,8020
-376,wyndham-east kimberley,2015,7780
-377,wyndham-east kimberley,2016,7478
-378,wyndham-east kimberley,2017,7508
-379,wyndham-east kimberley,2018,7561
-380,wyndham-east kimberley,2019,7741
-381,wyndham-east kimberley,2020,7904
-382,wyndham-east kimberley,2021,8050
-383,wyndham-east kimberley,2022,8064
-384,wyndham-east kimberley,2023,8209
-385,central goldfields,2013,12815
-386,central goldfields,2014,12884
-387,central goldfields,2015,12950
-388,central goldfields,2016,13087
-389,central goldfields,2017,13200
-390,central goldfields,2018,13330
-391,central goldfields,2019,13349
-392,central goldfields,2020,13304
-393,central goldfields,2021,13388
-394,central goldfields,2022,13520
-395,central goldfields,2023,13574
-396,moira,2013,28905
-397,moira,2014,29100
-398,moira,2015,29288
-399,moira,2016,29486
-400,moira,2017,29717
-401,moira,2018,29910
-402,moira,2019,30099
-403,moira,2020,30298
-404,moira,2021,30367
-405,moira,2022,30584
-406,moira,2023,30775
-407,kingston (sa),2013,2380
-408,kingston (sa),2014,2392
-409,kingston (sa),2015,2403
-410,kingston (sa),2016,2415
-411,kingston (sa),2017,2400
-412,kingston (sa),2018,2362
-413,kingston (sa),2019,2355
-414,kingston (sa),2020,2359
-415,kingston (sa),2021,2375
-416,kingston (sa),2022,2376
-417,kingston (sa),2023,2393
-418,wiluna,2013,1131
-419,wiluna,2014,1020
-420,wiluna,2015,894
-421,wiluna,2016,767
-422,wiluna,2017,706
-423,wiluna,2018,657
-424,wiluna,2019,611
-425,wiluna,2020,587
-426,wiluna,2021,570
-427,wiluna,2022,572
-428,wiluna,2023,568
-429,liverpool,2013,196122
-430,liverpool,2014,200725
-431,liverpool,2015,206205
-432,liverpool,2016,211983
-433,liverpool,2017,217465
-434,liverpool,2018,222410
-435,liverpool,2019,227187
-436,liverpool,2020,231268
-437,liverpool,2021,234505
-438,liverpool,2022,239774
-439,liverpool,2023,247672
-440,armidale regional,2013,28895
-441,armidale regional,2014,29015
-442,armidale regional,2015,29160
-443,armidale regional,2016,29310
-444,armidale regional,2017,29519
-445,armidale regional,2018,29631
-446,armidale regional,2019,29701
-447,armidale regional,2020,29600
-448,armidale regional,2021,29332
-449,armidale regional,2022,29361
-450,armidale regional,2023,29594
-451,forbes,2013,9608
-452,forbes,2014,9698
-453,forbes,2015,9750
-454,forbes,2016,9817
-455,forbes,2017,9725
-456,forbes,2018,9664
-457,forbes,2019,9590
-458,forbes,2020,9502
-459,forbes,2021,9385
-460,forbes,2022,9338
-461,forbes,2023,9300
-462,torres,2013,3647
-463,torres,2014,3717
-464,torres,2015,3753
-465,torres,2016,3799
-466,torres,2017,3784
-467,torres,2018,3721
-468,torres,2019,3652
-469,torres,2020,3589
-470,torres,2021,3532
-471,torres,2022,3517
-472,torres,2023,3502
-473,coomalie,2013,1369
-474,coomalie,2014,1374
-475,coomalie,2015,1396
-476,coomalie,2016,1412
-477,coomalie,2017,1428
-478,coomalie,2018,1414
-479,coomalie,2019,1411
-480,coomalie,2020,1410
-481,coomalie,2021,1400
-482,coomalie,2022,1396
-483,coomalie,2023,1421
-484,towong,2013,5961
-485,towong,2014,5982
-486,towong,2015,6005
-487,towong,2016,6046
-488,towong,2017,6064
-489,towong,2018,6100
-490,towong,2019,6142
-491,towong,2020,6170
-492,towong,2021,6186
-493,towong,2022,6198
-494,towong,2023,6243
-495,copper coast,2013,13747
-496,copper coast,2014,14024
-497,copper coast,2015,14266
-498,copper coast,2016,14472
-499,copper coast,2017,14636
-500,copper coast,2018,14810
-501,copper coast,2019,14962
-502,copper coast,2020,15109
-503,copper coast,2021,15338
-504,copper coast,2022,15643
-505,copper coast,2023,15951
-506,mingenew,2013,487
-507,mingenew,2014,482
-508,mingenew,2015,474
-509,mingenew,2016,465
-510,mingenew,2017,450
-511,mingenew,2018,434
-512,mingenew,2019,430
-513,mingenew,2020,421
-514,mingenew,2021,423
-515,mingenew,2022,423
-516,mingenew,2023,417
-517,koorda,2013,446
-518,koorda,2014,440
-519,koorda,2015,437
-520,koorda,2016,428
-521,koorda,2017,416
-522,koorda,2018,400
-523,koorda,2019,391
-524,koorda,2020,382
-525,koorda,2021,373
-526,koorda,2022,374
-527,koorda,2023,371
-528,clarence valley,2013,51443
-529,clarence valley,2014,51498
-530,clarence valley,2015,51547
-531,clarence valley,2016,51622
-532,clarence valley,2017,51953
-533,clarence valley,2018,52301
-534,clarence valley,2019,52604
-535,clarence valley,2020,52893
-536,clarence valley,2021,54212
-537,clarence valley,2022,54659
-538,clarence valley,2023,55323
-539,hilltops,2013,18783
-540,hilltops,2014,18776
-541,hilltops,2015,18760
-542,hilltops,2016,18756
-543,hilltops,2017,18906
-544,hilltops,2018,19019
-545,hilltops,2019,19131
-546,hilltops,2020,19205
-547,hilltops,2021,19223
-548,hilltops,2022,19238
-549,hilltops,2023,19255
-550,penrith,2013,190527
-551,penrith,2014,193765
-552,penrith,2015,197678
-553,penrith,2016,201597
-554,penrith,2017,205517
-555,penrith,2018,209578
-556,penrith,2019,213534
-557,penrith,2020,216922
-558,penrith,2021,219239
-559,penrith,2022,220915
-560,penrith,2023,224483
-561,central highlands (tas.),2013,2278
-562,central highlands (tas.),2014,2239
-563,central highlands (tas.),2015,2203
-564,central highlands (tas.),2016,2169
-565,central highlands (tas.),2017,2222
-566,central highlands (tas.),2018,2296
-567,central highlands (tas.),2019,2377
-568,central highlands (tas.),2020,2473
-569,central highlands (tas.),2021,2579
-570,central highlands (tas.),2022,2586
-571,central highlands (tas.),2023,2595
-572,indigo,2013,15605
-573,indigo,2014,15732
-574,indigo,2015,15922
-575,indigo,2016,16165
-576,indigo,2017,16390
-577,indigo,2018,16613
-578,indigo,2019,16876
-579,indigo,2020,17115
-580,indigo,2021,17251
-581,indigo,2022,17425
-582,indigo,2023,17662
-583,port adelaide enfield,2013,119876
-584,port adelaide enfield,2014,121422
-585,port adelaide enfield,2015,122766
-586,port adelaide enfield,2016,124007
-587,port adelaide enfield,2017,125690
-588,port adelaide enfield,2018,127684
-589,port adelaide enfield,2019,130293
-590,port adelaide enfield,2020,132967
-591,port adelaide enfield,2021,134131
-592,port adelaide enfield,2022,135822
-593,port adelaide enfield,2023,138585
-594,tasman,2013,2356
-595,tasman,2014,2389
-596,tasman,2015,2391
-597,tasman,2016,2389
-598,tasman,2017,2405
-599,tasman,2018,2443
-600,tasman,2019,2486
-601,tasman,2020,2560
-602,tasman,2021,2643
-603,tasman,2022,2676
-604,tasman,2023,2686
-605,ku-ring-gai,2013,118195
-606,ku-ring-gai,2014,119851
-607,ku-ring-gai,2015,121315
-608,ku-ring-gai,2016,122472
-609,ku-ring-gai,2017,124122
-610,ku-ring-gai,2018,125528
-611,ku-ring-gai,2019,126364
-612,ku-ring-gai,2020,126438
-613,ku-ring-gai,2021,124703
-614,ku-ring-gai,2022,124205
-615,ku-ring-gai,2023,126983
-616,central highlands (qld),2013,29782
-617,central highlands (qld),2014,29598
-618,central highlands (qld),2015,29143
-619,central highlands (qld),2016,28690
-620,central highlands (qld),2017,28573
-621,central highlands (qld),2018,28572
-622,central highlands (qld),2019,28574
-623,central highlands (qld),2020,28524
-624,central highlands (qld),2021,28298
-625,central highlands (qld),2022,28530
-626,central highlands (qld),2023,28973
-627,yarrabah,2013,2686
-628,yarrabah,2014,2694
-629,yarrabah,2015,2695
-630,yarrabah,2016,2702
-631,yarrabah,2017,2663
-632,yarrabah,2018,2643
-633,yarrabah,2019,2621
-634,yarrabah,2020,2606
-635,yarrabah,2021,2597
-636,yarrabah,2022,2619
-637,yarrabah,2023,2640
-638,south gippsland,2013,28273
-639,south gippsland,2014,28521
-640,south gippsland,2015,28781
-641,south gippsland,2016,29122
-642,south gippsland,2017,29361
-643,south gippsland,2018,29604
-644,south gippsland,2019,29923
-645,south gippsland,2020,30272
-646,south gippsland,2021,30388
-647,south gippsland,2022,30708
-648,south gippsland,2023,30823
-649,bunbury,2013,32951
-650,bunbury,2014,32941
-651,bunbury,2015,32872
-652,bunbury,2016,32574
-653,bunbury,2017,32758
-654,bunbury,2018,32897
-655,bunbury,2019,33267
-656,bunbury,2020,33769
-657,bunbury,2021,34137
-658,bunbury,2022,34417
-659,bunbury,2023,34768
-660,capel,2013,16483
-661,capel,2014,16934
-662,capel,2015,17250
-663,capel,2016,17375
-664,capel,2017,17696
-665,capel,2018,18001
-666,capel,2019,18205
-667,capel,2020,18492
-668,capel,2021,18776
-669,capel,2022,19012
-670,capel,2023,19335
-671,wattle range,2013,11935
-672,wattle range,2014,11982
-673,wattle range,2015,12010
-674,wattle range,2016,12022
-675,wattle range,2017,12034
-676,wattle range,2018,12046
-677,wattle range,2019,12043
-678,wattle range,2020,12058
-679,wattle range,2021,12127
-680,wattle range,2022,12178
-681,wattle range,2023,12257
-682,blacktown,2013,324797
-683,blacktown,2014,331825
-684,blacktown,2015,339449
-685,blacktown,2016,348030
-686,blacktown,2017,359591
-687,blacktown,2018,369384
-688,blacktown,2019,380186
-689,blacktown,2020,391911
-690,blacktown,2021,399925
-691,blacktown,2022,410944
-692,blacktown,2023,426202
-693,muswellbrook,2013,16415
-694,muswellbrook,2014,16431
-695,muswellbrook,2015,16435
-696,muswellbrook,2016,16462
-697,muswellbrook,2017,16519
-698,muswellbrook,2018,16520
-699,muswellbrook,2019,16554
-700,muswellbrook,2020,16539
-701,muswellbrook,2021,16469
-702,muswellbrook,2022,16540
-703,muswellbrook,2023,16778
-704,tamworth regional,2013,59240
-705,tamworth regional,2014,59872
-706,tamworth regional,2015,60432
-707,tamworth regional,2016,60990
-708,tamworth regional,2017,61758
-709,tamworth regional,2018,62511
-710,tamworth regional,2019,63183
-711,tamworth regional,2020,63405
-712,tamworth regional,2021,63670
-713,tamworth regional,2022,64520
-714,tamworth regional,2023,65246
-715,hope vale,2013,1043
-716,hope vale,2014,1030
-717,hope vale,2015,1009
-718,hope vale,2016,1014
-719,hope vale,2017,1005
-720,hope vale,2018,1011
-721,hope vale,2019,1013
-722,hope vale,2020,1007
-723,hope vale,2021,998
-724,hope vale,2022,1004
-725,hope vale,2023,1026
-726,greater hume shire,2013,10220
-727,greater hume shire,2014,10318
-728,greater hume shire,2015,10441
-729,greater hume shire,2016,10519
-730,greater hume shire,2017,10601
-731,greater hume shire,2018,10701
-732,greater hume shire,2019,10801
-733,greater hume shire,2020,10931
-734,greater hume shire,2021,11109
-735,greater hume shire,2022,11266
-736,greater hume shire,2023,11445
-737,barkly,2013,7810
-738,barkly,2014,7663
-739,barkly,2015,7572
-740,barkly,2016,7426
-741,barkly,2017,7342
-742,barkly,2018,7257
-743,barkly,2019,7212
-744,barkly,2020,7228
-745,barkly,2021,7189
-746,barkly,2022,7212
-747,barkly,2023,7239
-748,robe,2013,1425
-749,robe,2014,1425
-750,robe,2015,1423
-751,robe,2016,1413
-752,robe,2017,1435
-753,robe,2018,1471
-754,robe,2019,1490
-755,robe,2020,1526
-756,robe,2021,1568
-757,robe,2022,1588
-758,robe,2023,1603
-759,paroo,2013,1849
-760,paroo,2014,1807
-761,paroo,2015,1734
-762,paroo,2016,1668
-763,paroo,2017,1679
-764,paroo,2018,1666
-765,paroo,2019,1671
-766,paroo,2020,1683
-767,paroo,2021,1707
-768,paroo,2022,1712
-769,paroo,2023,1725
-770,carnarvon,2013,6034
-771,carnarvon,2014,5951
-772,carnarvon,2015,5844
-773,carnarvon,2016,5713
-774,carnarvon,2017,5652
-775,carnarvon,2018,5574
-776,carnarvon,2019,5497
-777,carnarvon,2020,5491
-778,carnarvon,2021,5520
-779,carnarvon,2022,5522
-780,carnarvon,2023,5528
-781,coolamon,2013,4328
-782,coolamon,2014,4357
-783,coolamon,2015,4366
-784,coolamon,2016,4390
-785,coolamon,2017,4423
-786,coolamon,2018,4415
-787,coolamon,2019,4413
-788,coolamon,2020,4404
-789,coolamon,2021,4403
-790,coolamon,2022,4465
-791,coolamon,2023,4549
-792,gold coast,2013,540687
-793,gold coast,2014,550718
-794,gold coast,2015,561629
-795,gold coast,2016,575303
-796,gold coast,2017,589101
-797,gold coast,2018,602443
-798,gold coast,2019,614435
-799,gold coast,2020,626342
-800,gold coast,2021,633598
-801,gold coast,2022,647178
-802,gold coast,2023,666087
-803,adelaide hills,2013,39687
-804,adelaide hills,2014,39657
-805,adelaide hills,2015,39630
-806,adelaide hills,2016,39632
-807,adelaide hills,2017,39875
-808,adelaide hills,2018,40173
-809,adelaide hills,2019,40587
-810,adelaide hills,2020,40969
-811,adelaide hills,2021,41237
-812,adelaide hills,2022,41408
-813,adelaide hills,2023,41842
-814,goulburn mulwaree,2013,29187
-815,goulburn mulwaree,2014,29486
-816,goulburn mulwaree,2015,29815
-817,goulburn mulwaree,2016,30261
-818,goulburn mulwaree,2017,30642
-819,goulburn mulwaree,2018,31072
-820,goulburn mulwaree,2019,31490
-821,goulburn mulwaree,2020,31934
-822,goulburn mulwaree,2021,32150
-823,goulburn mulwaree,2022,32428
-824,goulburn mulwaree,2023,32710
-825,upper lachlan shire,2013,7594
-826,upper lachlan shire,2014,7722
-827,upper lachlan shire,2015,7804
-828,upper lachlan shire,2016,7853
-829,upper lachlan shire,2017,8003
-830,upper lachlan shire,2018,8097
-831,upper lachlan shire,2019,8220
-832,upper lachlan shire,2020,8378
-833,upper lachlan shire,2021,8494
-834,upper lachlan shire,2022,8550
-835,upper lachlan shire,2023,8706
-836,elliston,2013,1067
-837,elliston,2014,1068
-838,elliston,2015,1071
-839,elliston,2016,1070
-840,elliston,2017,1071
-841,elliston,2018,1059
-842,elliston,2019,1050
-843,elliston,2020,1046
-844,elliston,2021,1038
-845,elliston,2022,1032
-846,elliston,2023,1041
-847,yass valley,2013,16010
-848,yass valley,2014,16188
-849,yass valley,2015,16356
-850,yass valley,2016,16568
-851,yass valley,2017,16669
-852,yass valley,2018,16796
-853,yass valley,2019,16941
-854,yass valley,2020,17092
-855,yass valley,2021,17240
-856,yass valley,2022,17379
-857,yass valley,2023,17477
-858,swan hill,2013,21003
-859,swan hill,2014,20940
-860,swan hill,2015,20893
-861,swan hill,2016,20896
-862,swan hill,2017,21069
-863,swan hill,2018,21240
-864,swan hill,2019,21407
-865,swan hill,2020,21499
-866,swan hill,2021,21381
-867,swan hill,2022,21239
-868,swan hill,2023,21212
-869,denmark,2013,5804
-870,denmark,2014,5872
-871,denmark,2015,5957
-872,denmark,2016,6018
-873,denmark,2017,6133
-874,denmark,2018,6165
-875,denmark,2019,6235
-876,denmark,2020,6398
-877,denmark,2021,6468
-878,denmark,2022,6539
-879,denmark,2023,6618
-880,merredin,2013,3379
-881,merredin,2014,3380
-882,merredin,2015,3385
-883,merredin,2016,3395
-884,merredin,2017,3385
-885,merredin,2018,3349
-886,merredin,2019,3286
-887,merredin,2020,3254
-888,merredin,2021,3221
-889,merredin,2022,3235
-890,merredin,2023,3268
-891,buloke,2013,6388
-892,buloke,2014,6335
-893,buloke,2015,6306
-894,buloke,2016,6284
-895,buloke,2017,6221
-896,buloke,2018,6214
-897,buloke,2019,6166
-898,buloke,2020,6156
-899,buloke,2021,6132
-900,buloke,2022,6120
-901,buloke,2023,6040
-902,greater bendigo,2013,105957
-903,greater bendigo,2014,107955
-904,greater bendigo,2015,109908
-905,greater bendigo,2016,112267
-906,greater bendigo,2017,114265
-907,greater bendigo,2018,116186
-908,greater bendigo,2019,118214
-909,greater bendigo,2020,119958
-910,greater bendigo,2021,121272
-911,greater bendigo,2022,122704
-912,greater bendigo,2023,124174
-913,kojonup,2013,2044
-914,kojonup,2014,2029
-915,kojonup,2015,2027
-916,kojonup,2016,2010
-917,kojonup,2017,2013
-918,kojonup,2018,2009
-919,kojonup,2019,1979
-920,kojonup,2020,1964
-921,kojonup,2021,1963
-922,kojonup,2022,1976
-923,kojonup,2023,1967
-924,cassowary coast,2013,28950
-925,cassowary coast,2014,29038
-926,cassowary coast,2015,29098
-927,cassowary coast,2016,29287
-928,cassowary coast,2017,29442
-929,cassowary coast,2018,29536
-930,cassowary coast,2019,29564
-931,cassowary coast,2020,29608
-932,cassowary coast,2021,29511
-933,cassowary coast,2022,29605
-934,cassowary coast,2023,29972
-935,tea tree gully,2013,98558
-936,tea tree gully,2014,98726
-937,tea tree gully,2015,98983
-938,tea tree gully,2016,99153
-939,tea tree gully,2017,99567
-940,tea tree gully,2018,100132
-941,tea tree gully,2019,100837
-942,tea tree gully,2020,101613
-943,tea tree gully,2021,102044
-944,tea tree gully,2022,102610
-945,tea tree gully,2023,103685
-946,bruce rock,2013,988
-947,bruce rock,2014,966
-948,bruce rock,2015,955
-949,bruce rock,2016,941
-950,bruce rock,2017,953
-951,bruce rock,2018,964
-952,bruce rock,2019,982
-953,bruce rock,2020,1000
-954,bruce rock,2021,1016
-955,bruce rock,2022,1020
-956,bruce rock,2023,1043
-957,corrigin,2013,1147
-958,corrigin,2014,1161
-959,corrigin,2015,1168
-960,corrigin,2016,1193
-961,corrigin,2017,1153
-962,corrigin,2018,1102
-963,corrigin,2019,1067
-964,corrigin,2020,1044
-965,corrigin,2021,1028
-966,corrigin,2022,1023
-967,corrigin,2023,1029
-968,king island,2013,1619
-969,king island,2014,1611
-970,king island,2015,1599
-971,king island,2016,1594
-972,king island,2017,1600
-973,king island,2018,1616
-974,king island,2019,1633
-975,king island,2020,1639
-976,king island,2021,1652
-977,king island,2022,1675
-978,king island,2023,1648
-979,rockingham,2013,119300
-980,rockingham,2014,123038
-981,rockingham,2015,126012
-982,rockingham,2016,128992
-983,rockingham,2017,130672
-984,rockingham,2018,132911
-985,rockingham,2019,135440
-986,rockingham,2020,137931
-987,rockingham,2021,140584
-988,rockingham,2022,143754
-989,rockingham,2023,148822
-990,bega valley,2013,33430
-991,bega valley,2014,33562
-992,bega valley,2015,33713
-993,bega valley,2016,33941
-994,bega valley,2017,34287
-995,bega valley,2018,34674
-996,bega valley,2019,35026
-997,bega valley,2020,35428
-998,bega valley,2021,35770
-999,bega valley,2022,35985
-1000,bega valley,2023,36279
-1001,richmond valley,2013,22981
-1002,richmond valley,2014,23087
-1003,richmond valley,2015,23148
-1004,richmond valley,2016,23256
-1005,richmond valley,2017,23336
-1006,richmond valley,2018,23446
-1007,richmond valley,2019,23525
-1008,richmond valley,2020,23593
-1009,richmond valley,2021,23595
-1010,richmond valley,2022,23700
-1011,richmond valley,2023,23705
-1012,southern grampians,2013,16355
-1013,southern grampians,2014,16255
-1014,southern grampians,2015,16162
-1015,southern grampians,2016,16123
-1016,southern grampians,2017,16207
-1017,southern grampians,2018,16291
-1018,southern grampians,2019,16378
-1019,southern grampians,2020,16506
-1020,southern grampians,2021,16492
-1021,southern grampians,2022,16401
-1022,southern grampians,2023,16470
-1023,livingstone,2013,35279
-1024,livingstone,2014,36063
-1025,livingstone,2015,36579
-1026,livingstone,2016,36950
-1027,livingstone,2017,37452
-1028,livingstone,2018,37950
-1029,livingstone,2019,38548
-1030,livingstone,2020,39206
-1031,livingstone,2021,39877
-1032,livingstone,2022,40901
-1033,livingstone,2023,41906
-1034,wanneroo,2013,176627
-1035,wanneroo,2014,182385
-1036,wanneroo,2015,188278
-1037,wanneroo,2016,194779
-1038,wanneroo,2017,199194
-1039,wanneroo,2018,203526
-1040,wanneroo,2019,208263
-1041,wanneroo,2020,212823
-1042,wanneroo,2021,216422
-1043,wanneroo,2022,221257
-1044,wanneroo,2023,229438
-1045,warrumbungle shire,2013,9743
-1046,warrumbungle shire,2014,9689
-1047,warrumbungle shire,2015,9622
-1048,warrumbungle shire,2016,9562
-1049,warrumbungle shire,2017,9489
-1050,warrumbungle shire,2018,9454
-1051,warrumbungle shire,2019,9377
-1052,warrumbungle shire,2020,9358
-1053,warrumbungle shire,2021,9256
-1054,warrumbungle shire,2022,9245
-1055,warrumbungle shire,2023,9228
-1056,kentish,2013,6334
-1057,kentish,2014,6317
-1058,kentish,2015,6286
-1059,kentish,2016,6263
-1060,kentish,2017,6314
-1061,kentish,2018,6386
-1062,kentish,2019,6461
-1063,kentish,2020,6583
-1064,kentish,2021,6775
-1065,kentish,2022,6805
-1066,kentish,2023,6831
-1067,hindmarsh,2013,5852
-1068,hindmarsh,2014,5844
-1069,hindmarsh,2015,5808
-1070,hindmarsh,2016,5784
-1071,hindmarsh,2017,5728
-1072,hindmarsh,2018,5691
-1073,hindmarsh,2019,5668
-1074,hindmarsh,2020,5668
-1075,hindmarsh,2021,5656
-1076,hindmarsh,2022,5601
-1077,hindmarsh,2023,5559
-1078,murrumbidgee,2013,3920
-1079,murrumbidgee,2014,3900
-1080,murrumbidgee,2015,3893
-1081,murrumbidgee,2016,3929
-1082,murrumbidgee,2017,3854
-1083,murrumbidgee,2018,3809
-1084,murrumbidgee,2019,3753
-1085,murrumbidgee,2020,3625
-1086,murrumbidgee,2021,3564
-1087,murrumbidgee,2022,3566
-1088,murrumbidgee,2023,3607
-1089,glenelg,2013,19797
-1090,glenelg,2014,19755
-1091,glenelg,2015,19722
-1092,glenelg,2016,19759
-1093,glenelg,2017,19802
-1094,glenelg,2018,19893
-1095,glenelg,2019,19992
-1096,glenelg,2020,20055
-1097,glenelg,2021,20058
-1098,glenelg,2022,20049
-1099,glenelg,2023,20022
-1100,adelaide,2013,22143
-1101,adelaide,2014,22624
-1102,adelaide,2015,23085
-1103,adelaide,2016,23552
-1104,adelaide,2017,24188
-1105,adelaide,2018,24688
-1106,adelaide,2019,25376
-1107,adelaide,2020,25964
-1108,adelaide,2021,25522
-1109,adelaide,2022,26183
-1110,adelaide,2023,27901
-1111,albury,2013,50338
-1112,albury,2014,50990
-1113,albury,2015,51486
-1114,albury,2016,52171
-1115,albury,2017,53056
-1116,albury,2018,53922
-1117,albury,2019,54657
-1118,albury,2020,55466
-1119,albury,2021,56067
-1120,albury,2022,56665
-1121,albury,2023,57517
-1122,mount barker,2013,31580
-1123,mount barker,2014,32386
-1124,mount barker,2015,33187
-1125,mount barker,2016,33897
-1126,mount barker,2017,34735
-1127,mount barker,2018,35637
-1128,mount barker,2019,36842
-1129,mount barker,2020,38206
-1130,mount barker,2021,39632
-1131,mount barker,2022,41083
-1132,mount barker,2023,42297
-1133,irwin,2013,3749
-1134,irwin,2014,3702
-1135,irwin,2015,3662
-1136,irwin,2016,3604
-1137,irwin,2017,3636
-1138,irwin,2018,3627
-1139,irwin,2019,3670
-1140,irwin,2020,3730
-1141,irwin,2021,3769
-1142,irwin,2022,3795
-1143,irwin,2023,3842
-1144,cowra,2013,12511
-1145,cowra,2014,12556
-1146,cowra,2015,12604
-1147,cowra,2016,12659
-1148,cowra,2017,12697
-1149,cowra,2018,12726
-1150,cowra,2019,12732
-1151,cowra,2020,12748
-1152,cowra,2021,12759
-1153,cowra,2022,12703
-1154,cowra,2023,12659
-1155,mckinlay,2013,992
-1156,mckinlay,2014,943
-1157,mckinlay,2015,876
-1158,mckinlay,2016,816
-1159,mckinlay,2017,811
-1160,mckinlay,2018,817
-1161,mckinlay,2019,822
-1162,mckinlay,2020,828
-1163,mckinlay,2021,838
-1164,mckinlay,2022,846
-1165,mckinlay,2023,849
-1166,napranum,2013,922
-1167,napranum,2014,939
-1168,napranum,2015,959
-1169,napranum,2016,989
-1170,napranum,2017,973
-1171,napranum,2018,958
-1172,napranum,2019,943
-1173,napranum,2020,923
-1174,napranum,2021,906
-1175,napranum,2022,906
-1176,napranum,2023,924
-1177,golden plains,2013,20362
-1178,golden plains,2014,20899
-1179,golden plains,2015,21388
-1180,golden plains,2016,22016
-1181,golden plains,2017,22613
-1182,golden plains,2018,23191
-1183,golden plains,2019,23810
-1184,golden plains,2020,24366
-1185,golden plains,2021,24892
-1186,golden plains,2022,25321
-1187,golden plains,2023,25818
-1188,woollahra,2013,56909
-1189,woollahra,2014,57253
-1190,woollahra,2015,57513
-1191,woollahra,2016,57744
-1192,woollahra,2017,57750
-1193,woollahra,2018,57370
-1194,woollahra,2019,56892
-1195,woollahra,2020,55951
-1196,woollahra,2021,53910
-1197,woollahra,2022,53525
-1198,woollahra,2023,54660
-1199,peterborough,2013,1728
-1200,peterborough,2014,1717
-1201,peterborough,2015,1706
-1202,peterborough,2016,1712
-1203,peterborough,2017,1723
-1204,peterborough,2018,1705
-1205,peterborough,2019,1696
-1206,peterborough,2020,1681
-1207,peterborough,2021,1668
-1208,peterborough,2022,1672
-1209,peterborough,2023,1683
-1210,southern midlands,2013,6183
-1211,southern midlands,2014,6139
-1212,southern midlands,2015,6096
-1213,southern midlands,2016,6083
-1214,southern midlands,2017,6129
-1215,southern midlands,2018,6257
-1216,southern midlands,2019,6465
-1217,southern midlands,2020,6639
-1218,southern midlands,2021,6834
-1219,southern midlands,2022,6887
-1220,southern midlands,2023,6912
-1221,serpentine-jarrahdale,2013,22011
-1222,serpentine-jarrahdale,2014,23592
-1223,serpentine-jarrahdale,2015,25499
-1224,serpentine-jarrahdale,2016,27578
-1225,serpentine-jarrahdale,2017,29002
-1226,serpentine-jarrahdale,2018,30159
-1227,serpentine-jarrahdale,2019,31410
-1228,serpentine-jarrahdale,2020,32437
-1229,serpentine-jarrahdale,2021,33349
-1230,serpentine-jarrahdale,2022,34795
-1231,serpentine-jarrahdale,2023,36739
-1232,sorell,2013,13736
-1233,sorell,2014,13981
-1234,sorell,2015,14200
-1235,sorell,2016,14482
-1236,sorell,2017,14929
-1237,sorell,2018,15433
-1238,sorell,2019,15952
-1239,sorell,2020,16471
-1240,sorell,2021,16963
-1241,sorell,2022,17429
-1242,sorell,2023,17635
-1243,gnowangerup,2013,1294
-1244,gnowangerup,2014,1275
-1245,gnowangerup,2015,1255
-1246,gnowangerup,2016,1237
-1247,gnowangerup,2017,1237
-1248,gnowangerup,2018,1245
-1249,gnowangerup,2019,1241
-1250,gnowangerup,2020,1250
-1251,gnowangerup,2021,1260
-1252,gnowangerup,2022,1264
-1253,gnowangerup,2023,1269
-1254,liverpool plains,2013,7812
-1255,liverpool plains,2014,7831
-1256,liverpool plains,2015,7837
-1257,liverpool plains,2016,7847
-1258,liverpool plains,2017,7829
-1259,liverpool plains,2018,7806
-1260,liverpool plains,2019,7780
-1261,liverpool plains,2020,7702
-1262,liverpool plains,2021,7608
-1263,liverpool plains,2022,7659
-1264,liverpool plains,2023,7667
-1265,boulia,2013,481
-1266,boulia,2014,473
-1267,boulia,2015,459
-1268,boulia,2016,436
-1269,boulia,2017,435
-1270,boulia,2018,447
-1271,boulia,2019,454
-1272,boulia,2020,458
-1273,boulia,2021,470
-1274,boulia,2022,474
-1275,boulia,2023,478
-1276,gladstone,2013,62158
-1277,gladstone,2014,63367
-1278,gladstone,2015,63697
-1279,gladstone,2016,63017
-1280,gladstone,2017,62859
-1281,gladstone,2018,63077
-1282,gladstone,2019,63495
-1283,gladstone,2020,63890
-1284,gladstone,2021,64275
-1285,gladstone,2022,65302
-1286,gladstone,2023,66835
-1287,dumbleyung,2013,653
-1288,dumbleyung,2014,653
-1289,dumbleyung,2015,663
-1290,dumbleyung,2016,684
-1291,dumbleyung,2017,684
-1292,dumbleyung,2018,688
-1293,dumbleyung,2019,691
-1294,dumbleyung,2020,699
-1295,dumbleyung,2021,698
-1296,dumbleyung,2022,693
-1297,dumbleyung,2023,701
-1298,meander valley,2013,19540
-1299,meander valley,2014,19519
-1300,meander valley,2015,19502
-1301,meander valley,2016,19553
-1302,meander valley,2017,19802
-1303,meander valley,2018,20037
-1304,meander valley,2019,20286
-1305,meander valley,2020,20603
-1306,meander valley,2021,21139
-1307,meander valley,2022,21354
-1308,meander valley,2023,21449
-1309,cabonne,2013,13473
-1310,cabonne,2014,13506
-1311,cabonne,2015,13511
-1312,cabonne,2016,13577
-1313,cabonne,2017,13683
-1314,cabonne,2018,13729
-1315,cabonne,2019,13773
-1316,cabonne,2020,13814
-1317,cabonne,2021,13767
-1318,cabonne,2022,13843
-1319,cabonne,2023,13880
-1320,victor harbor,2013,14525
-1321,victor harbor,2014,14729
-1322,victor harbor,2015,14886
-1323,victor harbor,2016,15011
-1324,victor harbor,2017,15204
-1325,victor harbor,2018,15419
-1326,victor harbor,2019,15708
-1327,victor harbor,2020,16068
-1328,victor harbor,2021,16429
-1329,victor harbor,2022,16721
-1330,victor harbor,2023,16869
-1331,camden,2013,64095
-1332,camden,2014,68645
-1333,camden,2015,74103
-1334,camden,2016,80268
-1335,camden,2017,88297
-1336,camden,2018,96023
-1337,camden,2019,104706
-1338,camden,2020,112451
-1339,camden,2021,120083
-1340,camden,2022,127808
-1341,camden,2023,134811
-1342,kyogle,2013,9345
-1343,kyogle,2014,9288
-1344,kyogle,2015,9197
-1345,kyogle,2016,9114
-1346,kyogle,2017,9171
-1347,kyogle,2018,9208
-1348,kyogle,2019,9248
-1349,kyogle,2020,9304
-1350,kyogle,2021,9346
-1351,kyogle,2022,9452
-1352,kyogle,2023,9468
-1353,griffith,2013,25705
-1354,griffith,2014,25942
-1355,griffith,2015,26171
-1356,griffith,2016,26356
-1357,griffith,2017,26653
-1358,griffith,2018,26896
-1359,griffith,2019,27102
-1360,griffith,2020,27249
-1361,griffith,2021,27195
-1362,griffith,2022,27015
-1363,griffith,2023,27132
-1364,weddin,2013,3723
-1365,weddin,2014,3706
-1366,weddin,2015,3688
-1367,weddin,2016,3677
-1368,weddin,2017,3672
-1369,weddin,2018,3656
-1370,weddin,2019,3635
-1371,weddin,2020,3619
-1372,weddin,2021,3592
-1373,weddin,2022,3614
-1374,weddin,2023,3616
-1375,melton,2013,123936
-1376,melton,2014,129309
-1377,melton,2015,134915
-1378,melton,2016,141420
-1379,melton,2017,148711
-1380,melton,2018,157019
-1381,melton,2019,165535
-1382,melton,2020,173566
-1383,melton,2021,181346
-1384,melton,2022,193285
-1385,melton,2023,206070
-1386,mount gambier,2013,26425
-1387,mount gambier,2014,26710
-1388,mount gambier,2015,26931
-1389,mount gambier,2016,27061
-1390,mount gambier,2017,27114
-1391,mount gambier,2018,27242
-1392,mount gambier,2019,27379
-1393,mount gambier,2020,27565
-1394,mount gambier,2021,27637
-1395,mount gambier,2022,27744
-1396,mount gambier,2023,27846
-1397,northern grampians,2013,11880
-1398,northern grampians,2014,11777
-1399,northern grampians,2015,11644
-1400,northern grampians,2016,11570
-1401,northern grampians,2017,11591
-1402,northern grampians,2018,11634
-1403,northern grampians,2019,11707
-1404,northern grampians,2020,11805
-1405,northern grampians,2021,11886
-1406,northern grampians,2022,11879
-1407,northern grampians,2023,11879
-1408,western downs,2013,33415
-1409,western downs,2014,33744
-1410,western downs,2015,33867
-1411,western downs,2016,34049
-1412,western downs,2017,34292
-1413,western downs,2018,34338
-1414,western downs,2019,34420
-1415,western downs,2020,34390
-1416,western downs,2021,34351
-1417,western downs,2022,34537
-1418,western downs,2023,34991
-1419,jerramungup,2013,1112
-1420,jerramungup,2014,1120
-1421,jerramungup,2015,1127
-1422,jerramungup,2016,1127
-1423,jerramungup,2017,1123
-1424,jerramungup,2018,1132
-1425,jerramungup,2019,1146
-1426,jerramungup,2020,1162
-1427,jerramungup,2021,1196
-1428,jerramungup,2022,1196
-1429,jerramungup,2023,1213
-1430,kalamunda,2013,58622
-1431,kalamunda,2014,59113
-1432,kalamunda,2015,59298
-1433,kalamunda,2016,59201
-1434,kalamunda,2017,59337
-1435,kalamunda,2018,59442
-1436,kalamunda,2019,59750
-1437,kalamunda,2020,60337
-1438,kalamunda,2021,60804
-1439,kalamunda,2022,61294
-1440,kalamunda,2023,62670
-1441,palmerston,2013,32972
-1442,palmerston,2014,34478
-1443,palmerston,2015,35414
-1444,palmerston,2016,36013
-1445,palmerston,2017,36797
-1446,palmerston,2018,37596
-1447,palmerston,2019,38200
-1448,palmerston,2020,38902
-1449,palmerston,2021,39530
-1450,palmerston,2022,40467
-1451,palmerston,2023,41113
-1452,perth,2013,24317
-1453,perth,2014,25257
-1454,perth,2015,26096
-1455,perth,2016,26879
-1456,perth,2017,27112
-1457,perth,2018,27433
-1458,perth,2019,28214
-1459,perth,2020,29588
-1460,perth,2021,29653
-1461,perth,2022,30580
-1462,perth,2023,32856
-1463,moreton bay,2013,410687
-1464,moreton bay,2014,419764
-1465,moreton bay,2015,428994
-1466,moreton bay,2016,439292
-1467,moreton bay,2017,448559
-1468,moreton bay,2018,458013
-1469,moreton bay,2019,467314
-1470,moreton bay,2020,476622
-1471,moreton bay,2021,484353
-1472,moreton bay,2022,496772
-1473,moreton bay,2023,510104
-1474,bathurst regional,2013,40727
-1475,bathurst regional,2014,41157
-1476,bathurst regional,2015,41694
-1477,bathurst regional,2016,42244
-1478,bathurst regional,2017,42583
-1479,bathurst regional,2018,42882
-1480,bathurst regional,2019,43207
-1481,bathurst regional,2020,43444
-1482,bathurst regional,2021,43674
-1483,bathurst regional,2022,44110
-1484,bathurst regional,2023,44612
-1485,baw baw,2013,45627
-1486,baw baw,2014,46644
-1487,baw baw,2015,47837
-1488,baw baw,2016,49296
-1489,baw baw,2017,50883
-1490,baw baw,2018,52447
-1491,baw baw,2019,54047
-1492,baw baw,2020,55753
-1493,baw baw,2021,57618
-1494,baw baw,2022,59277
-1495,baw baw,2023,60644
-1496,wujal wujal,2013,289
-1497,wujal wujal,2014,291
-1498,wujal wujal,2015,287
-1499,wujal wujal,2016,292
-1500,wujal wujal,2017,292
-1501,wujal wujal,2018,290
-1502,wujal wujal,2019,289
-1503,wujal wujal,2020,287
-1504,wujal wujal,2021,284
-1505,wujal wujal,2022,286
-1506,wujal wujal,2023,293
-1507,bayside (nsw),2013,151309
-1508,bayside (nsw),2014,154980
-1509,bayside (nsw),2015,159222
-1510,bayside (nsw),2016,164534
-1511,bayside (nsw),2017,168779
-1512,bayside (nsw),2018,171377
-1513,bayside (nsw),2019,173913
-1514,bayside (nsw),2020,176184
-1515,bayside (nsw),2021,176229
-1516,bayside (nsw),2022,177992
-1517,bayside (nsw),2023,182987
-1518,port augusta,2013,14496
-1519,port augusta,2014,14498
-1520,port augusta,2015,14442
-1521,port augusta,2016,14359
-1522,port augusta,2017,14361
-1523,port augusta,2018,14380
-1524,port augusta,2019,14384
-1525,port augusta,2020,14389
-1526,port augusta,2021,14448
-1527,port augusta,2022,14449
-1528,port augusta,2023,14420
-1529,kalgoorlie-boulder,2013,33267
-1530,kalgoorlie-boulder,2014,32498
-1531,kalgoorlie-boulder,2015,31748
-1532,kalgoorlie-boulder,2016,30840
-1533,kalgoorlie-boulder,2017,30908
-1534,kalgoorlie-boulder,2018,30750
-1535,kalgoorlie-boulder,2019,30636
-1536,kalgoorlie-boulder,2020,30590
-1537,kalgoorlie-boulder,2021,30670
-1538,kalgoorlie-boulder,2022,30756
-1539,kalgoorlie-boulder,2023,30775
-1540,derwent valley,2013,9977
-1541,derwent valley,2014,10013
-1542,derwent valley,2015,10048
-1543,derwent valley,2016,10087
-1544,derwent valley,2017,10233
-1545,derwent valley,2018,10481
-1546,derwent valley,2019,10729
-1547,derwent valley,2020,10926
-1548,derwent valley,2021,11106
-1549,derwent valley,2022,11235
-1550,derwent valley,2023,11341
-1551,murrindindi,2013,13563
-1552,murrindindi,2014,13687
-1553,murrindindi,2015,13848
-1554,murrindindi,2016,14052
-1555,murrindindi,2017,14290
-1556,murrindindi,2018,14561
-1557,murrindindi,2019,14737
-1558,murrindindi,2020,14872
-1559,murrindindi,2021,15139
-1560,murrindindi,2022,15353
-1561,murrindindi,2023,15482
-1562,unley,2013,38552
-1563,unley,2014,38695
-1564,unley,2015,38823
-1565,unley,2016,38939
-1566,unley,2017,39078
-1567,unley,2018,39187
-1568,unley,2019,39322
-1569,unley,2020,39465
-1570,unley,2021,39061
-1571,unley,2022,39092
-1572,unley,2023,39929
-1573,newcastle,2013,157477
-1574,newcastle,2014,158683
-1575,newcastle,2015,159680
-1576,newcastle,2016,160707
-1577,newcastle,2017,162796
-1578,newcastle,2018,164730
-1579,newcastle,2019,166510
-1580,newcastle,2020,168242
-1581,newcastle,2021,169433
-1582,newcastle,2022,171535
-1583,newcastle,2023,174294
-1584,southern downs,2013,35501
-1585,southern downs,2014,35580
-1586,southern downs,2015,35566
-1587,southern downs,2016,35638
-1588,southern downs,2017,35899
-1589,southern downs,2018,36118
-1590,southern downs,2019,36239
-1591,southern downs,2020,36393
-1592,southern downs,2021,36637
-1593,southern downs,2022,36991
-1594,southern downs,2023,37444
-1595,gingin,2013,5267
-1596,gingin,2014,5356
-1597,gingin,2015,5351
-1598,gingin,2016,5325
-1599,gingin,2017,5349
-1600,gingin,2018,5384
-1601,gingin,2019,5470
-1602,gingin,2020,5611
-1603,gingin,2021,5751
-1604,gingin,2022,5896
-1605,gingin,2023,6064
-1606,georges river,2013,146604
-1607,georges river,2014,148882
-1608,georges river,2015,151069
-1609,georges river,2016,153161
-1610,georges river,2017,155276
-1611,georges river,2018,156225
-1612,georges river,2019,156510
-1613,georges river,2020,155919
-1614,georges river,2021,152800
-1615,georges river,2022,153267
-1616,georges river,2023,158051
-1617,moorabool,2013,30410
-1618,moorabool,2014,31066
-1619,moorabool,2015,31748
-1620,moorabool,2016,32672
-1621,moorabool,2017,33689
-1622,moorabool,2018,34662
-1623,moorabool,2019,35793
-1624,moorabool,2020,36944
-1625,moorabool,2021,37910
-1626,moorabool,2022,38526
-1627,moorabool,2023,39092
-1628,northern beaches,2013,257020
-1629,northern beaches,2014,259723
-1630,northern beaches,2015,262593
-1631,northern beaches,2016,265468
-1632,northern beaches,2017,267483
-1633,northern beaches,2018,268390
-1634,northern beaches,2019,268935
-1635,northern beaches,2020,268164
-1636,northern beaches,2021,264567
-1637,northern beaches,2022,263340
-1638,northern beaches,2023,267921
-1639,mornington peninsula,2013,154001
-1640,mornington peninsula,2014,156500
-1641,mornington peninsula,2015,158831
-1642,mornington peninsula,2016,161528
-1643,mornington peninsula,2017,164188
-1644,mornington peninsula,2018,166564
-1645,mornington peninsula,2019,168594
-1646,mornington peninsula,2020,170186
-1647,mornington peninsula,2021,170440
-1648,mornington peninsula,2022,169733
-1649,mornington peninsula,2023,170243
-1650,dorset,2013,7010
-1651,dorset,2014,6920
-1652,dorset,2015,6816
-1653,dorset,2016,6724
-1654,dorset,2017,6736
-1655,dorset,2018,6739
-1656,dorset,2019,6779
-1657,dorset,2020,6863
-1658,dorset,2021,6983
-1659,dorset,2022,7022
-1660,dorset,2023,7001
-1661,hinchinbrook,2013,11613
-1662,hinchinbrook,2014,11412
-1663,hinchinbrook,2015,11181
-1664,hinchinbrook,2016,10968
-1665,hinchinbrook,2017,10950
-1666,hinchinbrook,2018,10944
-1667,hinchinbrook,2019,10891
-1668,hinchinbrook,2020,10911
-1669,hinchinbrook,2021,10990
-1670,hinchinbrook,2022,11087
-1671,hinchinbrook,2023,11118
-1672,maranoa,2013,13515
-1673,maranoa,2014,13434
-1674,maranoa,2015,13292
-1675,maranoa,2016,12926
-1676,maranoa,2017,12927
-1677,maranoa,2018,12914
-1678,maranoa,2019,12835
-1679,maranoa,2020,12891
-1680,maranoa,2021,12957
-1681,maranoa,2022,13099
-1682,maranoa,2023,13255
-1683,light,2013,14440
-1684,light,2014,14644
-1685,light,2015,14890
-1686,light,2016,15048
-1687,light,2017,15305
-1688,light,2018,15509
-1689,light,2019,15608
-1690,light,2020,15843
-1691,light,2021,16083
-1692,light,2022,16319
-1693,light,2023,16616
-1694,esperance,2013,14422
-1695,esperance,2014,14624
-1696,esperance,2015,14734
-1697,esperance,2016,14527
-1698,esperance,2017,14450
-1699,esperance,2018,14342
-1700,esperance,2019,14329
-1701,esperance,2020,14325
-1702,esperance,2021,14396
-1703,esperance,2022,14501
-1704,esperance,2023,14547
-1705,unincorp.  other territories,2013,374
-1706,unincorp.  other territories,2014,361
-1707,unincorp.  other territories,2015,367
-1708,unincorp.  other territories,2016,2159
-1709,unincorp.  other territories,2017,2243
-1710,unincorp.  other territories,2018,2324
-1711,unincorp.  other territories,2019,2382
-1712,unincorp.  other territories,2020,2437
-1713,unincorp.  other territories,2021,2530
-1714,unincorp.  other territories,2022,2518
-1715,unincorp.  other territories,2023,2516
-1716,fairfield,2013,200098
-1717,fairfield,2014,201788
-1718,fairfield,2015,203490
-1719,fairfield,2016,205675
-1720,fairfield,2017,209107
-1721,fairfield,2018,211392
-1722,fairfield,2019,212825
-1723,fairfield,2020,212148
-1724,fairfield,2021,209066
-1725,fairfield,2022,206830
-1726,fairfield,2023,209742
-1727,katanning,2013,4403
-1728,katanning,2014,4389
-1729,katanning,2015,4308
-1730,katanning,2016,4200
-1731,katanning,2017,4180
-1732,katanning,2018,4162
-1733,katanning,2019,4161
-1734,katanning,2020,4205
-1735,katanning,2021,4227
-1736,katanning,2022,4237
-1737,katanning,2023,4290
-1738,doomadgee,2013,1400
-1739,doomadgee,2014,1422
-1740,doomadgee,2015,1454
-1741,doomadgee,2016,1475
-1742,doomadgee,2017,1495
-1743,doomadgee,2018,1486
-1744,doomadgee,2019,1479
-1745,doomadgee,2020,1459
-1746,doomadgee,2021,1434
-1747,doomadgee,2022,1442
-1748,doomadgee,2023,1461
-1749,circular head,2013,8249
-1750,circular head,2014,8204
-1751,circular head,2015,8142
-1752,circular head,2016,8104
-1753,circular head,2017,8107
-1754,circular head,2018,8118
-1755,circular head,2019,8140
-1756,circular head,2020,8207
-1757,circular head,2021,8325
-1758,circular head,2022,8368
-1759,circular head,2023,8352
-1760,central coast (nsw),2013,327745
-1761,central coast (nsw),2014,330377
-1762,central coast (nsw),2015,333264
-1763,central coast (nsw),2016,336611
-1764,central coast (nsw),2017,340140
-1765,central coast (nsw),2018,343074
-1766,central coast (nsw),2019,345695
-1767,central coast (nsw),2020,347734
-1768,central coast (nsw),2021,348493
-1769,central coast (nsw),2022,349158
-1770,central coast (nsw),2023,351934
-1771,port pirie,2013,17793
-1772,port pirie,2014,17870
-1773,port pirie,2015,17826
-1774,port pirie,2016,17767
-1775,port pirie,2017,17749
-1776,port pirie,2018,17726
-1777,port pirie,2019,17736
-1778,port pirie,2020,17742
-1779,port pirie,2021,17747
-1780,port pirie,2022,17616
-1781,port pirie,2023,17602
-1782,east pilbara,2013,12570
-1783,east pilbara,2014,12149
-1784,east pilbara,2015,11529
-1785,east pilbara,2016,10953
-1786,east pilbara,2017,10888
-1787,east pilbara,2018,10754
-1788,east pilbara,2019,10637
-1789,east pilbara,2020,10533
-1790,east pilbara,2021,10378
-1791,east pilbara,2022,10311
-1792,east pilbara,2023,10401
-1793,bayswater,2013,69083
-1794,bayswater,2014,69256
-1795,bayswater,2015,69136
-1796,bayswater,2016,68791
-1797,bayswater,2017,69043
-1798,bayswater,2018,69267
-1799,bayswater,2019,70051
-1800,bayswater,2020,71277
-1801,bayswater,2021,71774
-1802,bayswater,2022,72242
-1803,bayswater,2023,74283
-1804,swan,2013,123643
-1805,swan,2014,128032
-1806,swan,2015,132127
-1807,swan,2016,136679
-1808,swan,2017,140449
-1809,swan,2018,144202
-1810,swan,2019,148672
-1811,swan,2020,153844
-1812,swan,2021,158689
-1813,swan,2022,163948
-1814,swan,2023,171588
-1815,three springs,2013,638
-1816,three springs,2014,627
-1817,three springs,2015,619
-1818,three springs,2016,608
-1819,three springs,2017,615
-1820,three springs,2018,601
-1821,three springs,2019,589
-1822,three springs,2020,582
-1823,three springs,2021,586
-1824,three springs,2022,587
-1825,three springs,2023,593
-1826,burnside,2013,44457
-1827,burnside,2014,44678
-1828,burnside,2015,44938
-1829,burnside,2016,45216
-1830,burnside,2017,45591
-1831,burnside,2018,45882
-1832,burnside,2019,46118
-1833,burnside,2020,46415
-1834,burnside,2021,46425
-1835,burnside,2022,46710
-1836,burnside,2023,47444
-1837,lake macquarie,2013,198953
-1838,lake macquarie,2014,200249
-1839,lake macquarie,2015,201240
-1840,lake macquarie,2016,202332
-1841,lake macquarie,2017,204512
-1842,lake macquarie,2018,206975
-1843,lake macquarie,2019,209433
-1844,lake macquarie,2020,211954
-1845,lake macquarie,2021,214054
-1846,lake macquarie,2022,216594
-1847,lake macquarie,2023,219249
-1848,campbelltown (nsw),2013,154346
-1849,campbelltown (nsw),2014,156289
-1850,campbelltown (nsw),2015,158586
-1851,campbelltown (nsw),2016,161562
-1852,campbelltown (nsw),2017,165143
-1853,campbelltown (nsw),2018,168825
-1854,campbelltown (nsw),2019,172286
-1855,campbelltown (nsw),2020,175725
-1856,campbelltown (nsw),2021,177778
-1857,campbelltown (nsw),2022,180377
-1858,campbelltown (nsw),2023,184784
-1859,tumby bay,2013,2640
-1860,tumby bay,2014,2651
-1861,tumby bay,2015,2670
-1862,tumby bay,2016,2675
-1863,tumby bay,2017,2708
-1864,tumby bay,2018,2731
-1865,tumby bay,2019,2770
-1866,tumby bay,2020,2832
-1867,tumby bay,2021,2875
-1868,tumby bay,2022,2892
-1869,tumby bay,2023,2906
-1870,coolgardie,2013,4196
-1871,coolgardie,2014,4046
-1872,coolgardie,2015,3904
-1873,coolgardie,2016,3695
-1874,coolgardie,2017,3669
-1875,coolgardie,2018,3591
-1876,coolgardie,2019,3542
-1877,coolgardie,2020,3546
-1878,coolgardie,2021,3638
-1879,coolgardie,2022,3638
-1880,coolgardie,2023,3686
-1881,mosman park,2013,9217
-1882,mosman park,2014,9202
-1883,mosman park,2015,9188
-1884,mosman park,2016,9167
-1885,mosman park,2017,9199
-1886,mosman park,2018,9224
-1887,mosman park,2019,9332
-1888,mosman park,2020,9394
-1889,mosman park,2021,9478
-1890,mosman park,2022,9621
-1891,mosman park,2023,10032
-1892,shoalhaven,2013,98097
-1893,shoalhaven,2014,99292
-1894,shoalhaven,2015,100550
-1895,shoalhaven,2016,101942
-1896,shoalhaven,2017,103122
-1897,shoalhaven,2018,104489
-1898,shoalhaven,2019,105781
-1899,shoalhaven,2020,107246
-1900,shoalhaven,2021,108550
-1901,shoalhaven,2022,109604
-1902,shoalhaven,2023,109895
-1903,albany,2013,36318
-1904,albany,2014,36919
-1905,albany,2015,37206
-1906,albany,2016,37285
-1907,albany,2017,37879
-1908,albany,2018,38470
-1909,albany,2019,39054
-1910,albany,2020,39629
-1911,albany,2021,40105
-1912,albany,2022,40434
-1913,albany,2023,40949
-1914,orange,2013,40167
-1915,orange,2014,40619
-1916,orange,2015,40837
-1917,orange,2016,41210
-1918,orange,2017,41800
-1919,orange,2018,42522
-1920,orange,2019,43115
-1921,orange,2020,43383
-1922,orange,2021,43750
-1923,orange,2022,43964
-1924,orange,2023,44244
-1925,latrobe,2013,74124
-1926,latrobe,2014,74134
-1927,latrobe,2015,74266
-1928,latrobe,2016,74622
-1929,latrobe,2017,75088
-1930,latrobe,2018,75586
-1931,latrobe,2019,76121
-1932,latrobe,2020,76714
-1933,latrobe,2021,77117
-1934,latrobe,2022,77705
-1935,latrobe,2023,78154
-1936,noosa,2013,52360
-1937,noosa,2014,52988
-1938,noosa,2015,53497
-1939,noosa,2016,53922
-1940,noosa,2017,54688
-1941,noosa,2018,55511
-1942,noosa,2019,56045
-1943,noosa,2020,56662
-1944,noosa,2021,56874
-1945,noosa,2022,57336
-1946,noosa,2023,58367
-1947,palm island,2013,2529
-1948,palm island,2014,2527
-1949,palm island,2015,2550
-1950,palm island,2016,2581
-1951,palm island,2017,2465
-1952,palm island,2018,2369
-1953,palm island,2019,2274
-1954,palm island,2020,2205
-1955,palm island,2021,2180
-1956,palm island,2022,2193
-1957,palm island,2023,2214
-1958,nedlands,2013,22665
-1959,nedlands,2014,22686
-1960,nedlands,2015,22435
-1961,nedlands,2016,22108
-1962,nedlands,2017,22391
-1963,nedlands,2018,22564
-1964,nedlands,2019,22745
-1965,nedlands,2020,23075
-1966,nedlands,2021,22924
-1967,nedlands,2022,23018
-1968,nedlands,2023,24127
-1969,ballina,2013,41510
-1970,ballina,2014,41881
-1971,ballina,2015,42336
-1972,ballina,2016,42993
-1973,ballina,2017,43652
-1974,ballina,2018,44385
-1975,ballina,2019,44997
-1976,ballina,2020,45663
-1977,ballina,2021,46196
-1978,ballina,2022,46849
-1979,ballina,2023,47279
-1980,uralla,2013,6253
-1981,uralla,2014,6238
-1982,uralla,2015,6194
-1983,uralla,2016,6147
-1984,uralla,2017,6154
-1985,uralla,2018,6144
-1986,uralla,2019,6119
-1987,uralla,2020,6056
-1988,uralla,2021,5992
-1989,uralla,2022,5984
-1990,uralla,2023,6047
-1991,claremont,2013,10220
-1992,claremont,2014,10357
-1993,claremont,2015,10515
-1994,claremont,2016,10632
-1995,claremont,2017,10693
-1996,claremont,2018,10858
-1997,claremont,2019,11055
-1998,claremont,2020,11501
-1999,claremont,2021,11643
-2000,claremont,2022,11735
-2001,claremont,2023,12178
-2002,west wimmera,2013,4124
-2003,west wimmera,2014,4038
-2004,west wimmera,2015,3974
-2005,west wimmera,2016,3937
-2006,west wimmera,2017,3952
-2007,west wimmera,2018,3964
-2008,west wimmera,2019,3979
-2009,west wimmera,2020,3994
-2010,west wimmera,2021,3978
-2011,west wimmera,2022,3943
-2012,west wimmera,2023,3933
-2013,playford,2013,85232
-2014,playford,2014,87380
-2015,playford,2015,88980
-2016,playford,2016,90553
-2017,playford,2017,92534
-2018,playford,2018,94352
-2019,playford,2019,96220
-2020,playford,2020,98458
-2021,playford,2021,100556
-2022,playford,2022,103401
-2023,playford,2023,107069
-2024,plantagenet,2013,5172
-2025,plantagenet,2014,5151
-2026,plantagenet,2015,5130
-2027,plantagenet,2016,5103
-2028,plantagenet,2017,5188
-2029,plantagenet,2018,5307
-2030,plantagenet,2019,5358
-2031,plantagenet,2020,5410
-2032,plantagenet,2021,5534
-2033,plantagenet,2022,5587
-2034,plantagenet,2023,5669
-2035,south perth,2013,44348
-2036,south perth,2014,44251
-2037,south perth,2015,44096
-2038,south perth,2016,43879
-2039,south perth,2017,43886
-2040,south perth,2018,43989
-2041,south perth,2019,44538
-2042,south perth,2020,45072
-2043,south perth,2021,44952
-2044,south perth,2022,45201
-2045,south perth,2023,46701
-2046,hornsby,2013,144458
-2047,hornsby,2014,145262
-2048,hornsby,2015,146147
-2049,hornsby,2016,147385
-2050,hornsby,2017,149601
-2051,hornsby,2018,151809
-2052,hornsby,2019,153216
-2053,hornsby,2020,154037
-2054,hornsby,2021,152263
-2055,hornsby,2022,151771
-2056,hornsby,2023,154072
-2057,narrandera,2013,6054
-2058,narrandera,2014,6015
-2059,narrandera,2015,5978
-2060,narrandera,2016,5949
-2061,narrandera,2017,5909
-2062,narrandera,2018,5879
-2063,narrandera,2019,5832
-2064,narrandera,2020,5787
-2065,narrandera,2021,5733
-2066,narrandera,2022,5720
-2067,narrandera,2023,5692
-2068,halls creek,2013,3810
-2069,halls creek,2014,3734
-2070,halls creek,2015,3656
-2071,halls creek,2016,3593
-2072,halls creek,2017,3619
-2073,halls creek,2018,3714
-2074,halls creek,2019,3783
-2075,halls creek,2020,3932
-2076,halls creek,2021,4038
-2077,halls creek,2022,4113
-2078,halls creek,2023,4136
-2079,nannup,2013,1343
-2080,nannup,2014,1350
-2081,nannup,2015,1352
-2082,nannup,2016,1339
-2083,nannup,2017,1398
-2084,nannup,2018,1440
-2085,nannup,2019,1487
-2086,nannup,2020,1547
-2087,nannup,2021,1575
-2088,nannup,2022,1593
-2089,nannup,2023,1632
-2090,west arnhem,2013,7290
-2091,west arnhem,2014,7157
-2092,west arnhem,2015,7060
-2093,west arnhem,2016,6941
-2094,west arnhem,2017,6943
-2095,west arnhem,2018,6985
-2096,west arnhem,2019,7059
-2097,west arnhem,2020,7130
-2098,west arnhem,2021,7182
-2099,west arnhem,2022,7258
-2100,west arnhem,2023,7407
-2101,mitcham,2013,65644
-2102,mitcham,2014,65986
-2103,mitcham,2015,66232
-2104,mitcham,2016,66482
-2105,mitcham,2017,66855
-2106,mitcham,2018,67366
-2107,mitcham,2019,67690
-2108,mitcham,2020,68175
-2109,mitcham,2021,68162
-2110,mitcham,2022,68370
-2111,mitcham,2023,69542
-2112,kingborough,2013,35351
-2113,kingborough,2014,35723
-2114,kingborough,2015,36140
-2115,kingborough,2016,36544
-2116,kingborough,2017,37485
-2117,kingborough,2018,38484
-2118,kingborough,2019,39378
-2119,kingborough,2020,40052
-2120,kingborough,2021,40769
-2121,kingborough,2022,40937
-2122,kingborough,2023,41179
-2123,wodonga,2013,37575
-2124,wodonga,2014,38369
-2125,wodonga,2015,39223
-2126,wodonga,2016,40100
-2127,wodonga,2017,40837
-2128,wodonga,2018,41541
-2129,wodonga,2019,42084
-2130,wodonga,2020,42666
-2131,wodonga,2021,43207
-2132,wodonga,2022,43716
-2133,wodonga,2023,44276
-2134,hume,2013,184873
-2135,hume,2014,191278
-2136,hume,2015,198176
-2137,hume,2016,207041
-2138,hume,2017,216249
-2139,hume,2018,225526
-2140,hume,2019,235370
-2141,hume,2020,243643
-2142,hume,2021,246920
-2143,hume,2022,253182
-2144,hume,2023,262764
-2145,ipswich,2013,183688
-2146,ipswich,2014,189195
-2147,ipswich,2015,194274
-2148,ipswich,2016,200103
-2149,ipswich,2017,205588
-2150,ipswich,2018,211946
-2151,ipswich,2019,219893
-2152,ipswich,2020,226778
-2153,ipswich,2021,233314
-2154,ipswich,2022,242640
-2155,ipswich,2023,251148
-2156,winton,2013,1312
-2157,winton,2014,1276
-2158,winton,2015,1222
-2159,winton,2016,1154
-2160,winton,2017,1149
-2161,winton,2018,1155
-2162,winton,2019,1150
-2163,winton,2020,1130
-2164,winton,2021,1133
-2165,winton,2022,1134
-2166,winton,2023,1138
-2167,holdfast bay,2013,36282
-2168,holdfast bay,2014,36354
-2169,holdfast bay,2015,36425
-2170,holdfast bay,2016,36537
-2171,holdfast bay,2017,36696
-2172,holdfast bay,2018,37002
-2173,holdfast bay,2019,37413
-2174,holdfast bay,2020,37724
-2175,holdfast bay,2021,37857
-2176,holdfast bay,2022,38056
-2177,holdfast bay,2023,38766
-2178,canning,2013,93491
-2179,canning,2014,93843
-2180,canning,2015,93959
-2181,canning,2016,93733
-2182,canning,2017,94403
-2183,canning,2018,95171
-2184,canning,2019,96447
-2185,canning,2020,98643
-2186,canning,2021,99306
-2187,canning,2022,99764
-2188,canning,2023,103691
-2189,naracoorte lucindale,2013,8528
-2190,naracoorte lucindale,2014,8585
-2191,naracoorte lucindale,2015,8570
-2192,naracoorte lucindale,2016,8544
-2193,naracoorte lucindale,2017,8602
-2194,naracoorte lucindale,2018,8679
-2195,naracoorte lucindale,2019,8778
-2196,naracoorte lucindale,2020,8867
-2197,naracoorte lucindale,2021,8892
-2198,naracoorte lucindale,2022,8918
-2199,naracoorte lucindale,2023,8928
-2200,busselton,2013,34696
-2201,busselton,2014,35917
-2202,busselton,2015,36940
-2203,busselton,2016,37766
-2204,busselton,2017,38619
-2205,busselton,2018,39305
-2206,busselton,2019,40187
-2207,busselton,2020,41059
-2208,busselton,2021,42009
-2209,busselton,2022,42931
-2210,busselton,2023,43969
-2211,darwin,2013,82996
-2212,darwin,2014,83098
-2213,darwin,2015,84363
-2214,darwin,2016,85323
-2215,darwin,2017,86339
-2216,darwin,2018,85788
-2217,darwin,2019,85308
-2218,darwin,2020,85109
-2219,darwin,2021,84854
-2220,darwin,2022,84877
-2221,darwin,2023,85465
-2222,walcha,2013,3150
-2223,walcha,2014,3149
-2224,walcha,2015,3128
-2225,walcha,2016,3130
-2226,walcha,2017,3138
-2227,walcha,2018,3110
-2228,walcha,2019,3090
-2229,walcha,2020,3057
-2230,walcha,2021,3019
-2231,walcha,2022,3010
-2232,walcha,2023,2968
-2233,victoria daly,2013,3312
-2234,victoria daly,2014,3269
-2235,victoria daly,2015,3217
-2236,victoria daly,2016,3142
-2237,victoria daly,2017,3120
-2238,victoria daly,2018,3135
-2239,victoria daly,2019,3163
-2240,victoria daly,2020,3196
-2241,victoria daly,2021,3221
-2242,victoria daly,2022,3262
-2243,victoria daly,2023,3295
-2244,casey,2013,278023
-2245,casey,2014,287937
-2246,casey,2015,299528
-2247,casey,2016,312789
-2248,casey,2017,324946
-2249,casey,2018,338087
-2250,casey,2019,352006
-2251,casey,2020,363970
-2252,casey,2021,369558
-2253,casey,2022,379104
-2254,casey,2023,392110
-2255,northern areas,2013,4595
-2256,northern areas,2014,4610
-2257,northern areas,2015,4616
-2258,northern areas,2016,4623
-2259,northern areas,2017,4607
-2260,northern areas,2018,4596
-2261,northern areas,2019,4611
-2262,northern areas,2020,4622
-2263,northern areas,2021,4659
-2264,northern areas,2022,4662
-2265,northern areas,2023,4667
-2266,waroona,2013,3931
-2267,waroona,2014,4057
-2268,waroona,2015,4133
-2269,waroona,2016,4162
-2270,waroona,2017,4167
-2271,waroona,2018,4195
-2272,waroona,2019,4254
-2273,waroona,2020,4314
-2274,waroona,2021,4355
-2275,waroona,2022,4401
-2276,waroona,2023,4457
-2277,latrobe (tas.),2013,10433
-2278,latrobe (tas.),2014,10569
-2279,latrobe (tas.),2015,10723
-2280,latrobe (tas.),2016,10927
-2281,latrobe (tas.),2017,11240
-2282,latrobe (tas.),2018,11550
-2283,latrobe (tas.),2019,11922
-2284,latrobe (tas.),2020,12301
-2285,latrobe (tas.),2021,12697
-2286,latrobe (tas.),2022,12921
-2287,latrobe (tas.),2023,13062
-2288,cootamundra-gundagai regional,2013,11313
-2289,cootamundra-gundagai regional,2014,11305
-2290,cootamundra-gundagai regional,2015,11302
-2291,cootamundra-gundagai regional,2016,11291
-2292,cootamundra-gundagai regional,2017,11306
-2293,cootamundra-gundagai regional,2018,11324
-2294,cootamundra-gundagai regional,2019,11362
-2295,cootamundra-gundagai regional,2020,11393
-2296,cootamundra-gundagai regional,2021,11390
-2297,cootamundra-gundagai regional,2022,11403
-2298,cootamundra-gundagai regional,2023,11424
-2299,ravensthorpe,2013,2118
-2300,ravensthorpe,2014,2036
-2301,ravensthorpe,2015,1906
-2302,ravensthorpe,2016,1764
-2303,ravensthorpe,2017,1819
-2304,ravensthorpe,2018,1845
-2305,ravensthorpe,2019,1914
-2306,ravensthorpe,2020,2023
-2307,ravensthorpe,2021,2157
-2308,ravensthorpe,2022,2202
-2309,ravensthorpe,2023,2277
-2310,campaspe,2013,37213
-2311,campaspe,2014,37338
-2312,campaspe,2015,37429
-2313,campaspe,2016,37595
-2314,campaspe,2017,37799
-2315,campaspe,2018,37948
-2316,campaspe,2019,38128
-2317,campaspe,2020,38379
-2318,campaspe,2021,38556
-2319,campaspe,2022,38556
-2320,campaspe,2023,38299
-2321,cockburn,2013,102787
-2322,cockburn,2014,104906
-2323,cockburn,2015,106802
-2324,cockburn,2016,108302
-2325,cockburn,2017,110451
-2326,cockburn,2018,112928
-2327,cockburn,2019,115577
-2328,cockburn,2020,119032
-2329,cockburn,2021,122212
-2330,cockburn,2022,125232
-2331,cockburn,2023,130282
-2332,northern peninsula area,2013,2620
-2333,northern peninsula area,2014,2741
-2334,northern peninsula area,2015,2836
-2335,northern peninsula area,2016,2945
-2336,northern peninsula area,2017,2935
-2337,northern peninsula area,2018,2923
-2338,northern peninsula area,2019,2904
-2339,northern peninsula area,2020,2891
-2340,northern peninsula area,2021,2885
-2341,northern peninsula area,2022,2889
-2342,northern peninsula area,2023,2908
-2343,darwin waterfront precinct,2013,293
-2344,darwin waterfront precinct,2014,323
-2345,darwin waterfront precinct,2015,365
-2346,darwin waterfront precinct,2016,398
-2347,darwin waterfront precinct,2017,400
-2348,darwin waterfront precinct,2018,373
-2349,darwin waterfront precinct,2019,348
-2350,darwin waterfront precinct,2020,330
-2351,darwin waterfront precinct,2021,312
-2352,darwin waterfront precinct,2022,289
-2353,darwin waterfront precinct,2023,282
-2354,gawler,2013,21656
-2355,gawler,2014,22275
-2356,gawler,2015,22707
-2357,gawler,2016,23355
-2358,gawler,2017,23729
-2359,gawler,2018,24055
-2360,gawler,2019,24465
-2361,gawler,2020,24770
-2362,gawler,2021,25300
-2363,gawler,2022,26114
-2364,gawler,2023,26789
-2365,glen innes severn,2013,8909
-2366,glen innes severn,2014,8919
-2367,glen innes severn,2015,8926
-2368,glen innes severn,2016,8934
-2369,glen innes severn,2017,8937
-2370,glen innes severn,2018,8941
-2371,glen innes severn,2019,8947
-2372,glen innes severn,2020,8946
-2373,glen innes severn,2021,8925
-2374,glen innes severn,2022,8944
-2375,glen innes severn,2023,8989
-2376,east arnhem,2013,10677
-2377,east arnhem,2014,10469
-2378,east arnhem,2015,10362
-2379,east arnhem,2016,10252
-2380,east arnhem,2017,10211
-2381,east arnhem,2018,10165
-2382,east arnhem,2019,10153
-2383,east arnhem,2020,10123
-2384,east arnhem,2021,10089
-2385,east arnhem,2022,10108
-2386,east arnhem,2023,10011
-2387,banana,2013,14948
-2388,banana,2014,14860
-2389,banana,2015,14707
-2390,banana,2016,14570
-2391,banana,2017,14573
-2392,banana,2018,14525
-2393,banana,2019,14581
-2394,banana,2020,14587
-2395,banana,2021,14657
-2396,banana,2022,14778
-2397,banana,2023,14919
-2398,lismore,2013,44408
-2399,lismore,2014,44327
-2400,lismore,2015,44212
-2401,lismore,2016,44122
-2402,lismore,2017,44137
-2403,lismore,2018,44196
-2404,lismore,2019,44234
-2405,lismore,2020,44316
-2406,lismore,2021,44361
-2407,lismore,2022,44274
-2408,lismore,2023,43907
-2409,murray bridge,2013,20726
-2410,murray bridge,2014,21004
-2411,murray bridge,2015,21274
-2412,murray bridge,2016,21562
-2413,murray bridge,2017,21719
-2414,murray bridge,2018,21893
-2415,murray bridge,2019,22089
-2416,murray bridge,2020,22268
-2417,murray bridge,2021,22339
-2418,murray bridge,2022,22538
-2419,murray bridge,2023,22901
-2420,port hedland,2013,15951
-2421,port hedland,2014,15648
-2422,port hedland,2015,15387
-2423,port hedland,2016,15064
-2424,port hedland,2017,14989
-2425,port hedland,2018,15208
-2426,port hedland,2019,15585
-2427,port hedland,2020,16115
-2428,port hedland,2021,16666
-2429,port hedland,2022,17031
-2430,port hedland,2023,17247
-2431,willoughby,2013,73072
-2432,willoughby,2014,74238
-2433,willoughby,2015,75970
-2434,willoughby,2016,77888
-2435,willoughby,2017,78873
-2436,willoughby,2018,78797
-2437,willoughby,2019,78830
-2438,willoughby,2020,78566
-2439,willoughby,2021,76044
-2440,willoughby,2022,75508
-2441,willoughby,2023,77874
-2442,isaac,2013,23284
-2443,isaac,2014,22786
-2444,isaac,2015,22173
-2445,isaac,2016,21543
-2446,isaac,2017,21480
-2447,isaac,2018,21523
-2448,isaac,2019,21773
-2449,isaac,2020,22141
-2450,isaac,2021,22419
-2451,isaac,2022,22744
-2452,isaac,2023,23024
-2453,barcaldine,2013,3232
-2454,barcaldine,2014,3166
-2455,barcaldine,2015,3082
-2456,barcaldine,2016,2909
-2457,barcaldine,2017,2881
-2458,barcaldine,2018,2877
-2459,barcaldine,2019,2876
-2460,barcaldine,2020,2862
-2461,barcaldine,2021,2863
-2462,barcaldine,2022,2864
-2463,barcaldine,2023,2894
-2464,wakefield,2013,6841
-2465,wakefield,2014,6896
-2466,wakefield,2015,6932
-2467,wakefield,2016,6950
-2468,wakefield,2017,6976
-2469,wakefield,2018,6891
-2470,wakefield,2019,6921
-2471,wakefield,2020,6867
-2472,wakefield,2021,6925
-2473,wakefield,2022,6969
-2474,wakefield,2023,6958
-2475,walkerville,2013,7399
-2476,walkerville,2014,7447
-2477,walkerville,2015,7732
-2478,walkerville,2016,7781
-2479,walkerville,2017,7876
-2480,walkerville,2018,7975
-2481,walkerville,2019,8054
-2482,walkerville,2020,8156
-2483,walkerville,2021,8086
-2484,walkerville,2022,8185
-2485,walkerville,2023,8420
-2486,westonia,2013,302
-2487,westonia,2014,305
-2488,westonia,2015,306
-2489,westonia,2016,306
-2490,westonia,2017,301
-2491,westonia,2018,285
-2492,westonia,2019,278
-2493,westonia,2020,268
-2494,westonia,2021,255
-2495,westonia,2022,252
-2496,westonia,2023,244
-2497,lane cove,2013,34261
-2498,lane cove,2014,35196
-2499,lane cove,2015,36402
-2500,lane cove,2016,37694
-2501,lane cove,2017,38615
-2502,lane cove,2018,39239
-2503,lane cove,2019,39790
-2504,lane cove,2020,40067
-2505,lane cove,2021,39608
-2506,lane cove,2022,40088
-2507,lane cove,2023,41549
-2508,merri-bek,2013,160282
-2509,merri-bek,2014,164099
-2510,merri-bek,2015,167870
-2511,merri-bek,2016,172294
-2512,merri-bek,2017,175110
-2513,merri-bek,2018,177679
-2514,merri-bek,2019,179327
-2515,merri-bek,2020,180030
-2516,merri-bek,2021,173500
-2517,merri-bek,2022,174886
-2518,merri-bek,2023,181223
-2519,narrabri,2013,13489
-2520,narrabri,2014,13480
-2521,narrabri,2015,13459
-2522,narrabri,2016,13367
-2523,narrabri,2017,13300
-2524,narrabri,2018,13233
-2525,narrabri,2019,13146
-2526,narrabri,2020,12990
-2527,narrabri,2021,12808
-2528,narrabri,2022,12720
-2529,narrabri,2023,12754
-2530,grant,2013,7993
-2531,grant,2014,8144
-2532,grant,2015,8282
-2533,grant,2016,8417
-2534,grant,2017,8483
-2535,grant,2018,8567
-2536,grant,2019,8672
-2537,grant,2020,8763
-2538,grant,2021,8862
-2539,grant,2022,8926
-2540,grant,2023,9044
-2541,quairading,2013,1066
-2542,quairading,2014,1066
-2543,quairading,2015,1060
-2544,quairading,2016,1038
-2545,quairading,2017,1017
-2546,quairading,2018,1004
-2547,quairading,2019,997
-2548,quairading,2020,984
-2549,quairading,2021,981
-2550,quairading,2022,983
-2551,quairading,2023,973
-2552,melbourne,2013,118711
-2553,melbourne,2014,127975
-2554,melbourne,2015,136872
-2555,melbourne,2016,146096
-2556,melbourne,2017,155956
-2557,melbourne,2018,163363
-2558,melbourne,2019,168952
-2559,melbourne,2020,170589
-2560,melbourne,2021,153110
-2561,melbourne,2022,160328
-2562,melbourne,2023,177396
-2563,augusta margaret river,2013,13487
-2564,augusta margaret river,2014,13996
-2565,augusta margaret river,2015,14419
-2566,augusta margaret river,2016,14819
-2567,augusta margaret river,2017,15258
-2568,augusta margaret river,2018,15708
-2569,augusta margaret river,2019,16235
-2570,augusta margaret river,2020,16792
-2571,augusta margaret river,2021,17303
-2572,augusta margaret river,2022,17917
-2573,augusta margaret river,2023,18620
-2574,derby-west kimberley,2013,9491
-2575,derby-west kimberley,2014,8864
-2576,derby-west kimberley,2015,8570
-2577,derby-west kimberley,2016,8364
-2578,derby-west kimberley,2017,8290
-2579,derby-west kimberley,2018,8340
-2580,derby-west kimberley,2019,8321
-2581,derby-west kimberley,2020,8362
-2582,derby-west kimberley,2021,8414
-2583,derby-west kimberley,2022,8410
-2584,derby-west kimberley,2023,8433
-2585,subiaco,2013,16466
-2586,subiaco,2014,16700
-2587,subiaco,2015,16927
-2588,subiaco,2016,17018
-2589,subiaco,2017,17231
-2590,subiaco,2018,17320
-2591,subiaco,2019,17602
-2592,subiaco,2020,17941
-2593,subiaco,2021,17902
-2594,subiaco,2022,18008
-2595,subiaco,2023,18870
-2596,clarence,2013,53685
-2597,clarence,2014,54219
-2598,clarence,2015,54829
-2599,clarence,2016,55465
-2600,clarence,2017,56636
-2601,clarence,2018,58064
-2602,clarence,2019,59447
-2603,clarence,2020,60771
-2604,clarence,2021,62336
-2605,clarence,2022,63084
-2606,clarence,2023,63663
-2607,greater shepparton,2013,63244
-2608,greater shepparton,2014,63919
-2609,greater shepparton,2015,64489
-2610,greater shepparton,2016,65072
-2611,greater shepparton,2017,65955
-2612,greater shepparton,2018,66826
-2613,greater shepparton,2019,67733
-2614,greater shepparton,2020,68474
-2615,greater shepparton,2021,68526
-2616,greater shepparton,2022,68964
-2617,greater shepparton,2023,69135
-2618,launceston,2013,66722
-2619,launceston,2014,66576
-2620,launceston,2015,66492
-2621,launceston,2016,66518
-2622,launceston,2017,67537
-2623,launceston,2018,68716
-2624,launceston,2019,69888
-2625,launceston,2020,71019
-2626,launceston,2021,71788
-2627,launceston,2022,71889
-2628,launceston,2023,71788
-2629,tablelands,2013,24827
-2630,tablelands,2014,25060
-2631,tablelands,2015,25111
-2632,tablelands,2016,25217
-2633,tablelands,2017,25521
-2634,tablelands,2018,25849
-2635,tablelands,2019,26071
-2636,tablelands,2020,26309
-2637,tablelands,2021,26488
-2638,tablelands,2022,26806
-2639,tablelands,2023,27259
-2640,morawa,2013,872
-2641,morawa,2014,835
-2642,morawa,2015,800
-2643,morawa,2016,765
-2644,morawa,2017,733
-2645,morawa,2018,701
-2646,morawa,2019,680
-2647,morawa,2020,668
-2648,morawa,2021,669
-2649,morawa,2022,669
-2650,morawa,2023,679
-2651,cardinia,2013,84591
-2652,cardinia,2014,88070
-2653,cardinia,2015,92298
-2654,cardinia,2016,97573
-2655,cardinia,2017,102258
-2656,cardinia,2018,106945
-2657,cardinia,2019,112002
-2658,cardinia,2020,116505
-2659,cardinia,2021,119573
-2660,cardinia,2022,123181
-2661,cardinia,2023,126960
-2662,etheridge,2013,864
-2663,etheridge,2014,840
-2664,etheridge,2015,818
-2665,etheridge,2016,807
-2666,etheridge,2017,792
-2667,etheridge,2018,773
-2668,etheridge,2019,747
-2669,etheridge,2020,731
-2670,etheridge,2021,724
-2671,etheridge,2022,720
-2672,etheridge,2023,726
-2673,balranald,2013,2381
-2674,balranald,2014,2376
-2675,balranald,2015,2364
-2676,balranald,2016,2330
-2677,balranald,2017,2338
-2678,balranald,2018,2308
-2679,balranald,2019,2287
-2680,balranald,2020,2257
-2681,balranald,2021,2208
-2682,balranald,2022,2210
-2683,balranald,2023,2202
-2684,kempsey,2013,29284
-2685,kempsey,2014,29351
-2686,kempsey,2015,29379
-2687,kempsey,2016,29431
-2688,kempsey,2017,29770
-2689,kempsey,2018,30080
-2690,kempsey,2019,30347
-2691,kempsey,2020,30602
-2692,kempsey,2021,30828
-2693,kempsey,2022,31178
-2694,kempsey,2023,31453
-2695,gilgandra,2013,4428
-2696,gilgandra,2014,4382
-2697,gilgandra,2015,4342
-2698,gilgandra,2016,4298
-2699,gilgandra,2017,4304
-2700,gilgandra,2018,4300
-2701,gilgandra,2019,4323
-2702,gilgandra,2020,4327
-2703,gilgandra,2021,4318
-2704,gilgandra,2022,4298
-2705,gilgandra,2023,4309
-2706,wagga wagga,2013,62416
-2707,wagga wagga,2014,62776
-2708,wagga wagga,2015,63327
-2709,wagga wagga,2016,63906
-2710,wagga wagga,2017,64768
-2711,wagga wagga,2018,65618
-2712,wagga wagga,2019,66411
-2713,wagga wagga,2020,67277
-2714,wagga wagga,2021,67891
-2715,wagga wagga,2022,68338
-2716,wagga wagga,2023,68716
-2717,orroroo carrieton,2013,895
-2718,orroroo carrieton,2014,900
-2719,orroroo carrieton,2015,911
-2720,orroroo carrieton,2016,912
-2721,orroroo carrieton,2017,898
-2722,orroroo carrieton,2018,895
-2723,orroroo carrieton,2019,898
-2724,orroroo carrieton,2020,893
-2725,orroroo carrieton,2021,891
-2726,orroroo carrieton,2022,890
-2727,orroroo carrieton,2023,889
-2728,singleton,2013,23557
-2729,singleton,2014,23597
-2730,singleton,2015,23586
-2731,singleton,2016,23576
-2732,singleton,2017,23806
-2733,singleton,2018,24036
-2734,singleton,2019,24309
-2735,singleton,2020,24503
-2736,singleton,2021,24725
-2737,singleton,2022,25093
-2738,singleton,2023,25332
-2739,norwood payneham and st peters,2013,36347
-2740,norwood payneham and st peters,2014,36361
-2741,norwood payneham and st peters,2015,36369
-2742,norwood payneham and st peters,2016,36396
-2743,norwood payneham and st peters,2017,36678
-2744,norwood payneham and st peters,2018,36996
-2745,norwood payneham and st peters,2019,37477
-2746,norwood payneham and st peters,2020,37958
-2747,norwood payneham and st peters,2021,37823
-2748,norwood payneham and st peters,2022,38019
-2749,norwood payneham and st peters,2023,39312
-2750,douglas,2013,11585
-2751,douglas,2014,11757
-2752,douglas,2015,11877
-2753,douglas,2016,12070
-2754,douglas,2017,12206
-2755,douglas,2018,12204
-2756,douglas,2019,12312
-2757,douglas,2020,12371
-2758,douglas,2021,12441
-2759,douglas,2022,12662
-2760,douglas,2023,12828
-2761,barunga west,2013,2495
-2762,barunga west,2014,2521
-2763,barunga west,2015,2542
-2764,barunga west,2016,2592
-2765,barunga west,2017,2600
-2766,barunga west,2018,2594
-2767,barunga west,2019,2624
-2768,barunga west,2020,2631
-2769,barunga west,2021,2675
-2770,barunga west,2022,2672
-2771,barunga west,2023,2680
-2772,cocos islands,2013,547
-2773,cocos islands,2014,556
-2774,cocos islands,2015,555
-2775,cocos islands,2016,546
-2776,cocos islands,2017,552
-2777,cocos islands,2018,553
-2778,cocos islands,2019,591
-2779,cocos islands,2020,608
-2780,cocos islands,2021,603
-2781,cocos islands,2022,616
-2782,cocos islands,2023,631
-2783,moora,2013,2527
-2784,moora,2014,2504
-2785,moora,2015,2505
-2786,moora,2016,2477
-2787,moora,2017,2447
-2788,moora,2018,2409
-2789,moora,2019,2374
-2790,moora,2020,2380
-2791,moora,2021,2382
-2792,moora,2022,2378
-2793,moora,2023,2392
-2794,victoria park,2013,36260
-2795,victoria park,2014,36570
-2796,victoria park,2015,36714
-2797,victoria park,2016,36647
-2798,victoria park,2017,36578
-2799,victoria park,2018,36741
-2800,victoria park,2019,37348
-2801,victoria park,2020,38260
-2802,victoria park,2021,38296
-2803,victoria park,2022,38756
-2804,victoria park,2023,40782
-2805,yarra,2013,83962
-2806,yarra,2014,87228
-2807,yarra,2015,89923
-2808,yarra,2016,92894
-2809,yarra,2017,94503
-2810,yarra,2018,95504
-2811,yarra,2019,96544
-2812,yarra,2020,96662
-2813,yarra,2021,91521
-2814,yarra,2022,92392
-2815,yarra,2023,97448
-2816,cambridge,2013,27856
-2817,cambridge,2014,27940
-2818,cambridge,2015,27988
-2819,cambridge,2016,27991
-2820,cambridge,2017,28474
-2821,cambridge,2018,28764
-2822,cambridge,2019,29167
-2823,cambridge,2020,29743
-2824,cambridge,2021,29822
-2825,cambridge,2022,30160
-2826,cambridge,2023,31133
-2827,hay,2013,3016
-2828,hay,2014,3005
-2829,hay,2015,2994
-2830,hay,2016,2984
-2831,hay,2017,2978
-2832,hay,2018,2958
-2833,hay,2019,2933
-2834,hay,2020,2910
-2835,hay,2021,2885
-2836,hay,2022,2834
-2837,hay,2023,2830
-2838,nambucca valley,2013,19428
-2839,nambucca valley,2014,19501
-2840,nambucca valley,2015,19541
-2841,nambucca valley,2016,19580
-2842,nambucca valley,2017,19787
-2843,nambucca valley,2018,19960
-2844,nambucca valley,2019,20150
-2845,nambucca valley,2020,20290
-2846,nambucca valley,2021,20382
-2847,nambucca valley,2022,20607
-2848,nambucca valley,2023,20774
-2849,goyder,2013,4254
-2850,goyder,2014,4256
-2851,goyder,2015,4251
-2852,goyder,2016,4240
-2853,goyder,2017,4225
-2854,goyder,2018,4179
-2855,goyder,2019,4156
-2856,goyder,2020,4136
-2857,goyder,2021,4138
-2858,goyder,2022,4143
-2859,goyder,2023,4132
-2860,wagait,2013,459
-2861,wagait,2014,467
-2862,wagait,2015,479
-2863,wagait,2016,492
-2864,wagait,2017,486
-2865,wagait,2018,480
-2866,wagait,2019,474
-2867,wagait,2020,471
-2868,wagait,2021,464
-2869,wagait,2022,463
-2870,wagait,2023,464
-2871,canterbury-bankstown,2013,345692
-2872,canterbury-bankstown,2014,350922
-2873,canterbury-bankstown,2015,356328
-2874,canterbury-bankstown,2016,361862
-2875,canterbury-bankstown,2017,367534
-2876,canterbury-bankstown,2018,371891
-2877,canterbury-bankstown,2019,375333
-2878,canterbury-bankstown,2020,376638
-2879,canterbury-bankstown,2021,372459
-2880,canterbury-bankstown,2022,372119
-2881,canterbury-bankstown,2023,379829
-2882,barcoo,2013,333
-2883,barcoo,2014,317
-2884,barcoo,2015,296
-2885,barcoo,2016,272
-2886,barcoo,2017,278
-2887,barcoo,2018,288
-2888,barcoo,2019,297
-2889,barcoo,2020,302
-2890,barcoo,2021,312
-2891,barcoo,2022,315
-2892,barcoo,2023,317
-2893,rockhampton,2013,81745
-2894,rockhampton,2014,82136
-2895,rockhampton,2015,82026
-2896,rockhampton,2016,81322
-2897,rockhampton,2017,81322
-2898,rockhampton,2018,81406
-2899,rockhampton,2019,81842
-2900,rockhampton,2020,82352
-2901,rockhampton,2021,82882
-2902,rockhampton,2022,83596
-2903,rockhampton,2023,84517
-2904,north sydney,2013,68666
-2905,north sydney,2014,69754
-2906,north sydney,2015,70860
-2907,north sydney,2016,71809
-2908,north sydney,2017,72304
-2909,north sydney,2018,72354
-2910,north sydney,2019,72155
-2911,north sydney,2020,71430
-2912,north sydney,2021,69471
-2913,north sydney,2022,69373
-2914,north sydney,2023,72014
-2915,snowy valleys,2013,14720
-2916,snowy valleys,2014,14690
-2917,snowy valleys,2015,14640
-2918,snowy valleys,2016,14611
-2919,snowy valleys,2017,14693
-2920,snowy valleys,2018,14751
-2921,snowy valleys,2019,14817
-2922,snowy valleys,2020,14889
-2923,snowy valleys,2021,14900
-2924,snowy valleys,2022,14936
-2925,snowy valleys,2023,14935
-2926,hunters hill,2013,14242
-2927,hunters hill,2014,14428
-2928,hunters hill,2015,14540
-2929,hunters hill,2016,14656
-2930,hunters hill,2017,14621
-2931,hunters hill,2018,14563
-2932,hunters hill,2019,14427
-2933,hunters hill,2020,14269
-2934,hunters hill,2021,13596
-2935,hunters hill,2022,13924
-2936,hunters hill,2023,14036
-2937,upper hunter shire,2013,14514
-2938,upper hunter shire,2014,14508
-2939,upper hunter shire,2015,14412
-2940,upper hunter shire,2016,14344
-2941,upper hunter shire,2017,14318
-2942,upper hunter shire,2018,14298
-2943,upper hunter shire,2019,14291
-2944,upper hunter shire,2020,14296
-2945,upper hunter shire,2021,14258
-2946,upper hunter shire,2022,14291
-2947,upper hunter shire,2023,14338
-2948,diamantina,2013,299
-2949,diamantina,2014,303
-2950,diamantina,2015,301
-2951,diamantina,2016,296
-2952,diamantina,2017,284
-2953,diamantina,2018,286
-2954,diamantina,2019,282
-2955,diamantina,2020,273
-2956,diamantina,2021,270
-2957,diamantina,2022,270
-2958,diamantina,2023,272
-2959,port lincoln,2013,14531
-2960,port lincoln,2014,14595
-2961,port lincoln,2015,14585
-2962,port lincoln,2016,14523
-2963,port lincoln,2017,14595
-2964,port lincoln,2018,14652
-2965,port lincoln,2019,14733
-2966,port lincoln,2020,14773
-2967,port lincoln,2021,14879
-2968,port lincoln,2022,14953
-2969,port lincoln,2023,15018
-2970,macdonnell,2013,6911
-2971,macdonnell,2014,6875
-2972,macdonnell,2015,6859
-2973,macdonnell,2016,6753
-2974,macdonnell,2017,6685
-2975,macdonnell,2018,6648
-2976,macdonnell,2019,6636
-2977,macdonnell,2020,6558
-2978,macdonnell,2021,6574
-2979,macdonnell,2022,6627
-2980,macdonnell,2023,6706
-2981,kingston,2013,152336
-2982,kingston,2014,154210
-2983,kingston,2015,156244
-2984,kingston,2016,158941
-2985,kingston,2017,160140
-2986,kingston,2018,161685
-2987,kingston,2019,163178
-2988,kingston,2020,163196
-2989,kingston,2021,159554
-2990,kingston,2022,160107
-2991,kingston,2023,163724
-2992,karratha,2013,24432
-2993,karratha,2014,23985
-2994,karratha,2015,23103
-2995,karratha,2016,22211
-2996,karratha,2017,22288
-2997,karratha,2018,22509
-2998,karratha,2019,22844
-2999,karratha,2020,23245
-3000,karratha,2021,23412
-3001,karratha,2022,23809
-3002,karratha,2023,24237
-3003,greater dandenong,2013,148502
-3004,greater dandenong,2014,152135
-3005,greater dandenong,2015,156061
-3006,greater dandenong,2016,160222
-3007,greater dandenong,2017,162924
-3008,greater dandenong,2018,164895
-3009,greater dandenong,2019,166296
-3010,greater dandenong,2020,165648
-3011,greater dandenong,2021,160100
-3012,greater dandenong,2022,159294
-3013,greater dandenong,2023,163792
-3014,bundaberg,2013,93850
-3015,bundaberg,2014,94025
-3016,bundaberg,2015,94028
-3017,bundaberg,2016,94256
-3018,bundaberg,2017,95354
-3019,bundaberg,2018,96599
-3020,bundaberg,2019,97801
-3021,bundaberg,2020,98883
-3022,bundaberg,2021,100095
-3023,bundaberg,2022,102070
-3024,bundaberg,2023,104166
-3025,unincorporated act,2013,383257
-3026,unincorporated act,2014,388799
-3027,unincorporated act,2015,395813
-3028,unincorporated act,2016,403104
-3029,unincorporated act,2017,415046
-3030,unincorporated act,2018,426081
-3031,unincorporated act,2019,435730
-3032,unincorporated act,2020,444903
-3033,unincorporated act,2021,452508
-3034,unincorporated act,2022,456915
-3035,unincorporated act,2023,466566
-3036,carpentaria,2013,2146
-3037,carpentaria,2014,2112
-3038,carpentaria,2015,2092
-3039,carpentaria,2016,2051
-3040,carpentaria,2017,2034
-3041,carpentaria,2018,2050
-3042,carpentaria,2019,2089
-3043,carpentaria,2020,2118
-3044,carpentaria,2021,2158
-3045,carpentaria,2022,2170
-3046,carpentaria,2023,2212
-3047,onkaparinga,2013,166244
-3048,onkaparinga,2014,167376
-3049,onkaparinga,2015,168433
-3050,onkaparinga,2016,169372
-3051,onkaparinga,2017,170482
-3052,onkaparinga,2018,171631
-3053,onkaparinga,2019,173141
-3054,onkaparinga,2020,174948
-3055,onkaparinga,2021,176595
-3056,onkaparinga,2022,178526
-3057,onkaparinga,2023,180865
-3058,kent,2013,547
-3059,kent,2014,556
-3060,kent,2015,559
-3061,kent,2016,568
-3062,kent,2017,554
-3063,kent,2018,538
-3064,kent,2019,523
-3065,kent,2020,511
-3066,kent,2021,506
-3067,kent,2022,510
-3068,kent,2023,524
-3069,gunnedah,2013,12481
-3070,gunnedah,2014,12468
-3071,gunnedah,2015,12447
-3072,gunnedah,2016,12491
-3073,gunnedah,2017,12662
-3074,gunnedah,2018,12799
-3075,gunnedah,2019,12921
-3076,gunnedah,2020,13024
-3077,gunnedah,2021,13088
-3078,gunnedah,2022,13143
-3079,gunnedah,2023,13280
-3080,yilgarn,2013,1539
-3081,yilgarn,2014,1426
-3082,yilgarn,2015,1314
-3083,yilgarn,2016,1213
-3084,yilgarn,2017,1209
-3085,yilgarn,2018,1204
-3086,yilgarn,2019,1206
-3087,yilgarn,2020,1208
-3088,yilgarn,2021,1205
-3089,yilgarn,2022,1198
-3090,yilgarn,2023,1198
-3091,dubbo regional,2013,49757
-3092,dubbo regional,2014,50322
-3093,dubbo regional,2015,50847
-3094,dubbo regional,2016,51404
-3095,dubbo regional,2017,52490
-3096,dubbo regional,2018,53575
-3097,dubbo regional,2019,54358
-3098,dubbo regional,2020,55010
-3099,dubbo regional,2021,55528
-3100,dubbo regional,2022,55893
-3101,dubbo regional,2023,56558
-3102,tenterfield,2013,6834
-3103,tenterfield,2014,6769
-3104,tenterfield,2015,6713
-3105,tenterfield,2016,6697
-3106,tenterfield,2017,6728
-3107,tenterfield,2018,6767
-3108,tenterfield,2019,6794
-3109,tenterfield,2020,6779
-3110,tenterfield,2021,6800
-3111,tenterfield,2022,6878
-3112,tenterfield,2023,6973
-3113,moyne,2013,16431
-3114,moyne,2014,16512
-3115,moyne,2015,16591
-3116,moyne,2016,16737
-3117,moyne,2017,16779
-3118,moyne,2018,16897
-3119,moyne,2019,16997
-3120,moyne,2020,17091
-3121,moyne,2021,17296
-3122,moyne,2022,17478
-3123,moyne,2023,17610
-3124,stirling,2013,218043
-3125,stirling,2014,219372
-3126,stirling,2015,220152
-3127,stirling,2016,220073
-3128,stirling,2017,221986
-3129,stirling,2018,224316
-3130,stirling,2019,227540
-3131,stirling,2020,232404
-3132,stirling,2021,234322
-3133,stirling,2022,236262
-3134,stirling,2023,243871
-3135,gannawarra,2013,10526
-3136,gannawarra,2014,10534
-3137,gannawarra,2015,10536
-3138,gannawarra,2016,10567
-3139,gannawarra,2017,10602
-3140,gannawarra,2018,10601
-3141,gannawarra,2019,10562
-3142,gannawarra,2020,10575
-3143,gannawarra,2021,10615
-3144,gannawarra,2022,10534
-3145,gannawarra,2023,10420
-3146,mukinbudin,2013,545
-3147,mukinbudin,2014,549
-3148,mukinbudin,2015,551
-3149,mukinbudin,2016,553
-3150,mukinbudin,2017,558
-3151,mukinbudin,2018,563
-3152,mukinbudin,2019,575
-3153,mukinbudin,2020,580
-3154,mukinbudin,2021,593
-3155,mukinbudin,2022,587
-3156,mukinbudin,2023,600
-3157,ballarat,2013,98344
-3158,ballarat,2014,99914
-3159,ballarat,2015,101479
-3160,ballarat,2016,103500
-3161,ballarat,2017,105551
-3162,ballarat,2018,107608
-3163,ballarat,2019,109773
-3164,ballarat,2020,111645
-3165,ballarat,2021,113504
-3166,ballarat,2022,116011
-3167,ballarat,2023,118137
-3168,canada bay,2013,85568
-3169,canada bay,2014,88565
-3170,canada bay,2015,90467
-3171,canada bay,2016,92534
-3172,canada bay,2017,92872
-3173,canada bay,2018,92765
-3174,canada bay,2019,92609
-3175,canada bay,2020,91833
-3176,canada bay,2021,89685
-3177,canada bay,2022,89236
-3178,canada bay,2023,91385
-3179,woorabinda,2013,986
-3180,woorabinda,2014,990
-3181,woorabinda,2015,989
-3182,woorabinda,2016,999
-3183,woorabinda,2017,997
-3184,woorabinda,2018,999
-3185,woorabinda,2019,1005
-3186,woorabinda,2020,1020
-3187,woorabinda,2021,1040
-3188,woorabinda,2022,1059
-3189,woorabinda,2023,1081
-3190,campbelltown (sa),2013,50476
-3191,campbelltown (sa),2014,50717
-3192,campbelltown (sa),2015,50937
-3193,campbelltown (sa),2016,51080
-3194,campbelltown (sa),2017,51669
-3195,campbelltown (sa),2018,52393
-3196,campbelltown (sa),2019,53599
-3197,campbelltown (sa),2020,54884
-3198,campbelltown (sa),2021,55456
-3199,campbelltown (sa),2022,56028
-3200,campbelltown (sa),2023,57160
-3201,whittlesea,2013,179272
-3202,whittlesea,2014,187899
-3203,whittlesea,2015,196847
-3204,whittlesea,2016,207058
-3205,whittlesea,2017,214426
-3206,whittlesea,2018,220601
-3207,whittlesea,2019,226072
-3208,whittlesea,2020,231040
-3209,whittlesea,2021,231831
-3210,whittlesea,2022,237143
-3211,whittlesea,2023,245029
-3212,renmark paringa,2013,9588
-3213,renmark paringa,2014,9656
-3214,renmark paringa,2015,9722
-3215,renmark paringa,2016,9780
-3216,renmark paringa,2017,9866
-3217,renmark paringa,2018,9897
-3218,renmark paringa,2019,9954
-3219,renmark paringa,2020,9988
-3220,renmark paringa,2021,10007
-3221,renmark paringa,2022,10036
-3222,renmark paringa,2023,10107
-3223,bassendean,2013,15828
-3224,bassendean,2014,16003
-3225,bassendean,2015,15842
-3226,bassendean,2016,15613
-3227,bassendean,2017,15721
-3228,bassendean,2018,15895
-3229,bassendean,2019,16089
-3230,bassendean,2020,16326
-3231,bassendean,2021,16500
-3232,bassendean,2022,16612
-3233,bassendean,2023,16914
-3234,cottesloe,2013,8409
-3235,cottesloe,2014,8370
-3236,cottesloe,2015,8267
-3237,cottesloe,2016,8109
-3238,cottesloe,2017,8144
-3239,cottesloe,2018,8170
-3240,cottesloe,2019,8225
-3241,cottesloe,2020,8345
-3242,cottesloe,2021,8245
-3243,cottesloe,2022,8322
-3244,cottesloe,2023,8695
-3245,manningham,2013,118357
-3246,manningham,2014,119437
-3247,manningham,2015,120785
-3248,manningham,2016,122570
-3249,manningham,2017,124126
-3250,manningham,2018,125091
-3251,manningham,2019,126873
-3252,manningham,2020,127987
-3253,manningham,2021,125821
-3254,manningham,2022,126570
-3255,manningham,2023,129514
-3256,yarra ranges,2013,150902
-3257,yarra ranges,2014,151968
-3258,yarra ranges,2015,153391
-3259,yarra ranges,2016,155226
-3260,yarra ranges,2017,156696
-3261,yarra ranges,2018,157819
-3262,yarra ranges,2019,158745
-3263,yarra ranges,2020,158876
-3264,yarra ranges,2021,157421
-3265,yarra ranges,2022,157467
-3266,yarra ranges,2023,158694
-3267,streaky bay,2013,2194
-3268,streaky bay,2014,2180
-3269,streaky bay,2015,2164
-3270,streaky bay,2016,2168
-3271,streaky bay,2017,2173
-3272,streaky bay,2018,2183
-3273,streaky bay,2019,2196
-3274,streaky bay,2020,2219
-3275,streaky bay,2021,2241
-3276,streaky bay,2022,2257
-3277,streaky bay,2023,2278
-3278,fremantle,2013,30156
-3279,fremantle,2014,30361
-3280,fremantle,2015,30405
-3281,fremantle,2016,30310
-3282,fremantle,2017,30842
-3283,fremantle,2018,31287
-3284,fremantle,2019,31782
-3285,fremantle,2020,32439
-3286,fremantle,2021,33112
-3287,fremantle,2022,33788
-3288,fremantle,2023,35157
-3289,shellharbour,2013,67701
-3290,shellharbour,2014,68658
-3291,shellharbour,2015,69474
-3292,shellharbour,2016,70391
-3293,shellharbour,2017,71303
-3294,shellharbour,2018,72318
-3295,shellharbour,2019,73370
-3296,shellharbour,2020,74941
-3297,shellharbour,2021,76492
-3298,shellharbour,2022,78330
-3299,shellharbour,2023,79738
-3300,gosnells,2013,119381
-3301,gosnells,2014,120756
-3302,gosnells,2015,121720
-3303,gosnells,2016,122011
-3304,gosnells,2017,123703
-3305,gosnells,2018,125087
-3306,gosnells,2019,127017
-3307,gosnells,2020,129685
-3308,gosnells,2021,131366
-3309,gosnells,2022,133064
-3310,gosnells,2023,137355
-3311,weipa,2013,3811
-3312,weipa,2014,3863
-3313,weipa,2015,3964
-3314,weipa,2016,4040
-3315,weipa,2017,4057
-3316,weipa,2018,4082
-3317,weipa,2019,4112
-3318,weipa,2020,4143
-3319,weipa,2021,4177
-3320,weipa,2022,4214
-3321,weipa,2023,4251
-3322,boddington,2013,2225
-3323,boddington,2014,2132
-3324,boddington,2015,2031
-3325,boddington,2016,1882
-3326,boddington,2017,1846
-3327,boddington,2018,1819
-3328,boddington,2019,1784
-3329,boddington,2020,1751
-3330,boddington,2021,1760
-3331,boddington,2022,1758
-3332,boddington,2023,1786
-3333,wollondilly,2013,46399
-3334,wollondilly,2014,47445
-3335,wollondilly,2015,48562
-3336,wollondilly,2016,49854
-3337,wollondilly,2017,50912
-3338,wollondilly,2018,51972
-3339,wollondilly,2019,52826
-3340,wollondilly,2020,53618
-3341,wollondilly,2021,54196
-3342,wollondilly,2022,55801
-3343,wollondilly,2023,57616
-3344,collie,2013,9464
-3345,collie,2014,9369
-3346,collie,2015,9132
-3347,collie,2016,8856
-3348,collie,2017,8882
-3349,collie,2018,8918
-3350,collie,2019,8939
-3351,collie,2020,8956
-3352,collie,2021,9086
-3353,collie,2022,9153
-3354,collie,2023,9295
-3355,walgett,2013,6595
-3356,walgett,2014,6512
-3357,walgett,2015,6419
-3358,walgett,2016,6317
-3359,walgett,2017,6167
-3360,walgett,2018,6004
-3361,walgett,2019,5869
-3362,walgett,2020,5701
-3363,walgett,2021,5588
-3364,walgett,2022,5515
-3365,walgett,2023,5519
-3366,cunderdin,2013,1392
-3367,cunderdin,2014,1411
-3368,cunderdin,2015,1433
-3369,cunderdin,2016,1469
-3370,cunderdin,2017,1444
-3371,cunderdin,2018,1413
-3372,cunderdin,2019,1384
-3373,cunderdin,2020,1358
-3374,cunderdin,2021,1341
-3375,cunderdin,2022,1345
-3376,cunderdin,2023,1322
-3377,west daly,2013,3568
-3378,west daly,2014,3587
-3379,west daly,2015,3598
-3380,west daly,2016,3601
-3381,west daly,2017,3536
-3382,west daly,2018,3476
-3383,west daly,2019,3427
-3384,west daly,2020,3422
-3385,west daly,2021,3422
-3386,west daly,2022,3434
-3387,west daly,2023,3426
-3388,coorong,2013,5602
-3389,coorong,2014,5572
-3390,coorong,2015,5545
-3391,coorong,2016,5525
-3392,coorong,2017,5525
-3393,coorong,2018,5531
-3394,coorong,2019,5542
-3395,coorong,2020,5565
-3396,coorong,2021,5599
-3397,coorong,2022,5574
-3398,coorong,2023,5612
-3399,narrogin,2013,5324
-3400,narrogin,2014,5339
-3401,narrogin,2015,5333
-3402,narrogin,2016,5235
-3403,narrogin,2017,5204
-3404,narrogin,2018,5058
-3405,narrogin,2019,5019
-3406,narrogin,2020,4987
-3407,narrogin,2021,4937
-3408,narrogin,2022,4959
-3409,narrogin,2023,4983
-3410,northam,2013,11472
-3411,northam,2014,11570
-3412,northam,2015,11420
-3413,northam,2016,11238
-3414,northam,2017,11372
-3415,northam,2018,11475
-3416,northam,2019,11483
-3417,northam,2020,11594
-3418,northam,2021,11804
-3419,northam,2022,11938
-3420,northam,2023,12193
-3421,unincorporated nsw,2013,1127
-3422,unincorporated nsw,2014,1134
-3423,unincorporated nsw,2015,1106
-3424,unincorporated nsw,2016,1112
-3425,unincorporated nsw,2017,1109
-3426,unincorporated nsw,2018,1115
-3427,unincorporated nsw,2019,1086
-3428,unincorporated nsw,2020,1055
-3429,unincorporated nsw,2021,1020
-3430,unincorporated nsw,2022,1000
-3431,unincorporated nsw,2023,1013
-3432,maitland,2013,73870
-3433,maitland,2014,75695
-3434,maitland,2015,77374
-3435,maitland,2016,79063
-3436,maitland,2017,81058
-3437,maitland,2018,83260
-3438,maitland,2019,85313
-3439,maitland,2020,87920
-3440,maitland,2021,90612
-3441,maitland,2022,93614
-3442,maitland,2023,95957
-3443,flinders (qld),2013,1754
-3444,flinders (qld),2014,1710
-3445,flinders (qld),2015,1643
-3446,flinders (qld),2016,1582
-3447,flinders (qld),2017,1520
-3448,flinders (qld),2018,1498
-3449,flinders (qld),2019,1506
-3450,flinders (qld),2020,1509
-3451,flinders (qld),2021,1521
-3452,flinders (qld),2022,1534
-3453,flinders (qld),2023,1544
-3454,benalla,2013,13878
-3455,benalla,2014,13898
-3456,benalla,2015,13923
-3457,benalla,2016,13982
-3458,benalla,2017,14049
-3459,benalla,2018,14158
-3460,benalla,2019,14237
-3461,benalla,2020,14382
-3462,benalla,2021,14436
-3463,benalla,2022,14463
-3464,benalla,2023,14529
-3465,port phillip,2013,102156
-3466,port phillip,2014,104451
-3467,port phillip,2015,106381
-3468,port phillip,2016,108627
-3469,port phillip,2017,109523
-3470,port phillip,2018,110733
-3471,port phillip,2019,111782
-3472,port phillip,2020,110574
-3473,port phillip,2021,103438
-3474,port phillip,2022,104096
-3475,port phillip,2023,109515
-3476,scenic rim,2013,38732
-3477,scenic rim,2014,39882
-3478,scenic rim,2015,40307
-3479,scenic rim,2016,40984
-3480,scenic rim,2017,41643
-3481,scenic rim,2018,42371
-3482,scenic rim,2019,42856
-3483,scenic rim,2020,43255
-3484,scenic rim,2021,43592
-3485,scenic rim,2022,44331
-3486,scenic rim,2023,45248
-3487,adelaide plains,2013,8646
-3488,adelaide plains,2014,8744
-3489,adelaide plains,2015,8819
-3490,adelaide plains,2016,8912
-3491,adelaide plains,2017,9040
-3492,adelaide plains,2018,9191
-3493,adelaide plains,2019,9338
-3494,adelaide plains,2020,9677
-3495,adelaide plains,2021,9975
-3496,adelaide plains,2022,10454
-3497,adelaide plains,2023,10932
-3498,mount remarkable,2013,2913
-3499,mount remarkable,2014,2918
-3500,mount remarkable,2015,2927
-3501,mount remarkable,2016,2920
-3502,mount remarkable,2017,2908
-3503,mount remarkable,2018,2897
-3504,mount remarkable,2019,2898
-3505,mount remarkable,2020,2910
-3506,mount remarkable,2021,2920
-3507,mount remarkable,2022,2911
-3508,mount remarkable,2023,2897
-3509,sunshine coast,2013,281969
-3510,sunshine coast,2014,288652
-3511,sunshine coast,2015,295317
-3512,sunshine coast,2016,302841
-3513,sunshine coast,2017,311426
-3514,sunshine coast,2018,320606
-3515,sunshine coast,2019,329946
-3516,sunshine coast,2020,338389
-3517,sunshine coast,2021,346634
-3518,sunshine coast,2022,355904
-3519,sunshine coast,2023,365942
-3520,quilpie,2013,944
-3521,quilpie,2014,915
-3522,quilpie,2015,868
-3523,quilpie,2016,825
-3524,quilpie,2017,805
-3525,quilpie,2018,772
-3526,quilpie,2019,742
-3527,quilpie,2020,721
-3528,quilpie,2021,702
-3529,quilpie,2022,703
-3530,quilpie,2023,709
-3531,mapoon,2013,293
-3532,mapoon,2014,302
-3533,mapoon,2015,304
-3534,mapoon,2016,318
-3535,mapoon,2017,344
-3536,mapoon,2018,369
-3537,mapoon,2019,393
-3538,mapoon,2020,418
-3539,mapoon,2021,442
-3540,mapoon,2022,454
-3541,mapoon,2023,465
-3542,gwydir,2013,5218
-3543,gwydir,2014,5250
-3544,gwydir,2015,5302
-3545,gwydir,2016,5326
-3546,gwydir,2017,5244
-3547,gwydir,2018,5191
-3548,gwydir,2019,5124
-3549,gwydir,2020,5019
-3550,gwydir,2021,4912
-3551,gwydir,2022,4923
-3552,gwydir,2023,4940
-3553,bayside,2013,98252
-3554,bayside,2014,99797
-3555,bayside,2015,101268
-3556,bayside,2016,102912
-3557,bayside,2017,103665
-3558,bayside,2018,104623
-3559,bayside,2019,105128
-3560,bayside,2020,105018
-3561,bayside,2021,102328
-3562,bayside,2022,102241
-3563,bayside,2023,104272
-3564,maroondah,2013,109781
-3565,maroondah,2014,111421
-3566,maroondah,2015,113023
-3567,maroondah,2016,114800
-3568,maroondah,2017,116223
-3569,maroondah,2018,117125
-3570,maroondah,2019,117965
-3571,maroondah,2020,118295
-3572,maroondah,2021,116075
-3573,maroondah,2022,115759
-3574,maroondah,2023,117434
-3575,mornington,2013,1206
-3576,mornington,2014,1202
-3577,mornington,2015,1202
-3578,mornington,2016,1197
-3579,mornington,2017,1171
-3580,mornington,2018,1151
-3581,mornington,2019,1127
-3582,mornington,2020,1093
-3583,mornington,2021,1060
-3584,mornington,2022,1065
-3585,mornington,2023,1079
-3586,barossa,2013,23138
-3587,barossa,2014,23468
-3588,barossa,2015,23829
-3589,barossa,2016,24200
-3590,barossa,2017,24466
-3591,barossa,2018,24815
-3592,barossa,2019,25050
-3593,barossa,2020,25325
-3594,barossa,2021,25565
-3595,barossa,2022,25866
-3596,barossa,2023,26268
-3597,perenjori,2013,830
-3598,perenjori,2014,762
-3599,perenjori,2015,696
-3600,perenjori,2016,630
-3601,perenjori,2017,634
-3602,perenjori,2018,629
-3603,perenjori,2019,629
-3604,perenjori,2020,632
-3605,perenjori,2021,652
-3606,perenjori,2022,652
-3607,perenjori,2023,649
-3608,west arthur,2013,884
-3609,west arthur,2014,869
-3610,west arthur,2015,855
-3611,west arthur,2016,824
-3612,west arthur,2017,806
-3613,west arthur,2018,799
-3614,west arthur,2019,783
-3615,west arthur,2020,786
-3616,west arthur,2021,795
-3617,west arthur,2022,797
-3618,west arthur,2023,787
-3619,blackall tambo,2013,2214
-3620,blackall tambo,2014,2152
-3621,blackall tambo,2015,2035
-3622,blackall tambo,2016,1925
-3623,blackall tambo,2017,1895
-3624,blackall tambo,2018,1901
-3625,blackall tambo,2019,1916
-3626,blackall tambo,2020,1919
-3627,blackall tambo,2021,1918
-3628,blackall tambo,2022,1934
-3629,blackall tambo,2023,1953
-3630,tiwi islands,2013,3001
-3631,tiwi islands,2014,2902
-3632,tiwi islands,2015,2848
-3633,tiwi islands,2016,2777
-3634,tiwi islands,2017,2755
-3635,tiwi islands,2018,2744
-3636,tiwi islands,2019,2742
-3637,tiwi islands,2020,2743
-3638,tiwi islands,2021,2735
-3639,tiwi islands,2022,2743
-3640,tiwi islands,2023,2747
-3641,darebin,2013,147272
-3642,darebin,2014,149511
-3643,darebin,2015,151974
-3644,darebin,2016,155126
-3645,darebin,2017,156525
-3646,darebin,2018,157103
-3647,darebin,2019,157298
-3648,darebin,2020,157056
-3649,darebin,2021,150296
-3650,darebin,2022,150605
-3651,darebin,2023,155683
-3652,east fremantle,2013,7740
-3653,east fremantle,2014,7769
-3654,east fremantle,2015,7731
-3655,east fremantle,2016,7680
-3656,east fremantle,2017,7799
-3657,east fremantle,2018,7869
-3658,east fremantle,2019,7933
-3659,east fremantle,2020,8035
-3660,east fremantle,2021,8064
-3661,east fremantle,2022,8071
-3662,east fremantle,2023,8222
-3663,leonora,2013,2419
-3664,leonora,2014,2122
-3665,leonora,2015,1812
-3666,leonora,2016,1491
-3667,leonora,2017,1536
-3668,leonora,2018,1585
-3669,leonora,2019,1610
-3670,leonora,2020,1661
-3671,leonora,2021,1716
-3672,leonora,2022,1723
-3673,leonora,2023,1732
-3674,tammin,2013,415
-3675,tammin,2014,414
-3676,tammin,2015,412
-3677,tammin,2016,407
-3678,tammin,2017,408
-3679,tammin,2018,407
-3680,tammin,2019,402
-3681,tammin,2020,399
-3682,tammin,2021,401
-3683,tammin,2022,403
-3684,tammin,2023,404
-3685,bogan,2013,2926
-3686,bogan,2014,2894
-3687,bogan,2015,2846
-3688,bogan,2016,2764
-3689,bogan,2017,2708
-3690,bogan,2018,2648
-3691,bogan,2019,2602
-3692,bogan,2020,2514
-3693,bogan,2021,2480
-3694,bogan,2022,2454
-3695,bogan,2023,2420
-3696,flinders ranges,2013,1717
-3697,flinders ranges,2014,1710
-3698,flinders ranges,2015,1703
-3699,flinders ranges,2016,1693
-3700,flinders ranges,2017,1681
-3701,flinders ranges,2018,1683
-3702,flinders ranges,2019,1681
-3703,flinders ranges,2020,1673
-3704,flinders ranges,2021,1686
-3705,flinders ranges,2022,1682
-3706,flinders ranges,2023,1673
-3707,huon valley,2013,16111
-3708,huon valley,2014,16243
-3709,huon valley,2015,16361
-3710,huon valley,2016,16563
-3711,huon valley,2017,16937
-3712,huon valley,2018,17380
-3713,huon valley,2019,17818
-3714,huon valley,2020,18289
-3715,huon valley,2021,18797
-3716,huon valley,2022,19215
-3717,huon valley,2023,19454
-3718,strathbogie,2013,9867
-3719,strathbogie,2014,10018
-3720,strathbogie,2015,10175
-3721,strathbogie,2016,10357
-3722,strathbogie,2017,10532
-3723,strathbogie,2018,10734
-3724,strathbogie,2019,10907
-3725,strathbogie,2020,11158
-3726,strathbogie,2021,11368
-3727,strathbogie,2022,11515
-3728,strathbogie,2023,11578
-3729,broome,2013,17185
-3730,broome,2014,17100
-3731,broome,2015,17060
-3732,broome,2016,16959
-3733,broome,2017,17216
-3734,broome,2018,17432
-3735,broome,2019,17652
-3736,broome,2020,17976
-3737,broome,2021,18204
-3738,broome,2022,18368
-3739,broome,2023,18611
-3740,mosman,2013,29641
-3741,mosman,2014,29846
-3742,mosman,2015,30045
-3743,mosman,2016,30260
-3744,mosman,2017,30299
-3745,mosman,2018,30269
-3746,mosman,2019,30020
-3747,mosman,2020,29543
-3748,mosman,2021,28466
-3749,mosman,2022,28132
-3750,mosman,2023,29071
-3751,snowy monaro regional,2013,20433
-3752,snowy monaro regional,2014,20454
-3753,snowy monaro regional,2015,20473
-3754,snowy monaro regional,2016,20558
-3755,snowy monaro regional,2017,20792
-3756,snowy monaro regional,2018,20972
-3757,snowy monaro regional,2019,21192
-3758,snowy monaro regional,2020,21437
-3759,snowy monaro regional,2021,21667
-3760,snowy monaro regional,2022,21823
-3761,snowy monaro regional,2023,22132
-3762,fraser coast,2013,100290
-3763,fraser coast,2014,101332
-3764,fraser coast,2015,102129
-3765,fraser coast,2016,102962
-3766,fraser coast,2017,104509
-3767,fraser coast,2018,106379
-3768,fraser coast,2019,108146
-3769,fraser coast,2020,109938
-3770,fraser coast,2021,112070
-3771,fraser coast,2022,115069
-3772,fraser coast,2023,117940
-3773,dandaragan,2013,3308
-3774,dandaragan,2014,3330
-3775,dandaragan,2015,3298
-3776,dandaragan,2016,3262
-3777,dandaragan,2017,3302
-3778,dandaragan,2018,3294
-3779,dandaragan,2019,3327
-3780,dandaragan,2020,3395
-3781,dandaragan,2021,3473
-3782,dandaragan,2022,3577
-3783,dandaragan,2023,3748
-3784,wagin,2013,1925
-3785,wagin,2014,1921
-3786,wagin,2015,1915
-3787,wagin,2016,1884
-3788,wagin,2017,1855
-3789,wagin,2018,1828
-3790,wagin,2019,1790
-3791,wagin,2020,1781
-3792,wagin,2021,1802
-3793,wagin,2022,1809
-3794,wagin,2023,1816
-3795,byron,2013,31756
-3796,byron,2014,32263
-3797,byron,2015,32803
-3798,byron,2016,33399
-3799,byron,2017,33944
-3800,byron,2018,34512
-3801,byron,2019,35054
-3802,byron,2020,35715
-3803,byron,2021,36106
-3804,byron,2022,36514
-3805,byron,2023,37126
-3806,christmas island,2013,2041
-3807,christmas island,2014,1979
-3808,christmas island,2015,1929
-3809,christmas island,2016,1903
-3810,christmas island,2017,1876
-3811,christmas island,2018,1848
-3812,christmas island,2019,1803
-3813,christmas island,2020,1758
-3814,christmas island,2021,1717
-3815,christmas island,2022,1786
-3816,christmas island,2023,1823
-3817,northern midlands,2013,12765
-3818,northern midlands,2014,12819
-3819,northern midlands,2015,12873
-3820,northern midlands,2016,12972
-3821,northern midlands,2017,13132
-3822,northern midlands,2018,13362
-3823,northern midlands,2019,13492
-3824,northern midlands,2020,13661
-3825,northern midlands,2021,14022
-3826,northern midlands,2022,14137
-3827,northern midlands,2023,14279
-3828,tatiara,2013,6789
-3829,tatiara,2014,6811
-3830,tatiara,2015,6821
-3831,tatiara,2016,6817
-3832,tatiara,2017,6832
-3833,tatiara,2018,6894
-3834,tatiara,2019,6966
-3835,tatiara,2020,7016
-3836,tatiara,2021,7070
-3837,tatiara,2022,7037
-3838,tatiara,2023,7066
-3839,sandstone,2013,112
-3840,sandstone,2014,106
-3841,sandstone,2015,100
-3842,sandstone,2016,93
-3843,sandstone,2017,93
-3844,sandstone,2018,97
-3845,sandstone,2019,102
-3846,sandstone,2020,109
-3847,sandstone,2021,117
-3848,sandstone,2022,119
-3849,sandstone,2023,116
-3850,wentworth,2013,6848
-3851,wentworth,2014,6877
-3852,wentworth,2015,6890
-3853,wentworth,2016,6932
-3854,wentworth,2017,7052
-3855,wentworth,2018,7185
-3856,wentworth,2019,7284
-3857,wentworth,2020,7389
-3858,wentworth,2021,7490
-3859,wentworth,2022,7596
-3860,wentworth,2023,7688
-3861,central desert,2013,4363
-3862,central desert,2014,4316
-3863,central desert,2015,4259
-3864,central desert,2016,4165
-3865,central desert,2017,4151
-3866,central desert,2018,4138
-3867,central desert,2019,4147
-3868,central desert,2020,4129
-3869,central desert,2021,4118
-3870,central desert,2022,4105
-3871,central desert,2023,4126
-3872,coonamble,2013,4168
-3873,coonamble,2014,4134
-3874,coonamble,2015,4091
-3875,coonamble,2016,4051
-3876,coonamble,2017,4023
-3877,coonamble,2018,3976
-3878,coonamble,2019,3923
-3879,coonamble,2020,3871
-3880,coonamble,2021,3833
-3881,coonamble,2022,3825
-3882,coonamble,2023,3861
-3883,torres strait island,2013,4614
-3884,torres strait island,2014,4690
-3885,torres strait island,2015,4731
-3886,torres strait island,2016,4775
-3887,torres strait island,2017,4688
-3888,torres strait island,2018,4551
-3889,torres strait island,2019,4434
-3890,torres strait island,2020,4355
-3891,torres strait island,2021,4294
-3892,torres strait island,2022,4285
-3893,torres strait island,2023,4286
-3894,federation,2013,12508
-3895,federation,2014,12499
-3896,federation,2015,12470
-3897,federation,2016,12445
-3898,federation,2017,12509
-3899,federation,2018,12559
-3900,federation,2019,12627
-3901,federation,2020,12726
-3902,federation,2021,12822
-3903,federation,2022,12852
-3904,federation,2023,12939
-3905,kowanyama,2013,1042
-3906,kowanyama,2014,1014
-3907,kowanyama,2015,996
-3908,kowanyama,2016,983
-3909,kowanyama,2017,990
-3910,kowanyama,2018,1014
-3911,kowanyama,2019,1045
-3912,kowanyama,2020,1076
-3913,kowanyama,2021,1107
-3914,kowanyama,2022,1136
-3915,kowanyama,2023,1147
-3916,harvey,2013,25657
-3917,harvey,2014,26186
-3918,harvey,2015,26656
-3919,harvey,2016,26890
-3920,harvey,2017,27358
-3921,harvey,2018,28086
-3922,harvey,2019,28540
-3923,harvey,2020,29076
-3924,harvey,2021,29625
-3925,harvey,2022,30165
-3926,harvey,2023,30790
-3927,melville,2013,104319
-3928,melville,2014,104073
-3929,melville,2015,103522
-3930,melville,2016,102342
-3931,melville,2017,102569
-3932,melville,2018,103153
-3933,melville,2019,104340
-3934,melville,2020,106124
-3935,melville,2021,106823
-3936,melville,2022,107433
-3937,melville,2023,110426
-3938,warren,2013,2836
-3939,warren,2014,2809
-3940,warren,2015,2783
-3941,warren,2016,2797
-3942,warren,2017,2742
-3943,warren,2018,2714
-3944,warren,2019,2662
-3945,warren,2020,2634
-3946,warren,2021,2584
-3947,warren,2022,2578
-3948,warren,2023,2583
-3949,balonne,2013,4776
-3950,balonne,2014,4726
-3951,balonne,2015,4610
-3952,balonne,2016,4461
-3953,balonne,2017,4394
-3954,balonne,2018,4372
-3955,balonne,2019,4389
-3956,balonne,2020,4392
-3957,balonne,2021,4378
-3958,balonne,2022,4352
-3959,balonne,2023,4345
-3960,franklin harbour,2013,1295
-3961,franklin harbour,2014,1307
-3962,franklin harbour,2015,1331
-3963,franklin harbour,2016,1334
-3964,franklin harbour,2017,1324
-3965,franklin harbour,2018,1311
-3966,franklin harbour,2019,1302
-3967,franklin harbour,2020,1305
-3968,franklin harbour,2021,1322
-3969,franklin harbour,2022,1327
-3970,franklin harbour,2023,1332
-3971,armadale,2013,72662
-3972,armadale,2014,75559
-3973,armadale,2015,78848
-3974,armadale,2016,82021
-3975,armadale,2017,84875
-3976,armadale,2018,88068
-3977,armadale,2019,91543
-3978,armadale,2020,94970
-3979,armadale,2021,97644
-3980,armadale,2022,100849
-3981,armadale,2023,105094
-3982,murweh,2013,4685
-3983,murweh,2014,4639
-3984,murweh,2015,4527
-3985,murweh,2016,4386
-3986,murweh,2017,4279
-3987,murweh,2018,4263
-3988,murweh,2019,4211
-3989,murweh,2020,4106
-3990,murweh,2021,4009
-3991,murweh,2022,3960
-3992,murweh,2023,3966
-3993,pingelly,2013,1205
-3994,pingelly,2014,1187
-3995,pingelly,2015,1202
-3996,pingelly,2016,1183
-3997,pingelly,2017,1154
-3998,pingelly,2018,1121
-3999,pingelly,2019,1100
-4000,pingelly,2020,1086
-4001,pingelly,2021,1072
-4002,pingelly,2022,1068
-4003,pingelly,2023,1084
-4004,karoonda east murray,2013,1088
-4005,karoonda east murray,2014,1103
-4006,karoonda east murray,2015,1118
-4007,karoonda east murray,2016,1121
-4008,karoonda east murray,2017,1098
-4009,karoonda east murray,2018,1083
-4010,karoonda east murray,2019,1068
-4011,karoonda east murray,2020,1056
-4012,karoonda east murray,2021,1024
-4013,karoonda east murray,2022,1027
-4014,karoonda east murray,2023,1016
-4015,hobsons bay,2013,89188
-4016,hobsons bay,2014,90417
-4017,hobsons bay,2015,91674
-4018,hobsons bay,2016,93445
-4019,hobsons bay,2017,94543
-4020,hobsons bay,2018,95150
-4021,hobsons bay,2019,95818
-4022,hobsons bay,2020,95193
-4023,hobsons bay,2021,92267
-4024,hobsons bay,2022,91864
-4025,hobsons bay,2023,93738
-4026,roper gulf,2013,7207
-4027,roper gulf,2014,7272
-4028,roper gulf,2015,7335
-4029,roper gulf,2016,7329
-4030,roper gulf,2017,7297
-4031,roper gulf,2018,7311
-4032,roper gulf,2019,7357
-4033,roper gulf,2020,7391
-4034,roper gulf,2021,7435
-4035,roper gulf,2022,7475
-4036,roper gulf,2023,7491
-4037,horsham,2013,19694
-4038,horsham,2014,19748
-4039,horsham,2015,19792
-4040,horsham,2016,19884
-4041,horsham,2017,19977
-4042,horsham,2018,20064
-4043,horsham,2019,20200
-4044,horsham,2020,20385
-4045,horsham,2021,20376
-4046,horsham,2022,20348
-4047,horsham,2023,20315
-4048,wickepin,2013,764
-4049,wickepin,2014,744
-4050,wickepin,2015,737
-4051,wickepin,2016,740
-4052,wickepin,2017,732
-4053,wickepin,2018,725
-4054,wickepin,2019,714
-4055,wickepin,2020,719
-4056,wickepin,2021,712
-4057,wickepin,2022,706
-4058,wickepin,2023,701
-4059,waverley,2013,70052
-4060,waverley,2014,70742
-4061,waverley,2015,71336
-4062,waverley,2016,72013
-4063,waverley,2017,72507
-4064,waverley,2018,72609
-4065,waverley,2019,72485
-4066,waverley,2020,71880
-4067,waverley,2021,69397
-4068,waverley,2022,69357
-4069,waverley,2023,71414
-4070,murray river,2013,11515
-4071,murray river,2014,11642
-4072,murray river,2015,11755
-4073,murray river,2016,11872
-4074,murray river,2017,12027
-4075,murray river,2018,12227
-4076,murray river,2019,12355
-4077,murray river,2020,12572
-4078,murray river,2021,12785
-4079,murray river,2022,13014
-4080,murray river,2023,13326
-4081,greater geelong,2013,223357
-4082,greater geelong,2014,227744
-4083,greater geelong,2015,232926
-4084,greater geelong,2016,239529
-4085,greater geelong,2017,246384
-4086,greater geelong,2018,253175
-4087,greater geelong,2019,260134
-4088,greater geelong,2020,266036
-4089,greater geelong,2021,270932
-4090,greater geelong,2022,276601
-4091,greater geelong,2023,282809
-4092,dalwallinu,2013,1375
-4093,dalwallinu,2014,1405
-4094,dalwallinu,2015,1435
-4095,dalwallinu,2016,1454
-4096,dalwallinu,2017,1441
-4097,dalwallinu,2018,1439
-4098,dalwallinu,2019,1428
-4099,dalwallinu,2020,1426
-4100,dalwallinu,2021,1436
-4101,dalwallinu,2022,1429
-4102,dalwallinu,2023,1446
-4103,narembeen,2013,826
-4104,narembeen,2014,818
-4105,narembeen,2015,820
-4106,narembeen,2016,815
-4107,narembeen,2017,822
-4108,narembeen,2018,826
-4109,narembeen,2019,831
-4110,narembeen,2020,829
-4111,narembeen,2021,820
-4112,narembeen,2022,822
-4113,narembeen,2023,833
-4114,parramatta,2013,214537
-4115,parramatta,2014,221107
-4116,parramatta,2015,227649
-4117,parramatta,2016,234444
-4118,parramatta,2017,243158
-4119,parramatta,2018,250835
-4120,parramatta,2019,257472
-4121,parramatta,2020,260413
-4122,parramatta,2021,258527
-4123,parramatta,2022,260472
-4124,parramatta,2023,269145
-4125,aurukun,2013,1350
-4126,aurukun,2014,1332
-4127,aurukun,2015,1321
-4128,aurukun,2016,1323
-4129,aurukun,2017,1301
-4130,aurukun,2018,1296
-4131,aurukun,2019,1288
-4132,aurukun,2020,1196
-4133,aurukun,2021,1130
-4134,aurukun,2022,1124
-4135,aurukun,2023,1154
-4136,central darling,2013,1979
-4137,central darling,2014,1934
-4138,central darling,2015,1923
-4139,central darling,2016,1881
-4140,central darling,2017,1845
-4141,central darling,2018,1809
-4142,central darling,2019,1799
-4143,central darling,2020,1774
-4144,central darling,2021,1758
-4145,central darling,2022,1749
-4146,central darling,2023,1757
-4147,parkes,2013,15022
-4148,parkes,2014,14991
-4149,parkes,2015,14954
-4150,parkes,2016,14924
-4151,parkes,2017,14893
-4152,parkes,2018,14836
-4153,parkes,2019,14774
-4154,parkes,2020,14646
-4155,parkes,2021,14451
-4156,parkes,2022,14346
-4157,parkes,2023,14256
-4158,kimba,2013,1103
-4159,kimba,2014,1097
-4160,kimba,2015,1089
-4161,kimba,2016,1083
-4162,kimba,2017,1079
-4163,kimba,2018,1072
-4164,kimba,2019,1063
-4165,kimba,2020,1056
-4166,kimba,2021,1053
-4167,kimba,2022,1059
-4168,kimba,2023,1059
-4169,kondinin,2013,985
-4170,kondinin,2014,918
-4171,kondinin,2015,929
-4172,kondinin,2016,894
-4173,kondinin,2017,881
-4174,kondinin,2018,872
-4175,kondinin,2019,869
-4176,kondinin,2020,876
-4177,kondinin,2021,872
-4178,kondinin,2022,866
-4179,kondinin,2023,858
-4180,ryde,2013,113547
-4181,ryde,2014,115843
-4182,ryde,2015,118499
-4183,ryde,2016,121270
-4184,ryde,2017,124095
-4185,ryde,2018,126364
-4186,ryde,2019,129738
-4187,ryde,2020,130999
-4188,ryde,2021,129813
-4189,ryde,2022,131168
-4190,ryde,2023,135716
-4191,mackay,2013,118878
-4192,mackay,2014,118916
-4193,mackay,2015,118292
-4194,mackay,2016,117218
-4195,mackay,2017,117513
-4196,mackay,2018,118352
-4197,mackay,2019,119529
-4198,mackay,2020,121395
-4199,mackay,2021,123148
-4200,mackay,2022,124950
-4201,mackay,2023,126907
-4202,broomehill-tambellup,2013,1194
-4203,broomehill-tambellup,2014,1191
-4204,broomehill-tambellup,2015,1180
-4205,broomehill-tambellup,2016,1164
-4206,broomehill-tambellup,2017,1153
-4207,broomehill-tambellup,2018,1133
-4208,broomehill-tambellup,2019,1112
-4209,broomehill-tambellup,2020,1098
-4210,broomehill-tambellup,2021,1089
-4211,broomehill-tambellup,2022,1087
-4212,broomehill-tambellup,2023,1095
-4213,surf coast,2013,28228
-4214,surf coast,2014,28874
-4215,surf coast,2015,29625
-4216,surf coast,2016,30465
-4217,surf coast,2017,31555
-4218,surf coast,2018,32750
-4219,surf coast,2019,34213
-4220,surf coast,2020,35827
-4221,surf coast,2021,37648
-4222,surf coast,2022,38672
-4223,surf coast,2023,39292
-4224,lower eyre peninsula,2013,5300
-4225,lower eyre peninsula,2014,5426
-4226,lower eyre peninsula,2015,5540
-4227,lower eyre peninsula,2016,5661
-4228,lower eyre peninsula,2017,5731
-4229,lower eyre peninsula,2018,5812
-4230,lower eyre peninsula,2019,5875
-4231,lower eyre peninsula,2020,5947
-4232,lower eyre peninsula,2021,6058
-4233,lower eyre peninsula,2022,6097
-4234,lower eyre peninsula,2023,6154
-4235,menzies,2013,486
-4236,menzies,2014,499
-4237,menzies,2015,510
-4238,menzies,2016,518
-4239,menzies,2017,523
-4240,menzies,2018,534
-4241,menzies,2019,541
-4242,menzies,2020,553
-4243,menzies,2021,569
-4244,menzies,2022,571
-4245,menzies,2023,575
-4246,ngaanyatjarraku,2013,1689
-4247,ngaanyatjarraku,2014,1705
-4248,ngaanyatjarraku,2015,1713
-4249,ngaanyatjarraku,2016,1708
-4250,ngaanyatjarraku,2017,1649
-4251,ngaanyatjarraku,2018,1598
-4252,ngaanyatjarraku,2019,1538
-4253,ngaanyatjarraku,2020,1502
-4254,ngaanyatjarraku,2021,1476
-4255,ngaanyatjarraku,2022,1478
-4256,ngaanyatjarraku,2023,1479
-4257,flinders (tas.),2013,845
-4258,flinders (tas.),2014,871
-4259,flinders (tas.),2015,900
-4260,flinders (tas.),2016,939
-4261,flinders (tas.),2017,939
-4262,flinders (tas.),2018,952
-4263,flinders (tas.),2019,951
-4264,flinders (tas.),2020,937
-4265,flinders (tas.),2021,938
-4266,flinders (tas.),2022,931
-4267,flinders (tas.),2023,933
-4268,moonee valley,2013,115464
-4269,moonee valley,2014,117763
-4270,moonee valley,2015,120231
-4271,moonee valley,2016,122871
-4272,moonee valley,2017,124321
-4273,moonee valley,2018,125487
-4274,moonee valley,2019,126406
-4275,moonee valley,2020,126786
-4276,moonee valley,2021,122950
-4277,moonee valley,2022,123119
-4278,moonee valley,2023,126486
-4279,mount isa,2013,21822
-4280,mount isa,2014,21261
-4281,mount isa,2015,20586
-4282,mount isa,2016,19606
-4283,mount isa,2017,19363
-4284,mount isa,2018,19241
-4285,mount isa,2019,19159
-4286,mount isa,2020,19315
-4287,mount isa,2021,19217
-4288,mount isa,2022,19046
-4289,mount isa,2023,18945
-4290,wandering,2013,451
-4291,wandering,2014,453
-4292,wandering,2015,457
-4293,wandering,2016,458
-4294,wandering,2017,464
-4295,wandering,2018,478
-4296,wandering,2019,496
-4297,wandering,2020,520
-4298,wandering,2021,551
-4299,wandering,2022,548
-4300,wandering,2023,545
-4301,break o'day,2013,6353
-4302,break o'day,2014,6312
-4303,break o'day,2015,6254
-4304,break o'day,2016,6198
-4305,break o'day,2017,6264
-4306,break o'day,2018,6381
-4307,break o'day,2019,6516
-4308,break o'day,2020,6659
-4309,break o'day,2021,6933
-4310,break o'day,2022,7010
-4311,break o'day,2023,7075
-4312,bellingen,2013,12920
-4313,bellingen,2014,12929
-4314,bellingen,2015,12936
-4315,bellingen,2016,12951
-4316,bellingen,2017,12976
-4317,bellingen,2018,13006
-4318,bellingen,2019,13046
-4319,bellingen,2020,13152
-4320,bellingen,2021,13203
-4321,bellingen,2022,13261
-4322,bellingen,2023,13231
-4323,colac otway,2013,21035
-4324,colac otway,2014,21131
-4325,colac otway,2015,21230
-4326,colac otway,2016,21362
-4327,colac otway,2017,21595
-4328,colac otway,2018,21823
-4329,colac otway,2019,22037
-4330,colac otway,2020,22274
-4331,colac otway,2021,22309
-4332,colac otway,2022,22198
-4333,colac otway,2023,22273
-4334,pormpuraaw,2013,737
-4335,pormpuraaw,2014,747
-4336,pormpuraaw,2015,764
-4337,pormpuraaw,2016,785
-4338,pormpuraaw,2017,774
-4339,pormpuraaw,2018,743
-4340,pormpuraaw,2019,708
-4341,pormpuraaw,2020,672
-4342,pormpuraaw,2021,632
-4343,pormpuraaw,2022,637
-4344,pormpuraaw,2023,644
-4345,ceduna,2013,3574
-4346,ceduna,2014,3577
-4347,ceduna,2015,3574
-4348,ceduna,2016,3566
-4349,ceduna,2017,3577
-4350,ceduna,2018,3583
-4351,ceduna,2019,3600
-4352,ceduna,2020,3616
-4353,ceduna,2021,3651
-4354,ceduna,2022,3650
-4355,ceduna,2023,3717
-4356,whyalla,2013,22659
-4357,whyalla,2014,22703
-4358,whyalla,2015,22670
-4359,whyalla,2016,22511
-4360,whyalla,2017,22254
-4361,whyalla,2018,22102
-4362,whyalla,2019,22073
-4363,whyalla,2020,22036
-4364,whyalla,2021,21954
-4365,whyalla,2022,21887
-4366,whyalla,2023,21902
-4367,townsville,2013,186519
-4368,townsville,2014,188777
-4369,townsville,2015,190011
-4370,townsville,2016,191348
-4371,townsville,2017,192475
-4372,townsville,2018,193105
-4373,townsville,2019,193687
-4374,townsville,2020,194679
-4375,townsville,2021,195457
-4376,townsville,2022,198134
-4377,townsville,2023,201433
-4378,belyuen,2013,199
-4379,belyuen,2014,188
-4380,belyuen,2015,182
-4381,belyuen,2016,175
-4382,belyuen,2017,172
-4383,belyuen,2018,169
-4384,belyuen,2019,168
-4385,belyuen,2020,167
-4386,belyuen,2021,165
-4387,belyuen,2022,165
-4388,belyuen,2023,166
-4389,lachlan,2013,6681
-4390,lachlan,2014,6624
-4391,lachlan,2015,6541
-4392,lachlan,2016,6444
-4393,lachlan,2017,6403
-4394,lachlan,2018,6341
-4395,lachlan,2019,6273
-4396,lachlan,2020,6223
-4397,lachlan,2021,6153
-4398,lachlan,2022,6138
-4399,lachlan,2023,6147
-4400,brisbane,2013,1131996
-4401,brisbane,2014,1149107
-4402,brisbane,2015,1165437
-4403,brisbane,2016,1184752
-4404,brisbane,2017,1206960
-4405,brisbane,2018,1226938
-4406,brisbane,2019,1247133
-4407,brisbane,2020,1263500
-4408,brisbane,2021,1262968
-4409,brisbane,2022,1283432
-4410,brisbane,2023,1323162
-4411,west torrens,2013,58153
-4412,west torrens,2014,58627
-4413,west torrens,2015,59075
-4414,west torrens,2016,59408
-4415,west torrens,2017,59809
-4416,west torrens,2018,60542
-4417,west torrens,2019,61562
-4418,west torrens,2020,62573
-4419,west torrens,2021,62425
-4420,west torrens,2022,63115
-4421,west torrens,2023,64519
-4422,ashburton,2013,12025
-4423,ashburton,2014,12515
-4424,ashburton,2015,13002
-4425,ashburton,2016,13311
-4426,ashburton,2017,12208
-4427,ashburton,2018,11144
-4428,ashburton,2019,10018
-4429,ashburton,2020,8927
-4430,ashburton,2021,7781
-4431,ashburton,2022,7843
-4432,ashburton,2023,8076
-4433,croydon,2013,308
-4434,croydon,2014,303
-4435,croydon,2015,297
-4436,croydon,2016,296
-4437,croydon,2017,288
-4438,croydon,2018,280
-4439,croydon,2019,272
-4440,croydon,2020,269
-4441,croydon,2021,269
-4442,croydon,2022,268
-4443,croydon,2023,270
-4444,dundas,2013,1069
-4445,dundas,2014,979
-4446,dundas,2015,894
-4447,dundas,2016,788
-4448,dundas,2017,759
-4449,dundas,2018,728
-4450,dundas,2019,706
-4451,dundas,2020,698
-4452,dundas,2021,699
-4453,dundas,2022,695
-4454,dundas,2023,701
-4455,cranbrook,2013,1129
-4456,cranbrook,2014,1131
-4457,cranbrook,2015,1119
-4458,cranbrook,2016,1107
-4459,cranbrook,2017,1110
-4460,cranbrook,2018,1110
-4461,cranbrook,2019,1115
-4462,cranbrook,2020,1122
-4463,cranbrook,2021,1134
-4464,cranbrook,2022,1141
-4465,cranbrook,2023,1149
-4466,kiama,2013,21262
-4467,kiama,2014,21612
-4468,kiama,2015,21890
-4469,kiama,2016,22110
-4470,kiama,2017,22299
-4471,kiama,2018,22479
-4472,kiama,2019,22711
-4473,kiama,2020,22873
-4474,kiama,2021,22970
-4475,kiama,2022,22964
-4476,kiama,2023,23002
-4477,eurobodalla,2013,37270
-4478,eurobodalla,2014,37483
-4479,eurobodalla,2015,37733
-4480,eurobodalla,2016,37919
-4481,eurobodalla,2017,38372
-4482,eurobodalla,2018,38816
-4483,eurobodalla,2019,39290
-4484,eurobodalla,2020,39917
-4485,eurobodalla,2021,40464
-4486,eurobodalla,2022,40752
-4487,eurobodalla,2023,40912
-4488,beverley,2013,1692
-4489,beverley,2014,1707
-4490,beverley,2015,1732
-4491,beverley,2016,1748
-4492,beverley,2017,1740
-4493,beverley,2018,1741
-4494,beverley,2019,1746
-4495,beverley,2020,1738
-4496,beverley,2021,1735
-4497,beverley,2022,1738
-4498,beverley,2023,1768
-4499,northampton,2013,3432
-4500,northampton,2014,3389
-4501,northampton,2015,3357
-4502,northampton,2016,3335
-4503,northampton,2017,3305
-4504,northampton,2018,3277
-4505,northampton,2019,3263
-4506,northampton,2020,3279
-4507,northampton,2021,3332
-4508,northampton,2022,3343
-4509,northampton,2023,3369
-4510,bulloo,2013,396
-4511,bulloo,2014,388
-4512,bulloo,2015,372
-4513,bulloo,2016,356
-4514,bulloo,2017,347
-4515,bulloo,2018,343
-4516,bulloo,2019,340
-4517,bulloo,2020,340
-4518,bulloo,2021,342
-4519,bulloo,2022,343
-4520,bulloo,2023,346
-4521,trayning,2013,366
-4522,trayning,2014,364
-4523,trayning,2015,358
-4524,trayning,2016,354
-4525,trayning,2017,344
-4526,trayning,2018,335
-4527,trayning,2019,330
-4528,trayning,2020,317
-4529,trayning,2021,307
-4530,trayning,2022,304
-4531,trayning,2023,303
-4532,glen eira,2013,141260
-4533,glen eira,2014,143694
-4534,glen eira,2015,145924
-4535,glen eira,2016,148583
-4536,glen eira,2017,150702
-4537,glen eira,2018,152389
-4538,glen eira,2019,153936
-4539,glen eira,2020,154656
-4540,glen eira,2021,150638
-4541,glen eira,2022,151824
-4542,glen eira,2023,156837
-4543,mansfield,2013,8276
-4544,mansfield,2014,8395
-4545,mansfield,2015,8530
-4546,mansfield,2016,8674
-4547,mansfield,2017,8897
-4548,mansfield,2018,9153
-4549,mansfield,2019,9417
-4550,mansfield,2020,9792
-4551,mansfield,2021,10121
-4552,mansfield,2022,10338
-4553,mansfield,2023,10546
-4554,inner west,2013,184297
-4555,inner west,2014,186495
-4556,inner west,2015,188711
-4557,inner west,2016,191194
-4558,inner west,2017,192275
-4559,inner west,2018,192661
-4560,inner west,2019,191965
-4561,inner west,2020,190035
-4562,inner west,2021,183839
-4563,inner west,2022,183153
-4564,inner west,2023,188325
-4565,yorke peninsula,2013,11241
-4566,yorke peninsula,2014,11254
-4567,yorke peninsula,2015,11267
-4568,yorke peninsula,2016,11291
-4569,yorke peninsula,2017,11375
-4570,yorke peninsula,2018,11475
-4571,yorke peninsula,2019,11581
-4572,yorke peninsula,2020,11681
-4573,yorke peninsula,2021,11830
-4574,yorke peninsula,2022,11916
-4575,yorke peninsula,2023,12040
-4576,shark bay,2013,936
-4577,shark bay,2014,948
-4578,shark bay,2015,965
-4579,shark bay,2016,963
-4580,shark bay,2017,962
-4581,shark bay,2018,986
-4582,shark bay,2019,1000
-4583,shark bay,2020,1041
-4584,shark bay,2021,1069
-4585,shark bay,2022,1082
-4586,shark bay,2023,1129
-4587,wyalkatchem,2013,541
-4588,wyalkatchem,2014,535
-4589,wyalkatchem,2015,533
-4590,wyalkatchem,2016,522
-4591,wyalkatchem,2017,515
-4592,wyalkatchem,2018,501
-4593,wyalkatchem,2019,492
-4594,wyalkatchem,2020,492
-4595,wyalkatchem,2021,484
-4596,wyalkatchem,2022,485
-4597,wyalkatchem,2023,491
-4598,katherine,2013,10761
-4599,katherine,2014,10744
-4600,katherine,2015,10671
-4601,katherine,2016,10541
-4602,katherine,2017,10624
-4603,katherine,2018,10672
-4604,katherine,2019,10721
-4605,katherine,2020,10716
-4606,katherine,2021,10679
-4607,katherine,2022,10834
-4608,katherine,2023,10829
-4609,loxton waikerie,2013,11571
-4610,loxton waikerie,2014,11671
-4611,loxton waikerie,2015,11716
-4612,loxton waikerie,2016,11730
-4613,loxton waikerie,2017,11731
-4614,loxton waikerie,2018,11775
-4615,loxton waikerie,2019,11830
-4616,loxton waikerie,2020,11861
-4617,loxton waikerie,2021,11921
-4618,loxton waikerie,2022,11923
-4619,loxton waikerie,2023,11897
-4620,lockhart,2013,3096
-4621,lockhart,2014,3117
-4622,lockhart,2015,3121
-4623,lockhart,2016,3173
-4624,lockhart,2017,3208
-4625,lockhart,2018,3218
-4626,lockhart,2019,3266
-4627,lockhart,2020,3308
-4628,lockhart,2021,3328
-4629,lockhart,2022,3370
-4630,lockhart,2023,3396
-4631,macedon ranges,2013,44595
-4632,macedon ranges,2014,45471
-4633,macedon ranges,2015,46373
-4634,macedon ranges,2016,47480
-4635,macedon ranges,2017,48415
-4636,macedon ranges,2018,49302
-4637,macedon ranges,2019,50162
-4638,macedon ranges,2020,50894
-4639,macedon ranges,2021,51599
-4640,macedon ranges,2022,52202
-4641,macedon ranges,2023,52920
-4642,yalgoo,2013,426
-4643,yalgoo,2014,405
-4644,yalgoo,2015,378
-4645,yalgoo,2016,350
-4646,yalgoo,2017,358
-4647,yalgoo,2018,361
-4648,yalgoo,2019,361
-4649,yalgoo,2020,358
-4650,yalgoo,2021,364
-4651,yalgoo,2022,365
-4652,yalgoo,2023,357
-4653,burdekin,2013,17754
-4654,burdekin,2014,17695
-4655,burdekin,2015,17566
-4656,burdekin,2016,17326
-4657,burdekin,2017,17224
-4658,burdekin,2018,17086
-4659,burdekin,2019,17003
-4660,burdekin,2020,16934
-4661,burdekin,2021,16836
-4662,burdekin,2022,16868
-4663,burdekin,2023,17020
-4664,mount marshall,2013,523
-4665,mount marshall,2014,528
-4666,mount marshall,2015,531
-4667,mount marshall,2016,533
-4668,mount marshall,2017,520
-4669,mount marshall,2018,504
-4670,mount marshall,2019,494
-4671,mount marshall,2020,479
-4672,mount marshall,2021,467
-4673,mount marshall,2022,463
-4674,mount marshall,2023,461
-4675,peppermint grove,2013,1694
-4676,peppermint grove,2014,1707
-4677,peppermint grove,2015,1709
-4678,peppermint grove,2016,1708
-4679,peppermint grove,2017,1692
-4680,peppermint grove,2018,1675
-4681,peppermint grove,2019,1661
-4682,peppermint grove,2020,1661
-4683,peppermint grove,2021,1638
-4684,peppermint grove,2022,1638
-4685,peppermint grove,2023,1736
-4686,the hills shire,2013,152429
-4687,the hills shire,2014,155366
-4688,the hills shire,2015,158941
-4689,the hills shire,2016,162975
-4690,the hills shire,2017,168400
-4691,the hills shire,2018,173067
-4692,the hills shire,2019,180102
-4693,the hills shire,2020,186622
-4694,the hills shire,2021,192660
-4695,the hills shire,2022,199269
-4696,the hills shire,2023,207959
-4697,marion,2013,87769
-4698,marion,2014,88652
-4699,marion,2015,89521
-4700,marion,2016,90508
-4701,marion,2017,91491
-4702,marion,2018,92455
-4703,marion,2019,93817
-4704,marion,2020,95256
-4705,marion,2021,95610
-4706,marion,2022,96667
-4707,marion,2023,98493
-4708,boyup brook,2013,1667
-4709,boyup brook,2014,1687
-4710,boyup brook,2015,1681
-4711,boyup brook,2016,1722
-4712,boyup brook,2017,1737
-4713,boyup brook,2018,1784
-4714,boyup brook,2019,1808
-4715,boyup brook,2020,1833
-4716,boyup brook,2021,1874
-4717,boyup brook,2022,1938
-4718,boyup brook,2023,1948
-4719,cessnock,2013,54303
-4720,cessnock,2014,55103
-4721,cessnock,2015,55888
-4722,cessnock,2016,56720
-4723,cessnock,2017,57921
-4724,cessnock,2018,59649
-4725,cessnock,2019,60823
-4726,cessnock,2020,62431
-4727,cessnock,2021,64120
-4728,cessnock,2022,65875
-4729,cessnock,2023,67591
-4730,waratah-wynyard,2013,14083
-4731,waratah-wynyard,2014,14014
-4732,waratah-wynyard,2015,13903
-4733,waratah-wynyard,2016,13813
-4734,waratah-wynyard,2017,13884
-4735,waratah-wynyard,2018,14033
-4736,waratah-wynyard,2019,14178
-4737,waratah-wynyard,2020,14341
-4738,waratah-wynyard,2021,14629
-4739,waratah-wynyard,2022,14688
-4740,waratah-wynyard,2023,14767
-4741,sydney,2013,196318
-4742,sydney,2014,204516
-4743,sydney,2015,214037
-4744,sydney,2016,222717
-4745,sydney,2017,227997
-4746,sydney,2018,229284
-4747,sydney,2019,229596
-4748,sydney,2020,227250
-4749,sydney,2021,214703
-4750,sydney,2022,218275
-4751,sydney,2023,231086
-4752,frankston,2013,134351
-4753,frankston,2014,136181
-4754,frankston,2015,137790
-4755,frankston,2016,139502
-4756,frankston,2017,140601
-4757,frankston,2018,141531
-4758,frankston,2019,141970
-4759,frankston,2020,142191
-4760,frankston,2021,140824
-4761,frankston,2022,141161
-4762,frankston,2023,142826
-4763,somerset,2013,23619
-4764,somerset,2014,24459
-4765,somerset,2015,24681
-4766,somerset,2016,25153
-4767,somerset,2017,25286
-4768,somerset,2018,25326
-4769,somerset,2019,25355
-4770,somerset,2020,25322
-4771,somerset,2021,25388
-4772,somerset,2022,25711
-4773,somerset,2023,26251
-4774,coorow,2013,1099
-4775,coorow,2014,1086
-4776,coorow,2015,1077
-4777,coorow,2016,1058
-4778,coorow,2017,1065
-4779,coorow,2018,1059
-4780,coorow,2019,1066
-4781,coorow,2020,1076
-4782,coorow,2021,1091
-4783,coorow,2022,1092
-4784,coorow,2023,1107
-4785,alice springs,2013,28124
-4786,alice springs,2014,27486
-4787,alice springs,2015,26843
-4788,alice springs,2016,26518
-4789,alice springs,2017,26889
-4790,alice springs,2018,27223
-4791,alice springs,2019,27600
-4792,alice springs,2020,28029
-4793,alice springs,2021,28483
-4794,alice springs,2022,28859
-4795,alice springs,2023,29213
-4796,richmond,2013,839
-4797,richmond,2014,838
-4798,richmond,2015,820
-4799,richmond,2016,806
-4800,richmond,2017,791
-4801,richmond,2018,785
-4802,richmond,2019,777
-4803,richmond,2020,769
-4804,richmond,2021,769
-4805,richmond,2022,777
-4806,richmond,2023,781
-4807,williams,2013,977
-4808,williams,2014,993
-4809,williams,2015,1005
-4810,williams,2016,1000
-4811,williams,2017,1026
-4812,williams,2018,1033
-4813,williams,2019,1025
-4814,williams,2020,1035
-4815,williams,2021,1050
-4816,williams,2022,1053
-4817,williams,2023,1060
-4818,hawkesbury,2013,65145
-4819,hawkesbury,2014,65503
-4820,hawkesbury,2015,65890
-4821,hawkesbury,2016,66346
-4822,hawkesbury,2017,66708
-4823,hawkesbury,2018,66989
-4824,hawkesbury,2019,67244
-4825,hawkesbury,2020,67578
-4826,hawkesbury,2021,67605
-4827,hawkesbury,2022,67862
-4828,hawkesbury,2023,68156
-4829,temora,2013,6055
-4830,temora,2014,6098
-4831,temora,2015,6165
-4832,temora,2016,6210
-4833,temora,2017,6162
-4834,temora,2018,6138
-4835,temora,2019,6116
-4836,temora,2020,6077
-4837,temora,2021,6013
-4838,temora,2022,5995
-4839,temora,2023,6029
-4840,whitehorse,2013,162081
-4841,whitehorse,2014,164320
-4842,whitehorse,2015,166679
-4843,whitehorse,2016,169641
-4844,whitehorse,2017,172376
-4845,whitehorse,2018,174431
-4846,whitehorse,2019,175862
-4847,whitehorse,2020,176794
-4848,whitehorse,2021,171077
-4849,whitehorse,2022,172607
-4850,whitehorse,2023,178639
-4851,cairns,2013,156764
-4852,cairns,2014,158574
-4853,cairns,2015,159944
-4854,cairns,2016,161573
-4855,cairns,2017,163806
-4856,cairns,2018,165716
-4857,cairns,2019,167149
-4858,cairns,2020,168710
-4859,cairns,2021,169250
-4860,cairns,2022,171985
-4861,cairns,2023,175398
-4862,mundaring,2013,39644
-4863,mundaring,2014,39651
-4864,mundaring,2015,39563
-4865,mundaring,2016,39217
-4866,mundaring,2017,39161
-4867,mundaring,2018,39494
-4868,mundaring,2019,39877
-4869,mundaring,2020,40360
-4870,mundaring,2021,40539
-4871,mundaring,2022,40517
-4872,mundaring,2023,41421
-4873,vincent,2013,35442
-4874,vincent,2014,35631
-4875,vincent,2015,35663
-4876,vincent,2016,35674
-4877,vincent,2017,35856
-4878,vincent,2018,36282
-4879,vincent,2019,36892
-4880,vincent,2020,37717
-4881,vincent,2021,37833
-4882,vincent,2022,38504
-4883,vincent,2023,40125
-4884,george town,2013,6838
-4885,george town,2014,6854
-4886,george town,2015,6857
-4887,george town,2016,6873
-4888,george town,2017,6914
-4889,george town,2018,6958
-4890,george town,2019,7020
-4891,george town,2020,7186
-4892,george town,2021,7206
-4893,george town,2022,7267
-4894,george town,2023,7330
-4895,west tamar,2013,22851
-4896,west tamar,2014,22921
-4897,west tamar,2015,23007
-4898,west tamar,2016,23092
-4899,west tamar,2017,23600
-4900,west tamar,2018,24091
-4901,west tamar,2019,24602
-4902,west tamar,2020,25123
-4903,west tamar,2021,25717
-4904,west tamar,2022,25931
-4905,west tamar,2023,26039
-4906,clare and gilbert valleys,2013,9068
-4907,clare and gilbert valleys,2014,9138
-4908,clare and gilbert valleys,2015,9204
-4909,clare and gilbert valleys,2016,9244
-4910,clare and gilbert valleys,2017,9261
-4911,clare and gilbert valleys,2018,9300
-4912,clare and gilbert valleys,2019,9336
-4913,clare and gilbert valleys,2020,9379
-4914,clare and gilbert valleys,2021,9363
-4915,clare and gilbert valleys,2022,9381
-4916,clare and gilbert valleys,2023,9405
-4917,lithgow,2013,21118
-4918,lithgow,2014,21283
-4919,lithgow,2015,21400
-4920,lithgow,2016,21484
-4921,lithgow,2017,21419
-4922,lithgow,2018,21344
-4923,lithgow,2019,21216
-4924,lithgow,2020,21063
-4925,lithgow,2021,20855
-4926,lithgow,2022,20811
-4927,lithgow,2023,20724
-4928,strathfield,2013,38918
-4929,strathfield,2014,40301
-4930,strathfield,2015,41276
-4931,strathfield,2016,42415
-4932,strathfield,2017,43679
-4933,strathfield,2018,44663
-4934,strathfield,2019,45895
-4935,strathfield,2020,46417
-4936,strathfield,2021,45963
-4937,strathfield,2022,46250
-4938,strathfield,2023,47824
-4939,knox,2013,156347
-4940,knox,2014,157434
-4941,knox,2015,158700
-4942,knox,2016,160353
-4943,knox,2017,161525
-4944,knox,2018,162459
-4945,knox,2019,163308
-4946,knox,2020,163242
-4947,knox,2021,160481
-4948,knox,2022,159549
-4949,knox,2023,161766
-4950,wudinna,2013,1272
-4951,wudinna,2014,1276
-4952,wudinna,2015,1279
-4953,wudinna,2016,1279
-4954,wudinna,2017,1261
-4955,wudinna,2018,1231
-4956,wudinna,2019,1205
-4957,wudinna,2020,1185
-4958,wudinna,2021,1163
-4959,wudinna,2022,1162
-4960,wudinna,2023,1161
-4961,bourke,2013,2903
-4962,bourke,2014,2870
-4963,bourke,2015,2801
-4964,bourke,2016,2762
-4965,bourke,2017,2695
-4966,bourke,2018,2600
-4967,bourke,2019,2534
-4968,bourke,2020,2483
-4969,bourke,2021,2416
-4970,bourke,2022,2348
-4971,bourke,2023,2365
-4972,goomalling,2013,1038
-4973,goomalling,2014,1044
-4974,goomalling,2015,1050
-4975,goomalling,2016,1045
-4976,goomalling,2017,1033
-4977,goomalling,2018,1018
-4978,goomalling,2019,1006
-4979,goomalling,2020,997
-4980,goomalling,2021,983
-4981,goomalling,2022,984
-4982,goomalling,2023,987
-4983,longreach,2013,4104
-4984,longreach,2014,4027
-4985,longreach,2015,3812
-4986,longreach,2016,3727
-4987,longreach,2017,3661
-4988,longreach,2018,3653
-4989,longreach,2019,3654
-4990,longreach,2020,3651
-4991,longreach,2021,3691
-4992,longreach,2022,3721
-4993,longreach,2023,3737
-4994,brookton,2013,998
-4995,brookton,2014,1018
-4996,brookton,2015,1010
-4997,brookton,2016,1002
-4998,brookton,2017,988
-4999,brookton,2018,969
-5000,brookton,2019,959
-5001,brookton,2020,970
-5002,brookton,2021,961
-5003,brookton,2022,954
-5004,brookton,2023,955
-5005,cue,2013,272
-5006,cue,2014,251
-5007,cue,2015,226
-5008,cue,2016,199
-5009,cue,2017,194
-5010,cue,2018,181
-5011,cue,2019,194
-5012,cue,2020,207
-5013,cue,2021,228
-5014,cue,2022,230
-5015,cue,2023,231
-5016,wollongong,2013,204707
-5017,wollongong,2014,206415
-5018,wollongong,2015,208313
-5019,wollongong,2016,210394
-5020,wollongong,2017,212188
-5021,wollongong,2018,213480
-5022,wollongong,2019,214552
-5023,wollongong,2020,215063
-5024,wollongong,2021,214700
-5025,wollongong,2022,216444
-5026,wollongong,2023,219141
-5027,randwick,2013,142459
-5028,randwick,2014,144814
-5029,randwick,2015,146908
-5030,randwick,2016,148922
-5031,randwick,2017,149099
-5032,randwick,2018,147552
-5033,randwick,2019,145287
-5034,randwick,2020,142499
-5035,randwick,2021,135219
-5036,randwick,2022,135750
-5037,randwick,2023,141840
-5038,monash,2013,183255
-5039,monash,2014,186150
-5040,monash,2015,189174
-5041,monash,2016,192625
-5042,monash,2017,195666
-5043,monash,2018,198010
-5044,monash,2019,199762
-5045,monash,2020,200791
-5046,monash,2021,192893
-5047,monash,2022,195081
-5048,monash,2023,203560
-5049,stonnington,2013,103487
-5050,stonnington,2014,105894
-5051,stonnington,2015,108028
-5052,stonnington,2016,111003
-5053,stonnington,2017,112134
-5054,stonnington,2018,113340
-5055,stonnington,2019,113800
-5056,stonnington,2020,112610
-5057,stonnington,2021,106190
-5058,stonnington,2022,106524
-5059,stonnington,2023,111335
-5060,dowerin,2013,707
-5061,dowerin,2014,706
-5062,dowerin,2015,706
-5063,dowerin,2016,699
-5064,dowerin,2017,711
-5065,dowerin,2018,708
-5066,dowerin,2019,714
-5067,dowerin,2020,726
-5068,dowerin,2021,733
-5069,dowerin,2022,733
-5070,dowerin,2023,738
-5071,wongan-ballidu,2013,1474
-5072,wongan-ballidu,2014,1433
-5073,wongan-ballidu,2015,1393
-5074,wongan-ballidu,2016,1354
-5075,wongan-ballidu,2017,1356
-5076,wongan-ballidu,2018,1331
-5077,wongan-ballidu,2019,1327
-5078,wongan-ballidu,2020,1341
-5079,wongan-ballidu,2021,1336
-5080,wongan-ballidu,2022,1340
-5081,wongan-ballidu,2023,1336
-5082,mid murray,2013,8448
-5083,mid murray,2014,8599
-5084,mid murray,2015,8718
-5085,mid murray,2016,8845
-5086,mid murray,2017,8987
-5087,mid murray,2018,9090
-5088,mid murray,2019,9182
-5089,mid murray,2020,9268
-5090,mid murray,2021,9355
-5091,mid murray,2022,9415
-5092,mid murray,2023,9496
-5093,kulin,2013,831
-5094,kulin,2014,804
-5095,kulin,2015,787
-5096,kulin,2016,783
-5097,kulin,2017,779
-5098,kulin,2018,781
-5099,kulin,2019,781
-5100,kulin,2020,792
-5101,kulin,2021,789
-5102,kulin,2022,783
-5103,kulin,2023,794
-5104,blue mountains,2013,78705
-5105,blue mountains,2014,78867
-5106,blue mountains,2015,78889
-5107,blue mountains,2016,78835
-5108,blue mountains,2017,78989
-5109,blue mountains,2018,79107
-5110,blue mountains,2019,79077
-5111,blue mountains,2020,79031
-5112,blue mountains,2021,78372
-5113,blue mountains,2022,77913
-5114,blue mountains,2023,78446
-5115,pyrenees,2013,6938
-5116,pyrenees,2014,7047
-5117,pyrenees,2015,7179
-5118,pyrenees,2016,7316
-5119,pyrenees,2017,7325
-5120,pyrenees,2018,7327
-5121,pyrenees,2019,7449
-5122,pyrenees,2020,7544
-5123,pyrenees,2021,7619
-5124,pyrenees,2022,7653
-5125,pyrenees,2023,7786
-5126,roxby downs,2013,4609
-5127,roxby downs,2014,4418
-5128,roxby downs,2015,4327
-5129,roxby downs,2016,4052
-5130,roxby downs,2017,4048
-5131,roxby downs,2018,4100
-5132,roxby downs,2019,4103
-5133,roxby downs,2020,4137
-5134,roxby downs,2021,4109
-5135,roxby downs,2022,4103
-5136,roxby downs,2023,4113
-5137,brighton,2013,16046
-5138,brighton,2014,16221
-5139,brighton,2015,16448
-5140,brighton,2016,16669
-5141,brighton,2017,17060
-5142,brighton,2018,17501
-5143,brighton,2019,17995
-5144,brighton,2020,18501
-5145,brighton,2021,19261
-5146,brighton,2022,19688
-5147,brighton,2023,19998
-5148,berrigan,2013,8436
-5149,berrigan,2014,8519
-5150,berrigan,2015,8568
-5151,berrigan,2016,8609
-5152,berrigan,2017,8638
-5153,berrigan,2018,8645
-5154,berrigan,2019,8649
-5155,berrigan,2020,8653
-5156,berrigan,2021,8615
-5157,berrigan,2022,8652
-5158,berrigan,2023,8643
-5159,cumberland,2013,212450
-5160,cumberland,2014,216864
-5161,cumberland,2015,221152
-5162,cumberland,2016,225691
-5163,cumberland,2017,231490
-5164,cumberland,2018,235878
-5165,cumberland,2019,240090
-5166,cumberland,2020,240841
-5167,cumberland,2021,237083
-5168,cumberland,2022,237481
-5169,cumberland,2023,245323
-5170,redland,2013,147328
-5171,redland,2014,148833
-5172,redland,2015,150107
-5173,redland,2016,152216
-5174,redland,2017,154656
-5175,redland,2018,156885
-5176,redland,2019,158937
-5177,redland,2020,160418
-5178,redland,2021,161709
-5179,redland,2022,163729
-5180,redland,2023,166809
-5181,corangamite,2013,16410
-5182,corangamite,2014,16340
-5183,corangamite,2015,16274
-5184,corangamite,2016,16243
-5185,corangamite,2017,16279
-5186,corangamite,2018,16231
-5187,corangamite,2019,16171
-5188,corangamite,2020,16108
-5189,corangamite,2021,16030
-5190,corangamite,2022,15999
-5191,corangamite,2023,15948
-5192,joondalup,2013,164414
-5193,joondalup,2014,163894
-5194,joondalup,2015,162904
-5195,joondalup,2016,160918
-5196,joondalup,2017,161057
-5197,joondalup,2018,161479
-5198,joondalup,2019,162308
-5199,joondalup,2020,164044
-5200,joondalup,2021,165050
-5201,joondalup,2022,165649
-5202,joondalup,2023,169657
-5203,banyule,2013,124314
-5204,banyule,2014,125107
-5205,banyule,2015,126088
-5206,banyule,2016,127447
-5207,banyule,2017,128660
-5208,banyule,2018,129645
-5209,banyule,2019,130607
-5210,banyule,2020,130294
-5211,banyule,2021,127370
-5212,banyule,2022,127427
-5213,banyule,2023,129602
-5214,cloncurry,2013,3327
-5215,cloncurry,2014,3270
-5216,cloncurry,2015,3179
-5217,cloncurry,2016,3125
-5218,cloncurry,2017,3260
-5219,cloncurry,2018,3351
-5220,cloncurry,2019,3442
-5221,cloncurry,2020,3528
-5222,cloncurry,2021,3704
-5223,cloncurry,2022,3788
-5224,cloncurry,2023,3851
-5225,burwood,2013,36145
-5226,burwood,2014,37200
-5227,burwood,2015,37822
-5228,burwood,2016,38536
-5229,burwood,2017,39275
-5230,burwood,2018,39773
-5231,burwood,2019,40333
-5232,burwood,2020,40670
-5233,burwood,2021,40440
-5234,burwood,2022,40850
-5235,burwood,2023,42498
-5236,queenscliffe,2013,3002
-5237,queenscliffe,2014,2970
-5238,queenscliffe,2015,2933
-5239,queenscliffe,2016,2929
-5240,queenscliffe,2017,2923
-5241,queenscliffe,2018,2954
-5242,queenscliffe,2019,2973
-5243,queenscliffe,2020,3095
-5244,queenscliffe,2021,3236
-5245,queenscliffe,2022,3221
-5246,queenscliffe,2023,3238
-5247,goondiwindi,2013,10952
-5248,goondiwindi,2014,10902
-5249,goondiwindi,2015,10835
-5250,goondiwindi,2016,10813
-5251,goondiwindi,2017,10747
-5252,goondiwindi,2018,10648
-5253,goondiwindi,2019,10603
-5254,goondiwindi,2020,10516
-5255,goondiwindi,2021,10400
-5256,goondiwindi,2022,10408
-5257,goondiwindi,2023,10452
-5258,mitchell,2013,37788
-5259,mitchell,2014,39084
-5260,mitchell,2015,40264
-5261,mitchell,2016,41795
-5262,mitchell,2017,43045
-5263,mitchell,2018,44556
-5264,mitchell,2019,46373
-5265,mitchell,2020,48073
-5266,mitchell,2021,49712
-5267,mitchell,2022,51682
-5268,mitchell,2023,53723
-5269,mandurah,2013,79292
-5270,mandurah,2014,80927
-5271,mandurah,2015,82202
-5272,mandurah,2016,83322
-5273,mandurah,2017,84912
-5274,mandurah,2018,86708
-5275,mandurah,2019,88698
-5276,mandurah,2020,91112
-5277,mandurah,2021,93412
-5278,mandurah,2022,95622
-5279,mandurah,2023,99272
-5280,lockhart river,2013,626
-5281,lockhart river,2014,671
-5282,lockhart river,2015,697
-5283,lockhart river,2016,746
-5284,lockhart river,2017,727
-5285,lockhart river,2018,708
-5286,lockhart river,2019,693
-5287,lockhart river,2020,673
-5288,lockhart river,2021,653
-5289,lockhart river,2022,656
-5290,lockhart river,2023,673
-5291,donnybrook-balingup,2013,5803
-5292,donnybrook-balingup,2014,5903
-5293,donnybrook-balingup,2015,5949
-5294,donnybrook-balingup,2016,5956
-5295,donnybrook-balingup,2017,6015
-5296,donnybrook-balingup,2018,6072
-5297,donnybrook-balingup,2019,6131
-5298,donnybrook-balingup,2020,6205
-5299,donnybrook-balingup,2021,6312
-5300,donnybrook-balingup,2022,6401
-5301,donnybrook-balingup,2023,6438
-5302,manjimup,2013,9482
-5303,manjimup,2014,9448
-5304,manjimup,2015,9402
-5305,manjimup,2016,9341
-5306,manjimup,2017,9302
-5307,manjimup,2018,9253
-5308,manjimup,2019,9258
-5309,manjimup,2020,9317
-5310,manjimup,2021,9351
-5311,manjimup,2022,9412
-5312,manjimup,2023,9438
-5313,alpine,2013,12283
-5314,alpine,2014,12355
-5315,alpine,2015,12429
-5316,alpine,2016,12578
-5317,alpine,2017,12687
-5318,alpine,2018,12822
-5319,alpine,2019,12904
-5320,alpine,2020,13054
-5321,alpine,2021,13166
-5322,alpine,2022,13191
-5323,alpine,2023,13182
-5324,anangu pitjantjatjara yankunytjatjara,2013,2622
-5325,anangu pitjantjatjara yankunytjatjara,2014,2605
-5326,anangu pitjantjatjara yankunytjatjara,2015,2568
-5327,anangu pitjantjatjara yankunytjatjara,2016,2498
-5328,anangu pitjantjatjara yankunytjatjara,2017,2476
-5329,anangu pitjantjatjara yankunytjatjara,2018,2491
-5330,anangu pitjantjatjara yankunytjatjara,2019,2506
-5331,anangu pitjantjatjara yankunytjatjara,2020,2515
-5332,anangu pitjantjatjara yankunytjatjara,2021,2554
-5333,anangu pitjantjatjara yankunytjatjara,2022,2598
-5334,anangu pitjantjatjara yankunytjatjara,2023,2632
-5335,exmouth,2013,2655
-5336,exmouth,2014,2717
-5337,exmouth,2015,2749
-5338,exmouth,2016,2788
-5339,exmouth,2017,2871
-5340,exmouth,2018,2949
-5341,exmouth,2019,3036
-5342,exmouth,2020,3151
-5343,exmouth,2021,3202
-5344,exmouth,2022,3315
-5345,exmouth,2023,3466
-5346,alexandrina,2013,25203
-5347,alexandrina,2014,25705
-5348,alexandrina,2015,26203
-5349,alexandrina,2016,26562
-5350,alexandrina,2017,26919
-5351,alexandrina,2018,27322
-5352,alexandrina,2019,27820
-5353,alexandrina,2020,28400
-5354,alexandrina,2021,29257
-5355,alexandrina,2022,29746
-5356,alexandrina,2023,30323
-5357,boroondara,2013,170485
-5358,boroondara,2014,172660
-5359,boroondara,2015,174753
-5360,boroondara,2016,177276
-5361,boroondara,2017,178650
-5362,boroondara,2018,179386
-5363,boroondara,2019,179663
-5364,boroondara,2020,177875
-5365,boroondara,2021,169789
-5366,boroondara,2022,169632
-5367,boroondara,2023,174537
-5368,chittering,2013,5112
-5369,chittering,2014,5361
-5370,chittering,2015,5500
-5371,chittering,2016,5536
-5372,chittering,2017,5602
-5373,chittering,2018,5705
-5374,chittering,2019,5846
-5375,chittering,2020,5952
-5376,chittering,2021,6099
-5377,chittering,2022,6298
-5378,chittering,2023,6516
-5379,york,2013,3619
-5380,york,2014,3609
-5381,york,2015,3599
-5382,york,2016,3605
-5383,york,2017,3591
-5384,york,2018,3573
-5385,york,2019,3551
-5386,york,2020,3567
-5387,york,2021,3553
-5388,york,2022,3567
-5389,york,2023,3602
-5390,mid-coast,2013,89940
-5391,mid-coast,2014,90468
-5392,mid-coast,2015,91038
-5393,mid-coast,2016,91801
-5394,mid-coast,2017,92901
-5395,mid-coast,2018,93900
-5396,mid-coast,2019,94826
-5397,mid-coast,2020,95731
-5398,mid-coast,2021,96475
-5399,mid-coast,2022,97227
-5400,mid-coast,2023,97909
-5401,broken hill,2013,18802
-5402,broken hill,2014,18627
-5403,broken hill,2015,18360
-5404,broken hill,2016,18114
-5405,broken hill,2017,17994
-5406,broken hill,2018,17914
-5407,broken hill,2019,17801
-5408,broken hill,2020,17718
-5409,broken hill,2021,17662
-5410,broken hill,2022,17567
-5411,broken hill,2023,17624
-5412,unincorporated vic,2013,808
-5413,unincorporated vic,2014,835
-5414,unincorporated vic,2015,862
-5415,unincorporated vic,2016,892
-5416,unincorporated vic,2017,901
-5417,unincorporated vic,2018,911
-5418,unincorporated vic,2019,918
-5419,unincorporated vic,2020,934
-5420,unincorporated vic,2021,946
-5421,unincorporated vic,2022,961
-5422,unincorporated vic,2023,953
-5423,logan,2013,300545
-5424,logan,2014,305147
-5425,logan,2015,309342
-5426,logan,2016,314511
-5427,logan,2017,321102
-5428,logan,2018,327769
-5429,logan,2019,335955
-5430,logan,2020,343821
-5431,logan,2021,350673
-5432,logan,2022,363059
-5433,logan,2023,377773
-5434,toowoomba,2013,159916
-5435,toowoomba,2014,161523
-5436,toowoomba,2015,162775
-5437,toowoomba,2016,164168
-5438,toowoomba,2017,166901
-5439,toowoomba,2018,169319
-5440,toowoomba,2019,171566
-5441,toowoomba,2020,173562
-5442,toowoomba,2021,175255
-5443,toowoomba,2022,178387
-5444,toowoomba,2023,181821
-5445,coober pedy,2013,1811
-5446,coober pedy,2014,1825
-5447,coober pedy,2015,1822
-5448,coober pedy,2016,1818
-5449,coober pedy,2017,1806
-5450,coober pedy,2018,1777
-5451,coober pedy,2019,1740
-5452,coober pedy,2020,1689
-5453,coober pedy,2021,1622
-5454,coober pedy,2022,1573
-5455,coober pedy,2023,1550
-5456,brewarrina,2013,1830
-5457,brewarrina,2014,1786
-5458,brewarrina,2015,1762
-5459,brewarrina,2016,1710
-5460,brewarrina,2017,1683
-5461,brewarrina,2018,1637
-5462,brewarrina,2019,1591
-5463,brewarrina,2020,1525
-5464,brewarrina,2021,1487
-5465,brewarrina,2022,1431
-5466,brewarrina,2023,1411
-5467,blayney,2013,7303
-5468,blayney,2014,7322
-5469,blayney,2015,7322
-5470,blayney,2016,7343
-5471,blayney,2017,7375
-5472,blayney,2018,7406
-5473,blayney,2019,7450
-5474,blayney,2020,7484
-5475,blayney,2021,7511
-5476,blayney,2022,7590
-5477,blayney,2023,7644
-5478,kangaroo island,2013,4630
-5479,kangaroo island,2014,4694
-5480,kangaroo island,2015,4761
-5481,kangaroo island,2016,4836
-5482,kangaroo island,2017,4849
-5483,kangaroo island,2018,4886
-5484,kangaroo island,2019,4909
-5485,kangaroo island,2020,4925
-5486,kangaroo island,2021,4999
-5487,kangaroo island,2022,5088
-5488,kangaroo island,2023,5125
-5489,moree plains,2013,13925
-5490,moree plains,2014,13853
-5491,moree plains,2015,13735
-5492,moree plains,2016,13627
-5493,moree plains,2017,13497
-5494,moree plains,2018,13355
-5495,moree plains,2019,13215
-5496,moree plains,2020,13047
-5497,moree plains,2021,12964
-5498,moree plains,2022,12868
-5499,moree plains,2023,12873
-5500,hepburn,2013,15022
-5501,hepburn,2014,15184
-5502,hepburn,2015,15334
-5503,hepburn,2016,15525
-5504,hepburn,2017,15708
-5505,hepburn,2018,15902
-5506,hepburn,2019,16105
-5507,hepburn,2020,16339
-5508,hepburn,2021,16485
-5509,hepburn,2022,16573
-5510,hepburn,2023,16670
-5511,chapman valley,2013,1349
-5512,chapman valley,2014,1379
-5513,chapman valley,2015,1413
-5514,chapman valley,2016,1441
-5515,chapman valley,2017,1462
-5516,chapman valley,2018,1485
-5517,chapman valley,2019,1523
-5518,chapman valley,2020,1568
-5519,chapman valley,2021,1613
-5520,chapman valley,2022,1636
-5521,chapman valley,2023,1663
-5522,meekatharra,2013,1426
-5523,meekatharra,2014,1335
-5524,meekatharra,2015,1224
-5525,meekatharra,2016,1110
-5526,meekatharra,2017,1118
-5527,meekatharra,2018,1128
-5528,meekatharra,2019,1167
-5529,meekatharra,2020,1213
-5530,meekatharra,2021,1287
-5531,meekatharra,2022,1295
-5532,meekatharra,2023,1294
-5533,glamorgan-spring bay,2013,4425
-5534,glamorgan-spring bay,2014,4430
-5535,glamorgan-spring bay,2015,4433
-5536,glamorgan-spring bay,2016,4451
-5537,glamorgan-spring bay,2017,4538
-5538,glamorgan-spring bay,2018,4653
-5539,glamorgan-spring bay,2019,4791
-5540,glamorgan-spring bay,2020,4972
-5541,glamorgan-spring bay,2021,5113
-5542,glamorgan-spring bay,2022,5188
-5543,glamorgan-spring bay,2023,5237
-5544,gympie,2013,48491
-5545,gympie,2014,49089
-5546,gympie,2015,49540
-5547,gympie,2016,50327
-5548,gympie,2017,51110
-5549,gympie,2018,51665
-5550,gympie,2019,52489
-5551,gympie,2020,53021
-5552,gympie,2021,53851
-5553,gympie,2022,55108
-5554,gympie,2023,56166
-5555,mildura,2013,53156
-5556,mildura,2014,53737
-5557,mildura,2015,54156
-5558,mildura,2016,54658
-5559,mildura,2017,55433
-5560,mildura,2018,56154
-5561,mildura,2019,56764
-5562,mildura,2020,57335
-5563,mildura,2021,56966
-5564,mildura,2022,57250
-5565,mildura,2023,57554
-5566,lake grace,2013,1374
-5567,lake grace,2014,1329
-5568,lake grace,2015,1306
-5569,lake grace,2016,1300
-5570,lake grace,2017,1296
-5571,lake grace,2018,1290
-5572,lake grace,2019,1289
-5573,lake grace,2020,1305
-5574,lake grace,2021,1299
-5575,lake grace,2022,1290
-5576,lake grace,2023,1301
-5577,hobart,2013,50839
-5578,hobart,2014,51232
-5579,hobart,2015,51591
-5580,hobart,2016,52018
-5581,hobart,2017,53231
-5582,hobart,2018,54286
-5583,hobart,2019,55482
-5584,hobart,2020,56208
-5585,hobart,2021,55947
-5586,hobart,2022,56018
-5587,hobart,2023,55964
-5588,port macquarie-hastings,2013,77043
-5589,port macquarie-hastings,2014,78048
-5590,port macquarie-hastings,2015,78997
-5591,port macquarie-hastings,2016,80073
-5592,port macquarie-hastings,2017,81386
-5593,port macquarie-hastings,2018,82780
-5594,port macquarie-hastings,2019,84167
-5595,port macquarie-hastings,2020,85499
-5596,port macquarie-hastings,2021,86638
-5597,port macquarie-hastings,2022,88305
-5598,port macquarie-hastings,2023,89596
-5599,queanbeyan-palerang regional,2013,55920
-5600,queanbeyan-palerang regional,2014,56537
-5601,queanbeyan-palerang regional,2015,57130
-5602,queanbeyan-palerang regional,2016,57790
-5603,queanbeyan-palerang regional,2017,59000
-5604,queanbeyan-palerang regional,2018,60212
-5605,queanbeyan-palerang regional,2019,61423
-5606,queanbeyan-palerang regional,2020,62506
-5607,queanbeyan-palerang regional,2021,63404
-5608,queanbeyan-palerang regional,2022,64236
-5609,queanbeyan-palerang regional,2023,65369
-5610,laverton,2013,1428
-5611,laverton,2014,1367
-5612,laverton,2015,1299
-5613,laverton,2016,1222
-5614,laverton,2017,1262
-5615,laverton,2018,1302
-5616,laverton,2019,1331
-5617,laverton,2020,1377
-5618,laverton,2021,1432
-5619,laverton,2022,1434
-5620,laverton,2023,1439
-5621,burnie,2013,19755
-5622,burnie,2014,19565
-5623,burnie,2015,19408
-5624,burnie,2016,19228
-5625,burnie,2017,19354
-5626,burnie,2018,19601
-5627,burnie,2019,19899
-5628,burnie,2020,20171
-5629,burnie,2021,20408
-5630,burnie,2022,20470
-5631,burnie,2023,20463
-5632,kwinana,2013,34707
-5633,kwinana,2014,36444
-5634,kwinana,2015,38153
-5635,kwinana,2016,40058
-5636,kwinana,2017,41672
-5637,kwinana,2018,43172
-5638,kwinana,2019,44700
-5639,kwinana,2020,46243
-5640,kwinana,2021,47660
-5641,kwinana,2022,49542
-5642,kwinana,2023,52103
-5643,ararat,2013,11490
-5644,ararat,2014,11560
-5645,ararat,2015,11644
-5646,ararat,2016,11745
-5647,ararat,2017,11796
-5648,ararat,2018,11805
-5649,ararat,2019,11838
-5650,ararat,2020,11918
-5651,ararat,2021,11827
-5652,ararat,2022,11758
-5653,ararat,2023,11683
-5654,brimbank,2013,196169
-5655,brimbank,2014,198468
-5656,brimbank,2015,200860
-5657,brimbank,2016,204190
-5658,brimbank,2017,206116
-5659,brimbank,2018,206977
-5660,brimbank,2019,206771
-5661,brimbank,2020,204213
-5662,brimbank,2021,196631
-5663,brimbank,2022,193392
-5664,brimbank,2023,196046
-5665,charters towers,2013,12391
-5666,charters towers,2014,12367
-5667,charters towers,2015,12235
-5668,charters towers,2016,12087
-5669,charters towers,2017,12021
-5670,charters towers,2018,11954
-5671,charters towers,2019,11890
-5672,charters towers,2020,11923
-5673,charters towers,2021,11920
-5674,charters towers,2022,11979
-5675,charters towers,2023,12013
-5676,cleve,2013,1806
-5677,cleve,2014,1809
-5678,cleve,2015,1803
-5679,cleve,2016,1816
-5680,cleve,2017,1817
-5681,cleve,2018,1805
-5682,cleve,2019,1794
-5683,cleve,2020,1777
-5684,cleve,2021,1775
-5685,cleve,2022,1764
-5686,cleve,2023,1757
-5687,wangaratta,2013,27650
-5688,wangaratta,2014,27862
-5689,wangaratta,2015,28143
-5690,wangaratta,2016,28592
-5691,wangaratta,2017,28951
-5692,wangaratta,2018,29269
-5693,wangaratta,2019,29439
-5694,wangaratta,2020,29517
-5695,wangaratta,2021,29751
-5696,wangaratta,2022,29915
-5697,wangaratta,2023,30002
-5698,west coast,2013,4573
-5699,west coast,2014,4392
-5700,west coast,2015,4299
-5701,west coast,2016,4210
-5702,west coast,2017,4206
-5703,west coast,2018,4255
-5704,west coast,2019,4292
-5705,west coast,2020,4311
-5706,west coast,2021,4366
-5707,west coast,2022,4351
-5708,west coast,2023,4359
-5709,wingecarribee,2013,46964
-5710,wingecarribee,2014,47470
-5711,wingecarribee,2015,48150
-5712,wingecarribee,2016,48998
-5713,wingecarribee,2017,49790
-5714,wingecarribee,2018,50562
-5715,wingecarribee,2019,51302
-5716,wingecarribee,2020,52018
-5717,wingecarribee,2021,52489
-5718,wingecarribee,2022,52795
-5719,wingecarribee,2023,53109
-5720,warrnambool,2013,33423
-5721,warrnambool,2014,33729
-5722,warrnambool,2015,34005
-5723,warrnambool,2016,34242
-5724,warrnambool,2017,34520
-5725,warrnambool,2018,34823
-5726,warrnambool,2019,35104
-5727,warrnambool,2020,35418
-5728,warrnambool,2021,35433
-5729,warrnambool,2022,35576
-5730,warrnambool,2023,35907
-5731,cobar,2013,4740
-5732,cobar,2014,4727
-5733,cobar,2015,4703
-5734,cobar,2016,4687
-5735,cobar,2017,4605
-5736,cobar,2018,4528
-5737,cobar,2019,4401
-5738,cobar,2020,4213
-5739,cobar,2021,4098
-5740,cobar,2022,4046
-5741,cobar,2023,4078
-5742,southern mallee,2013,2088
-5743,southern mallee,2014,2073
-5744,southern mallee,2015,2058
-5745,southern mallee,2016,2063
-5746,southern mallee,2017,2055
-5747,southern mallee,2018,2051
-5748,southern mallee,2019,2047
-5749,southern mallee,2020,2040
-5750,southern mallee,2021,2026
-5751,southern mallee,2022,2010
-5752,southern mallee,2023,2012
-5753,victoria plains,2013,932
-5754,victoria plains,2014,934
-5755,victoria plains,2015,931
-5756,victoria plains,2016,924
-5757,victoria plains,2017,914
-5758,victoria plains,2018,894
-5759,victoria plains,2019,864
-5760,victoria plains,2020,847
-5761,victoria plains,2021,832
-5762,victoria plains,2022,824
-5763,victoria plains,2023,824
-5764,mount alexander,2013,18247
-5765,mount alexander,2014,18501
-5766,mount alexander,2015,18794
-5767,mount alexander,2016,19097
-5768,mount alexander,2017,19297
-5769,mount alexander,2018,19500
-5770,mount alexander,2019,19696
-5771,mount alexander,2020,19939
-5772,mount alexander,2021,20114
-5773,mount alexander,2022,20324
-5774,mount alexander,2023,20576
-5775,yarriambiack,2013,7032
-5776,yarriambiack,2014,6924
-5777,yarriambiack,2015,6826
-5778,yarriambiack,2016,6743
-5779,yarriambiack,2017,6708
-5780,yarriambiack,2018,6698
-5781,yarriambiack,2019,6675
-5782,yarriambiack,2020,6641
-5783,yarriambiack,2021,6510
-5784,yarriambiack,2022,6437
-5785,yarriambiack,2023,6389
-5786,greater geraldton,2013,39838
-5787,greater geraldton,2014,40114
-5788,greater geraldton,2015,39958
-5789,greater geraldton,2016,39567
-5790,greater geraldton,2017,39692
-5791,greater geraldton,2018,39976
-5792,greater geraldton,2019,40173
-5793,greater geraldton,2020,40641
-5794,greater geraldton,2021,41182
-5795,greater geraldton,2022,41515
-5796,greater geraldton,2023,41914
-5797,junee,2013,6213
-5798,junee,2014,6283
-5799,junee,2015,6336
-5800,junee,2016,6414
-5801,junee,2017,6441
-5802,junee,2018,6446
-5803,junee,2019,6452
-5804,junee,2020,6463
-5805,junee,2021,6454
-5806,junee,2022,6465
-5807,junee,2023,6520
-5808,lockyer valley,2013,37682
-5809,lockyer valley,2014,38363
-5810,lockyer valley,2015,38861
-5811,lockyer valley,2016,39499
-5812,lockyer valley,2017,40003
-5813,lockyer valley,2018,40539
-5814,lockyer valley,2019,41020
-5815,lockyer valley,2020,41366
-5816,lockyer valley,2021,41750
-5817,lockyer valley,2022,42628
-5818,lockyer valley,2023,43847
-5819,north burnett,2013,10487
-5820,north burnett,2014,10547
-5821,north burnett,2015,10607
-5822,north burnett,2016,10646
-5823,north burnett,2017,10556
-5824,north burnett,2018,10406
-5825,north burnett,2019,10268
-5826,north burnett,2020,10206
-5827,north burnett,2021,10142
-5828,north burnett,2022,10216
-5829,north burnett,2023,10352
-5830,bridgetown-greenbushes,2013,4647
-5831,bridgetown-greenbushes,2014,4687
-5832,bridgetown-greenbushes,2015,4727
-5833,bridgetown-greenbushes,2016,4697
-5834,bridgetown-greenbushes,2017,4815
-5835,bridgetown-greenbushes,2018,4938
-5836,bridgetown-greenbushes,2019,5063
-5837,bridgetown-greenbushes,2020,5188
-5838,bridgetown-greenbushes,2021,5376
-5839,bridgetown-greenbushes,2022,5527
-5840,bridgetown-greenbushes,2023,5669
-5841,unincorporated sa,2013,4199
-5842,unincorporated sa,2014,4027
-5843,unincorporated sa,2015,3849
-5844,unincorporated sa,2016,3639
-5845,unincorporated sa,2017,3476
-5846,unincorporated sa,2018,3418
-5847,unincorporated sa,2019,3340
-5848,unincorporated sa,2020,3229
-5849,unincorporated sa,2021,3100
-5850,unincorporated sa,2022,3024
-5851,unincorporated sa,2023,3015
-5852,leeton,2013,11413
-5853,leeton,2014,11408
-5854,leeton,2015,11411
-5855,leeton,2016,11407
-5856,leeton,2017,11438
-5857,leeton,2018,11459
-5858,leeton,2019,11489
-5859,leeton,2020,11500
-5860,leeton,2021,11480
-5861,leeton,2022,11454
-5862,leeton,2023,11431
-5863,maribyrnong,2013,79782
-5864,maribyrnong,2014,82463
-5865,maribyrnong,2015,84783
-5866,maribyrnong,2016,86942
-5867,maribyrnong,2017,88120
-5868,maribyrnong,2018,88871
-5869,maribyrnong,2019,89460
-5870,maribyrnong,2020,89418
-5871,maribyrnong,2021,86385
-5872,maribyrnong,2022,87605
-5873,maribyrnong,2023,91762
-5874,murray,2013,16087
-5875,murray,2014,16542
-5876,murray,2015,16909
-5877,murray,2016,17126
-5878,murray,2017,17371
-5879,murray,2018,17648
-5880,murray,2019,17950
-5881,murray,2020,18274
-5882,murray,2021,18639
-5883,murray,2022,19116
-5884,murray,2023,19823
-5885,glenorchy,2013,45745
-5886,glenorchy,2014,46044
-5887,glenorchy,2015,46307
-5888,glenorchy,2016,46722
-5889,glenorchy,2017,47921
-5890,glenorchy,2018,49082
-5891,glenorchy,2019,50068
-5892,glenorchy,2020,50652
-5893,glenorchy,2021,51159
-5894,glenorchy,2022,51012
-5895,glenorchy,2023,50808
-5896,mid-western regional,2013,23742
-5897,mid-western regional,2014,24059
-5898,mid-western regional,2015,24374
-5899,mid-western regional,2016,24546
-5900,mid-western regional,2017,24889
-5901,mid-western regional,2018,25181
-5902,mid-western regional,2019,25416
-5903,mid-western regional,2020,25589
-5904,mid-western regional,2021,25714
-5905,mid-western regional,2022,25795
-5906,mid-western regional,2023,25921
-5907,woodanilling,2013,430
-5908,woodanilling,2014,429
-5909,woodanilling,2015,423
-5910,woodanilling,2016,415
-5911,woodanilling,2017,433
-5912,woodanilling,2018,443
-5913,woodanilling,2019,453
-5914,woodanilling,2020,461
-5915,woodanilling,2021,469
-5916,woodanilling,2022,470
-5917,woodanilling,2023,479
-5918,salisbury,2013,135880
-5919,salisbury,2014,137257
-5920,salisbury,2015,138695
-5921,salisbury,2016,140346
-5922,salisbury,2017,142061
-5923,salisbury,2018,143765
-5924,salisbury,2019,145467
-5925,salisbury,2020,147359
-5926,salisbury,2021,147521
-5927,salisbury,2022,147940
-5928,salisbury,2023,149214
-5929,upper gascoyne,2013,270
-5930,upper gascoyne,2014,275
-5931,upper gascoyne,2015,278
-5932,upper gascoyne,2016,282
-5933,upper gascoyne,2017,255
-5934,upper gascoyne,2018,234
-5935,upper gascoyne,2019,219
-5936,upper gascoyne,2020,201
-5937,upper gascoyne,2021,180
-5938,upper gascoyne,2022,188
-5939,upper gascoyne,2023,201
-5940,bland,2013,6028
-5941,bland,2014,6034
-5942,bland,2015,6027
-5943,bland,2016,6024
-5944,bland,2017,5936
-5945,bland,2018,5849
-5946,bland,2019,5755
-5947,bland,2020,5649
-5948,bland,2021,5544
-5949,bland,2022,5493
-5950,bland,2023,5464
-5951,cuballing,2013,901
-5952,cuballing,2014,902
-5953,cuballing,2015,900
-5954,cuballing,2016,882
-5955,cuballing,2017,893
-5956,cuballing,2018,888
-5957,cuballing,2019,890
-5958,cuballing,2020,906
-5959,cuballing,2021,927
-5960,cuballing,2022,929
-5961,cuballing,2023,951
-5962,cherbourg,2013,1292
-5963,cherbourg,2014,1300
-5964,cherbourg,2015,1304
-5965,cherbourg,2016,1293
-5966,cherbourg,2017,1283
-5967,cherbourg,2018,1257
-5968,cherbourg,2019,1244
-5969,cherbourg,2020,1220
-5970,cherbourg,2021,1211
-5971,cherbourg,2022,1228
-5972,cherbourg,2023,1264
-5973,murchison,2013,146
-5974,murchison,2014,150
-5975,murchison,2015,155
-5976,murchison,2016,158
-5977,murchison,2017,152
-5978,murchison,2018,140
-5979,murchison,2019,129
-5980,murchison,2020,117
-5981,murchison,2021,108
-5982,murchison,2022,108
-5983,murchison,2023,106
-5984,central coast (tas.),2013,22122
-5985,central coast (tas.),2014,21989
-5986,central coast (tas.),2015,21847
-5987,central coast (tas.),2016,21736
-5988,central coast (tas.),2017,22002
-5989,central coast (tas.),2018,22284
-5990,central coast (tas.),2019,22532
-5991,central coast (tas.),2020,22894
-5992,central coast (tas.),2021,23258
-5993,central coast (tas.),2022,23342
-5994,central coast (tas.),2023,23331
-5995,port stephens,2013,68750
-5996,port stephens,2014,69537
-5997,port stephens,2015,70257
-5998,port stephens,2016,71115
-5999,port stephens,2017,71829
-6000,port stephens,2018,72609
-6001,port stephens,2019,73509
-6002,port stephens,2020,74450
-6003,port stephens,2021,75328
-6004,port stephens,2022,76669
-6005,port stephens,2023,77748
-6006,dungog,2013,8791
-6007,dungog,2014,8918
-6008,dungog,2015,9008
-6009,dungog,2016,9101
-6010,dungog,2017,9154
-6011,dungog,2018,9259
-6012,dungog,2019,9329
-6013,dungog,2020,9450
-6014,dungog,2021,9532
-6015,dungog,2022,9721
-6016,dungog,2023,9767
+lga,year,lga_population
+alpine,2013.0,12283.0
+alpine,2014.0,12355.0
+alpine,2015.0,12429.0
+alpine,2016.0,12578.0
+alpine,2017.0,12687.0
+alpine,2018.0,12822.0
+alpine,2019.0,12904.0
+alpine,2020.0,13054.0
+alpine,2021.0,13166.0
+alpine,2022.0,13191.0
+alpine,2023.0,13182.0
+ararat,2013.0,11490.0
+ararat,2014.0,11560.0
+ararat,2015.0,11644.0
+ararat,2016.0,11745.0
+ararat,2017.0,11796.0
+ararat,2018.0,11805.0
+ararat,2019.0,11838.0
+ararat,2020.0,11918.0
+ararat,2021.0,11827.0
+ararat,2022.0,11758.0
+ararat,2023.0,11683.0
+ballarat,2013.0,98344.0
+ballarat,2014.0,99914.0
+ballarat,2015.0,101479.0
+ballarat,2016.0,103500.0
+ballarat,2017.0,105551.0
+ballarat,2018.0,107608.0
+ballarat,2019.0,109773.0
+ballarat,2020.0,111645.0
+ballarat,2021.0,113504.0
+ballarat,2022.0,116011.0
+ballarat,2023.0,118137.0
+banyule,2013.0,124314.0
+banyule,2014.0,125107.0
+banyule,2015.0,126088.0
+banyule,2016.0,127447.0
+banyule,2017.0,128660.0
+banyule,2018.0,129645.0
+banyule,2019.0,130607.0
+banyule,2020.0,130294.0
+banyule,2021.0,127370.0
+banyule,2022.0,127427.0
+banyule,2023.0,129602.0
+bass coast,2013.0,31331.0
+bass coast,2014.0,31917.0
+bass coast,2015.0,32576.0
+bass coast,2016.0,33464.0
+bass coast,2017.0,34748.0
+bass coast,2018.0,36083.0
+bass coast,2019.0,37440.0
+bass coast,2020.0,38950.0
+bass coast,2021.0,40675.0
+bass coast,2022.0,41813.0
+bass coast,2023.0,42729.0
+baw baw,2013.0,45627.0
+baw baw,2014.0,46644.0
+baw baw,2015.0,47837.0
+baw baw,2016.0,49296.0
+baw baw,2017.0,50883.0
+baw baw,2018.0,52447.0
+baw baw,2019.0,54047.0
+baw baw,2020.0,55753.0
+baw baw,2021.0,57618.0
+baw baw,2022.0,59277.0
+baw baw,2023.0,60644.0
+bayside,2013.0,98252.0
+bayside,2014.0,99797.0
+bayside,2015.0,101268.0
+bayside,2016.0,102912.0
+bayside,2017.0,103665.0
+bayside,2018.0,104623.0
+bayside,2019.0,105128.0
+bayside,2020.0,105018.0
+bayside,2021.0,102328.0
+bayside,2022.0,102241.0
+bayside,2023.0,104272.0
+benalla,2013.0,13878.0
+benalla,2014.0,13898.0
+benalla,2015.0,13923.0
+benalla,2016.0,13982.0
+benalla,2017.0,14049.0
+benalla,2018.0,14158.0
+benalla,2019.0,14237.0
+benalla,2020.0,14382.0
+benalla,2021.0,14436.0
+benalla,2022.0,14463.0
+benalla,2023.0,14529.0
+boroondara,2013.0,170485.0
+boroondara,2014.0,172660.0
+boroondara,2015.0,174753.0
+boroondara,2016.0,177276.0
+boroondara,2017.0,178650.0
+boroondara,2018.0,179386.0
+boroondara,2019.0,179663.0
+boroondara,2020.0,177875.0
+boroondara,2021.0,169789.0
+boroondara,2022.0,169632.0
+boroondara,2023.0,174537.0
+brimbank,2013.0,196169.0
+brimbank,2014.0,198468.0
+brimbank,2015.0,200860.0
+brimbank,2016.0,204190.0
+brimbank,2017.0,206116.0
+brimbank,2018.0,206977.0
+brimbank,2019.0,206771.0
+brimbank,2020.0,204213.0
+brimbank,2021.0,196631.0
+brimbank,2022.0,193392.0
+brimbank,2023.0,196046.0
+buloke,2013.0,6388.0
+buloke,2014.0,6335.0
+buloke,2015.0,6306.0
+buloke,2016.0,6284.0
+buloke,2017.0,6221.0
+buloke,2018.0,6214.0
+buloke,2019.0,6166.0
+buloke,2020.0,6156.0
+buloke,2021.0,6132.0
+buloke,2022.0,6120.0
+buloke,2023.0,6040.0
+campaspe,2013.0,37213.0
+campaspe,2014.0,37338.0
+campaspe,2015.0,37429.0
+campaspe,2016.0,37595.0
+campaspe,2017.0,37799.0
+campaspe,2018.0,37948.0
+campaspe,2019.0,38128.0
+campaspe,2020.0,38379.0
+campaspe,2021.0,38556.0
+campaspe,2022.0,38556.0
+campaspe,2023.0,38299.0
+cardinia,2013.0,84591.0
+cardinia,2014.0,88070.0
+cardinia,2015.0,92298.0
+cardinia,2016.0,97573.0
+cardinia,2017.0,102258.0
+cardinia,2018.0,106945.0
+cardinia,2019.0,112002.0
+cardinia,2020.0,116505.0
+cardinia,2021.0,119573.0
+cardinia,2022.0,123181.0
+cardinia,2023.0,126960.0
+casey,2013.0,278023.0
+casey,2014.0,287937.0
+casey,2015.0,299528.0
+casey,2016.0,312789.0
+casey,2017.0,324946.0
+casey,2018.0,338087.0
+casey,2019.0,352006.0
+casey,2020.0,363970.0
+casey,2021.0,369558.0
+casey,2022.0,379104.0
+casey,2023.0,392110.0
+central goldfields,2013.0,12815.0
+central goldfields,2014.0,12884.0
+central goldfields,2015.0,12950.0
+central goldfields,2016.0,13087.0
+central goldfields,2017.0,13200.0
+central goldfields,2018.0,13330.0
+central goldfields,2019.0,13349.0
+central goldfields,2020.0,13304.0
+central goldfields,2021.0,13388.0
+central goldfields,2022.0,13520.0
+central goldfields,2023.0,13574.0
+colac otway,2013.0,21035.0
+colac otway,2014.0,21131.0
+colac otway,2015.0,21230.0
+colac otway,2016.0,21362.0
+colac otway,2017.0,21595.0
+colac otway,2018.0,21823.0
+colac otway,2019.0,22037.0
+colac otway,2020.0,22274.0
+colac otway,2021.0,22309.0
+colac otway,2022.0,22198.0
+colac otway,2023.0,22273.0
+corangamite,2013.0,16410.0
+corangamite,2014.0,16340.0
+corangamite,2015.0,16274.0
+corangamite,2016.0,16243.0
+corangamite,2017.0,16279.0
+corangamite,2018.0,16231.0
+corangamite,2019.0,16171.0
+corangamite,2020.0,16108.0
+corangamite,2021.0,16030.0
+corangamite,2022.0,15999.0
+corangamite,2023.0,15948.0
+darebin,2013.0,147272.0
+darebin,2014.0,149511.0
+darebin,2015.0,151974.0
+darebin,2016.0,155126.0
+darebin,2017.0,156525.0
+darebin,2018.0,157103.0
+darebin,2019.0,157298.0
+darebin,2020.0,157056.0
+darebin,2021.0,150296.0
+darebin,2022.0,150605.0
+darebin,2023.0,155683.0
+east gippsland,2013.0,43809.0
+east gippsland,2014.0,44277.0
+east gippsland,2015.0,44868.0
+east gippsland,2016.0,45600.0
+east gippsland,2017.0,46219.0
+east gippsland,2018.0,46881.0
+east gippsland,2019.0,47464.0
+east gippsland,2020.0,47874.0
+east gippsland,2021.0,48477.0
+east gippsland,2022.0,48939.0
+east gippsland,2023.0,49179.0
+frankston,2013.0,134351.0
+frankston,2014.0,136181.0
+frankston,2015.0,137790.0
+frankston,2016.0,139502.0
+frankston,2017.0,140601.0
+frankston,2018.0,141531.0
+frankston,2019.0,141970.0
+frankston,2020.0,142191.0
+frankston,2021.0,140824.0
+frankston,2022.0,141161.0
+frankston,2023.0,142826.0
+gannawarra,2013.0,10526.0
+gannawarra,2014.0,10534.0
+gannawarra,2015.0,10536.0
+gannawarra,2016.0,10567.0
+gannawarra,2017.0,10602.0
+gannawarra,2018.0,10601.0
+gannawarra,2019.0,10562.0
+gannawarra,2020.0,10575.0
+gannawarra,2021.0,10615.0
+gannawarra,2022.0,10534.0
+gannawarra,2023.0,10420.0
+glen eira,2013.0,141260.0
+glen eira,2014.0,143694.0
+glen eira,2015.0,145924.0
+glen eira,2016.0,148583.0
+glen eira,2017.0,150702.0
+glen eira,2018.0,152389.0
+glen eira,2019.0,153936.0
+glen eira,2020.0,154656.0
+glen eira,2021.0,150638.0
+glen eira,2022.0,151824.0
+glen eira,2023.0,156837.0
+glenelg,2013.0,19797.0
+glenelg,2014.0,19755.0
+glenelg,2015.0,19722.0
+glenelg,2016.0,19759.0
+glenelg,2017.0,19802.0
+glenelg,2018.0,19893.0
+glenelg,2019.0,19992.0
+glenelg,2020.0,20055.0
+glenelg,2021.0,20058.0
+glenelg,2022.0,20049.0
+glenelg,2023.0,20022.0
+golden plains,2013.0,20362.0
+golden plains,2014.0,20899.0
+golden plains,2015.0,21388.0
+golden plains,2016.0,22016.0
+golden plains,2017.0,22613.0
+golden plains,2018.0,23191.0
+golden plains,2019.0,23810.0
+golden plains,2020.0,24366.0
+golden plains,2021.0,24892.0
+golden plains,2022.0,25321.0
+golden plains,2023.0,25818.0
+greater bendigo,2013.0,105957.0
+greater bendigo,2014.0,107955.0
+greater bendigo,2015.0,109908.0
+greater bendigo,2016.0,112267.0
+greater bendigo,2017.0,114265.0
+greater bendigo,2018.0,116186.0
+greater bendigo,2019.0,118214.0
+greater bendigo,2020.0,119958.0
+greater bendigo,2021.0,121272.0
+greater bendigo,2022.0,122704.0
+greater bendigo,2023.0,124174.0
+greater dandenong,2013.0,148502.0
+greater dandenong,2014.0,152135.0
+greater dandenong,2015.0,156061.0
+greater dandenong,2016.0,160222.0
+greater dandenong,2017.0,162924.0
+greater dandenong,2018.0,164895.0
+greater dandenong,2019.0,166296.0
+greater dandenong,2020.0,165648.0
+greater dandenong,2021.0,160100.0
+greater dandenong,2022.0,159294.0
+greater dandenong,2023.0,163792.0
+greater geelong,2013.0,223357.0
+greater geelong,2014.0,227744.0
+greater geelong,2015.0,232926.0
+greater geelong,2016.0,239529.0
+greater geelong,2017.0,246384.0
+greater geelong,2018.0,253175.0
+greater geelong,2019.0,260134.0
+greater geelong,2020.0,266036.0
+greater geelong,2021.0,270932.0
+greater geelong,2022.0,276601.0
+greater geelong,2023.0,282809.0
+greater shepparton,2013.0,63244.0
+greater shepparton,2014.0,63919.0
+greater shepparton,2015.0,64489.0
+greater shepparton,2016.0,65072.0
+greater shepparton,2017.0,65955.0
+greater shepparton,2018.0,66826.0
+greater shepparton,2019.0,67733.0
+greater shepparton,2020.0,68474.0
+greater shepparton,2021.0,68526.0
+greater shepparton,2022.0,68964.0
+greater shepparton,2023.0,69135.0
+hepburn,2013.0,15022.0
+hepburn,2014.0,15184.0
+hepburn,2015.0,15334.0
+hepburn,2016.0,15525.0
+hepburn,2017.0,15708.0
+hepburn,2018.0,15902.0
+hepburn,2019.0,16105.0
+hepburn,2020.0,16339.0
+hepburn,2021.0,16485.0
+hepburn,2022.0,16573.0
+hepburn,2023.0,16670.0
+hindmarsh,2013.0,5852.0
+hindmarsh,2014.0,5844.0
+hindmarsh,2015.0,5808.0
+hindmarsh,2016.0,5784.0
+hindmarsh,2017.0,5728.0
+hindmarsh,2018.0,5691.0
+hindmarsh,2019.0,5668.0
+hindmarsh,2020.0,5668.0
+hindmarsh,2021.0,5656.0
+hindmarsh,2022.0,5601.0
+hindmarsh,2023.0,5559.0
+hobsons bay,2013.0,89188.0
+hobsons bay,2014.0,90417.0
+hobsons bay,2015.0,91674.0
+hobsons bay,2016.0,93445.0
+hobsons bay,2017.0,94543.0
+hobsons bay,2018.0,95150.0
+hobsons bay,2019.0,95818.0
+hobsons bay,2020.0,95193.0
+hobsons bay,2021.0,92267.0
+hobsons bay,2022.0,91864.0
+hobsons bay,2023.0,93738.0
+horsham,2013.0,19694.0
+horsham,2014.0,19748.0
+horsham,2015.0,19792.0
+horsham,2016.0,19884.0
+horsham,2017.0,19977.0
+horsham,2018.0,20064.0
+horsham,2019.0,20200.0
+horsham,2020.0,20385.0
+horsham,2021.0,20376.0
+horsham,2022.0,20348.0
+horsham,2023.0,20315.0
+hume,2013.0,184873.0
+hume,2014.0,191278.0
+hume,2015.0,198176.0
+hume,2016.0,207041.0
+hume,2017.0,216249.0
+hume,2018.0,225526.0
+hume,2019.0,235370.0
+hume,2020.0,243643.0
+hume,2021.0,246920.0
+hume,2022.0,253182.0
+hume,2023.0,262764.0
+indigo,2013.0,15605.0
+indigo,2014.0,15732.0
+indigo,2015.0,15922.0
+indigo,2016.0,16165.0
+indigo,2017.0,16390.0
+indigo,2018.0,16613.0
+indigo,2019.0,16876.0
+indigo,2020.0,17115.0
+indigo,2021.0,17251.0
+indigo,2022.0,17425.0
+indigo,2023.0,17662.0
+kingston,2013.0,152336.0
+kingston,2014.0,154210.0
+kingston,2015.0,156244.0
+kingston,2016.0,158941.0
+kingston,2017.0,160140.0
+kingston,2018.0,161685.0
+kingston,2019.0,163178.0
+kingston,2020.0,163196.0
+kingston,2021.0,159554.0
+kingston,2022.0,160107.0
+kingston,2023.0,163724.0
+knox,2013.0,156347.0
+knox,2014.0,157434.0
+knox,2015.0,158700.0
+knox,2016.0,160353.0
+knox,2017.0,161525.0
+knox,2018.0,162459.0
+knox,2019.0,163308.0
+knox,2020.0,163242.0
+knox,2021.0,160481.0
+knox,2022.0,159549.0
+knox,2023.0,161766.0
+latrobe,2013.0,74124.0
+latrobe,2014.0,74134.0
+latrobe,2015.0,74266.0
+latrobe,2016.0,74622.0
+latrobe,2017.0,75088.0
+latrobe,2018.0,75586.0
+latrobe,2019.0,76121.0
+latrobe,2020.0,76714.0
+latrobe,2021.0,77117.0
+latrobe,2022.0,77705.0
+latrobe,2023.0,78154.0
+loddon,2013.0,7518.0
+loddon,2014.0,7513.0
+loddon,2015.0,7531.0
+loddon,2016.0,7558.0
+loddon,2017.0,7569.0
+loddon,2018.0,7602.0
+loddon,2019.0,7629.0
+loddon,2020.0,7657.0
+loddon,2021.0,7703.0
+loddon,2022.0,7750.0
+loddon,2023.0,7747.0
+macedon ranges,2013.0,44595.0
+macedon ranges,2014.0,45471.0
+macedon ranges,2015.0,46373.0
+macedon ranges,2016.0,47480.0
+macedon ranges,2017.0,48415.0
+macedon ranges,2018.0,49302.0
+macedon ranges,2019.0,50162.0
+macedon ranges,2020.0,50894.0
+macedon ranges,2021.0,51599.0
+macedon ranges,2022.0,52202.0
+macedon ranges,2023.0,52920.0
+manningham,2013.0,118357.0
+manningham,2014.0,119437.0
+manningham,2015.0,120785.0
+manningham,2016.0,122570.0
+manningham,2017.0,124126.0
+manningham,2018.0,125091.0
+manningham,2019.0,126873.0
+manningham,2020.0,127987.0
+manningham,2021.0,125821.0
+manningham,2022.0,126570.0
+manningham,2023.0,129514.0
+mansfield,2013.0,8276.0
+mansfield,2014.0,8395.0
+mansfield,2015.0,8530.0
+mansfield,2016.0,8674.0
+mansfield,2017.0,8897.0
+mansfield,2018.0,9153.0
+mansfield,2019.0,9417.0
+mansfield,2020.0,9792.0
+mansfield,2021.0,10121.0
+mansfield,2022.0,10338.0
+mansfield,2023.0,10546.0
+maribyrnong,2013.0,79782.0
+maribyrnong,2014.0,82463.0
+maribyrnong,2015.0,84783.0
+maribyrnong,2016.0,86942.0
+maribyrnong,2017.0,88120.0
+maribyrnong,2018.0,88871.0
+maribyrnong,2019.0,89460.0
+maribyrnong,2020.0,89418.0
+maribyrnong,2021.0,86385.0
+maribyrnong,2022.0,87605.0
+maribyrnong,2023.0,91762.0
+maroondah,2013.0,109781.0
+maroondah,2014.0,111421.0
+maroondah,2015.0,113023.0
+maroondah,2016.0,114800.0
+maroondah,2017.0,116223.0
+maroondah,2018.0,117125.0
+maroondah,2019.0,117965.0
+maroondah,2020.0,118295.0
+maroondah,2021.0,116075.0
+maroondah,2022.0,115759.0
+maroondah,2023.0,117434.0
+melbourne,2013.0,118711.0
+melbourne,2014.0,127975.0
+melbourne,2015.0,136872.0
+melbourne,2016.0,146096.0
+melbourne,2017.0,155956.0
+melbourne,2018.0,163363.0
+melbourne,2019.0,168952.0
+melbourne,2020.0,170589.0
+melbourne,2021.0,153110.0
+melbourne,2022.0,160328.0
+melbourne,2023.0,177396.0
+melton,2013.0,123936.0
+melton,2014.0,129309.0
+melton,2015.0,134915.0
+melton,2016.0,141420.0
+melton,2017.0,148711.0
+melton,2018.0,157019.0
+melton,2019.0,165535.0
+melton,2020.0,173566.0
+melton,2021.0,181346.0
+melton,2022.0,193285.0
+melton,2023.0,206070.0
+merri-bek,2013.0,160282.0
+merri-bek,2014.0,164099.0
+merri-bek,2015.0,167870.0
+merri-bek,2016.0,172294.0
+merri-bek,2017.0,175110.0
+merri-bek,2018.0,177679.0
+merri-bek,2019.0,179327.0
+merri-bek,2020.0,180030.0
+merri-bek,2021.0,173500.0
+merri-bek,2022.0,174886.0
+merri-bek,2023.0,181223.0
+mildura,2013.0,53156.0
+mildura,2014.0,53737.0
+mildura,2015.0,54156.0
+mildura,2016.0,54658.0
+mildura,2017.0,55433.0
+mildura,2018.0,56154.0
+mildura,2019.0,56764.0
+mildura,2020.0,57335.0
+mildura,2021.0,56966.0
+mildura,2022.0,57250.0
+mildura,2023.0,57554.0
+mitchell,2013.0,37788.0
+mitchell,2014.0,39084.0
+mitchell,2015.0,40264.0
+mitchell,2016.0,41795.0
+mitchell,2017.0,43045.0
+mitchell,2018.0,44556.0
+mitchell,2019.0,46373.0
+mitchell,2020.0,48073.0
+mitchell,2021.0,49712.0
+mitchell,2022.0,51682.0
+mitchell,2023.0,53723.0
+moira,2013.0,28905.0
+moira,2014.0,29100.0
+moira,2015.0,29288.0
+moira,2016.0,29486.0
+moira,2017.0,29717.0
+moira,2018.0,29910.0
+moira,2019.0,30099.0
+moira,2020.0,30298.0
+moira,2021.0,30367.0
+moira,2022.0,30584.0
+moira,2023.0,30775.0
+monash,2013.0,183255.0
+monash,2014.0,186150.0
+monash,2015.0,189174.0
+monash,2016.0,192625.0
+monash,2017.0,195666.0
+monash,2018.0,198010.0
+monash,2019.0,199762.0
+monash,2020.0,200791.0
+monash,2021.0,192893.0
+monash,2022.0,195081.0
+monash,2023.0,203560.0
+moonee valley,2013.0,115464.0
+moonee valley,2014.0,117763.0
+moonee valley,2015.0,120231.0
+moonee valley,2016.0,122871.0
+moonee valley,2017.0,124321.0
+moonee valley,2018.0,125487.0
+moonee valley,2019.0,126406.0
+moonee valley,2020.0,126786.0
+moonee valley,2021.0,122950.0
+moonee valley,2022.0,123119.0
+moonee valley,2023.0,126486.0
+moorabool,2013.0,30410.0
+moorabool,2014.0,31066.0
+moorabool,2015.0,31748.0
+moorabool,2016.0,32672.0
+moorabool,2017.0,33689.0
+moorabool,2018.0,34662.0
+moorabool,2019.0,35793.0
+moorabool,2020.0,36944.0
+moorabool,2021.0,37910.0
+moorabool,2022.0,38526.0
+moorabool,2023.0,39092.0
+mornington peninsula,2013.0,154001.0
+mornington peninsula,2014.0,156500.0
+mornington peninsula,2015.0,158831.0
+mornington peninsula,2016.0,161528.0
+mornington peninsula,2017.0,164188.0
+mornington peninsula,2018.0,166564.0
+mornington peninsula,2019.0,168594.0
+mornington peninsula,2020.0,170186.0
+mornington peninsula,2021.0,170440.0
+mornington peninsula,2022.0,169733.0
+mornington peninsula,2023.0,170243.0
+mount alexander,2013.0,18247.0
+mount alexander,2014.0,18501.0
+mount alexander,2015.0,18794.0
+mount alexander,2016.0,19097.0
+mount alexander,2017.0,19297.0
+mount alexander,2018.0,19500.0
+mount alexander,2019.0,19696.0
+mount alexander,2020.0,19939.0
+mount alexander,2021.0,20114.0
+mount alexander,2022.0,20324.0
+mount alexander,2023.0,20576.0
+moyne,2013.0,16431.0
+moyne,2014.0,16512.0
+moyne,2015.0,16591.0
+moyne,2016.0,16737.0
+moyne,2017.0,16779.0
+moyne,2018.0,16897.0
+moyne,2019.0,16997.0
+moyne,2020.0,17091.0
+moyne,2021.0,17296.0
+moyne,2022.0,17478.0
+moyne,2023.0,17610.0
+murrindindi,2013.0,13563.0
+murrindindi,2014.0,13687.0
+murrindindi,2015.0,13848.0
+murrindindi,2016.0,14052.0
+murrindindi,2017.0,14290.0
+murrindindi,2018.0,14561.0
+murrindindi,2019.0,14737.0
+murrindindi,2020.0,14872.0
+murrindindi,2021.0,15139.0
+murrindindi,2022.0,15353.0
+murrindindi,2023.0,15482.0
+nillumbik,2013.0,63174.0
+nillumbik,2014.0,63433.0
+nillumbik,2015.0,63675.0
+nillumbik,2016.0,64174.0
+nillumbik,2017.0,64414.0
+nillumbik,2018.0,64542.0
+nillumbik,2019.0,64464.0
+nillumbik,2020.0,64322.0
+nillumbik,2021.0,63450.0
+nillumbik,2022.0,63066.0
+nillumbik,2023.0,63264.0
+northern grampians,2013.0,11880.0
+northern grampians,2014.0,11777.0
+northern grampians,2015.0,11644.0
+northern grampians,2016.0,11570.0
+northern grampians,2017.0,11591.0
+northern grampians,2018.0,11634.0
+northern grampians,2019.0,11707.0
+northern grampians,2020.0,11805.0
+northern grampians,2021.0,11886.0
+northern grampians,2022.0,11879.0
+northern grampians,2023.0,11879.0
+port phillip,2013.0,102156.0
+port phillip,2014.0,104451.0
+port phillip,2015.0,106381.0
+port phillip,2016.0,108627.0
+port phillip,2017.0,109523.0
+port phillip,2018.0,110733.0
+port phillip,2019.0,111782.0
+port phillip,2020.0,110574.0
+port phillip,2021.0,103438.0
+port phillip,2022.0,104096.0
+port phillip,2023.0,109515.0
+pyrenees,2013.0,6938.0
+pyrenees,2014.0,7047.0
+pyrenees,2015.0,7179.0
+pyrenees,2016.0,7316.0
+pyrenees,2017.0,7325.0
+pyrenees,2018.0,7327.0
+pyrenees,2019.0,7449.0
+pyrenees,2020.0,7544.0
+pyrenees,2021.0,7619.0
+pyrenees,2022.0,7653.0
+pyrenees,2023.0,7786.0
+queenscliffe,2013.0,3002.0
+queenscliffe,2014.0,2970.0
+queenscliffe,2015.0,2933.0
+queenscliffe,2016.0,2929.0
+queenscliffe,2017.0,2923.0
+queenscliffe,2018.0,2954.0
+queenscliffe,2019.0,2973.0
+queenscliffe,2020.0,3095.0
+queenscliffe,2021.0,3236.0
+queenscliffe,2022.0,3221.0
+queenscliffe,2023.0,3238.0
+south gippsland,2013.0,28273.0
+south gippsland,2014.0,28521.0
+south gippsland,2015.0,28781.0
+south gippsland,2016.0,29122.0
+south gippsland,2017.0,29361.0
+south gippsland,2018.0,29604.0
+south gippsland,2019.0,29923.0
+south gippsland,2020.0,30272.0
+south gippsland,2021.0,30388.0
+south gippsland,2022.0,30708.0
+south gippsland,2023.0,30823.0
+southern grampians,2013.0,16355.0
+southern grampians,2014.0,16255.0
+southern grampians,2015.0,16162.0
+southern grampians,2016.0,16123.0
+southern grampians,2017.0,16207.0
+southern grampians,2018.0,16291.0
+southern grampians,2019.0,16378.0
+southern grampians,2020.0,16506.0
+southern grampians,2021.0,16492.0
+southern grampians,2022.0,16401.0
+southern grampians,2023.0,16470.0
+stonnington,2013.0,103487.0
+stonnington,2014.0,105894.0
+stonnington,2015.0,108028.0
+stonnington,2016.0,111003.0
+stonnington,2017.0,112134.0
+stonnington,2018.0,113340.0
+stonnington,2019.0,113800.0
+stonnington,2020.0,112610.0
+stonnington,2021.0,106190.0
+stonnington,2022.0,106524.0
+stonnington,2023.0,111335.0
+strathbogie,2013.0,9867.0
+strathbogie,2014.0,10018.0
+strathbogie,2015.0,10175.0
+strathbogie,2016.0,10357.0
+strathbogie,2017.0,10532.0
+strathbogie,2018.0,10734.0
+strathbogie,2019.0,10907.0
+strathbogie,2020.0,11158.0
+strathbogie,2021.0,11368.0
+strathbogie,2022.0,11515.0
+strathbogie,2023.0,11578.0
+surf coast,2013.0,28228.0
+surf coast,2014.0,28874.0
+surf coast,2015.0,29625.0
+surf coast,2016.0,30465.0
+surf coast,2017.0,31555.0
+surf coast,2018.0,32750.0
+surf coast,2019.0,34213.0
+surf coast,2020.0,35827.0
+surf coast,2021.0,37648.0
+surf coast,2022.0,38672.0
+surf coast,2023.0,39292.0
+swan hill,2013.0,21003.0
+swan hill,2014.0,20940.0
+swan hill,2015.0,20893.0
+swan hill,2016.0,20896.0
+swan hill,2017.0,21069.0
+swan hill,2018.0,21240.0
+swan hill,2019.0,21407.0
+swan hill,2020.0,21499.0
+swan hill,2021.0,21381.0
+swan hill,2022.0,21239.0
+swan hill,2023.0,21212.0
+towong,2013.0,5961.0
+towong,2014.0,5982.0
+towong,2015.0,6005.0
+towong,2016.0,6046.0
+towong,2017.0,6064.0
+towong,2018.0,6100.0
+towong,2019.0,6142.0
+towong,2020.0,6170.0
+towong,2021.0,6186.0
+towong,2022.0,6198.0
+towong,2023.0,6243.0
+wangaratta,2013.0,27650.0
+wangaratta,2014.0,27862.0
+wangaratta,2015.0,28143.0
+wangaratta,2016.0,28592.0
+wangaratta,2017.0,28951.0
+wangaratta,2018.0,29269.0
+wangaratta,2019.0,29439.0
+wangaratta,2020.0,29517.0
+wangaratta,2021.0,29751.0
+wangaratta,2022.0,29915.0
+wangaratta,2023.0,30002.0
+warrnambool,2013.0,33423.0
+warrnambool,2014.0,33729.0
+warrnambool,2015.0,34005.0
+warrnambool,2016.0,34242.0
+warrnambool,2017.0,34520.0
+warrnambool,2018.0,34823.0
+warrnambool,2019.0,35104.0
+warrnambool,2020.0,35418.0
+warrnambool,2021.0,35433.0
+warrnambool,2022.0,35576.0
+warrnambool,2023.0,35907.0
+wellington,2013.0,42721.0
+wellington,2014.0,42948.0
+wellington,2015.0,43172.0
+wellington,2016.0,43530.0
+wellington,2017.0,43872.0
+wellington,2018.0,44233.0
+wellington,2019.0,44676.0
+wellington,2020.0,45105.0
+wellington,2021.0,45469.0
+wellington,2022.0,45818.0
+wellington,2023.0,46124.0
+west wimmera,2013.0,4124.0
+west wimmera,2014.0,4038.0
+west wimmera,2015.0,3974.0
+west wimmera,2016.0,3937.0
+west wimmera,2017.0,3952.0
+west wimmera,2018.0,3964.0
+west wimmera,2019.0,3979.0
+west wimmera,2020.0,3994.0
+west wimmera,2021.0,3978.0
+west wimmera,2022.0,3943.0
+west wimmera,2023.0,3933.0
+whitehorse,2013.0,162081.0
+whitehorse,2014.0,164320.0
+whitehorse,2015.0,166679.0
+whitehorse,2016.0,169641.0
+whitehorse,2017.0,172376.0
+whitehorse,2018.0,174431.0
+whitehorse,2019.0,175862.0
+whitehorse,2020.0,176794.0
+whitehorse,2021.0,171077.0
+whitehorse,2022.0,172607.0
+whitehorse,2023.0,178639.0
+whittlesea,2013.0,179272.0
+whittlesea,2014.0,187899.0
+whittlesea,2015.0,196847.0
+whittlesea,2016.0,207058.0
+whittlesea,2017.0,214426.0
+whittlesea,2018.0,220601.0
+whittlesea,2019.0,226072.0
+whittlesea,2020.0,231040.0
+whittlesea,2021.0,231831.0
+whittlesea,2022.0,237143.0
+whittlesea,2023.0,245029.0
+wodonga,2013.0,37575.0
+wodonga,2014.0,38369.0
+wodonga,2015.0,39223.0
+wodonga,2016.0,40100.0
+wodonga,2017.0,40837.0
+wodonga,2018.0,41541.0
+wodonga,2019.0,42084.0
+wodonga,2020.0,42666.0
+wodonga,2021.0,43207.0
+wodonga,2022.0,43716.0
+wodonga,2023.0,44276.0
+wyndham,2013.0,190211.0
+wyndham,2014.0,201512.0
+wyndham,2015.0,213815.0
+wyndham,2016.0,227008.0
+wyndham,2017.0,241573.0
+wyndham,2018.0,257010.0
+wyndham,2019.0,273201.0
+wyndham,2020.0,287292.0
+wyndham,2021.0,296322.0
+wyndham,2022.0,309398.0
+wyndham,2023.0,324087.0
+yarra,2013.0,83962.0
+yarra,2014.0,87228.0
+yarra,2015.0,89923.0
+yarra,2016.0,92894.0
+yarra,2017.0,94503.0
+yarra,2018.0,95504.0
+yarra,2019.0,96544.0
+yarra,2020.0,96662.0
+yarra,2021.0,91521.0
+yarra,2022.0,92392.0
+yarra,2023.0,97448.0
+yarra ranges,2013.0,150902.0
+yarra ranges,2014.0,151968.0
+yarra ranges,2015.0,153391.0
+yarra ranges,2016.0,155226.0
+yarra ranges,2017.0,156696.0
+yarra ranges,2018.0,157819.0
+yarra ranges,2019.0,158745.0
+yarra ranges,2020.0,158876.0
+yarra ranges,2021.0,157421.0
+yarra ranges,2022.0,157467.0
+yarra ranges,2023.0,158694.0
+yarriambiack,2013.0,7032.0
+yarriambiack,2014.0,6924.0
+yarriambiack,2015.0,6826.0
+yarriambiack,2016.0,6743.0
+yarriambiack,2017.0,6708.0
+yarriambiack,2018.0,6698.0
+yarriambiack,2019.0,6675.0
+yarriambiack,2020.0,6641.0
+yarriambiack,2021.0,6510.0
+yarriambiack,2022.0,6437.0
+yarriambiack,2023.0,6389.0
