@@ -23,6 +23,7 @@ import pprint
 import os
 import sys
 
+REDACTED = True
 
 def check_make_dir(directory: str):
     '''
@@ -44,14 +45,6 @@ def _get_last_exc():
 
 
 def _exit_program(code=1):
-
-    # kill all active asyncio Tasks
-    if asyncio.Task:
-        for task in asyncio.Task.all_tasks():
-            try:
-                task.cancel()
-            except Exception as ex:
-                pass
 
     # flush stderr and stdout
     sys.stdout.flush()
@@ -92,6 +85,9 @@ async def get_proxy_url_brightdata(country=None, return_session=False):
 
 class AuHousePricesScraper:
     def __init__(self, phase: int = 1):
+        if REDACTED:
+            print("Please enter your proxy auth details in the get_proxy_url_brightdata function")
+            _exit_program(0)
         self.script_dir = os.path.dirname(os.path.abspath(__file__))
         self.base_landing_dir = os.path.abspath(os.path.join(self.script_dir, '../data/landing/'))
         self.auhouseprices_landing_dir = os.path.abspath(os.path.join(self.script_dir, "../data/landing/auhouseprices/"))
