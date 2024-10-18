@@ -270,8 +270,7 @@ if __name__ == "__main__":
     print("\t[1] Scrape domain.com.au rental listings")
     print("\t[2] Scrape auhouseprices.com historical rental listings")
     print("\t[3] Phase 1: Parse auhouseprices.com scraped data into the raw directory")
-    print("\t[4] Phase 2: Parse auhouseprices.com scraped data into the raw directory")
-    print("\t[5] Scrape CoreLogic Public API property data")    
+    print("\t[4] Phase 2: Parse auhouseprices.com scraped data into the raw directory")    
     choice = int(input("Select: "))
     
     match choice:

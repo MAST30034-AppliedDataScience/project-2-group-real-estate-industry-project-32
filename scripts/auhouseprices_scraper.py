@@ -1,5 +1,6 @@
 import asyncio
 from multiprocessing.managers import DictProxy
+import traceback
 import aiohttp
 import pickle
 import multiprocessing
@@ -35,7 +36,31 @@ def get_suffix(url: str):
     '''
     return url.split('VIC/')[1]
 
-def get_proxy_url_brightdata(country=None, return_session=False):
+# Utilities from https://stackoverflow.com/questions/34710835/proper-way-to-shutdown-asyncio-tasks
+def _get_last_exc():
+    exc_type, exc_value, exc_traceback = sys.exc_info()
+    sTB = '\n'.join(traceback.format_tb(exc_traceback))
+    return f"{exc_type}\n - msg: {exc_value}\n stack: {sTB}"
+
+
+def _exit_program(code=1):
+
+    # kill all active asyncio Tasks
+    if asyncio.Task:
+        for task in asyncio.Task.all_tasks():
+            try:
+                task.cancel()
+            except Exception as ex:
+                pass
+
+    # flush stderr and stdout
+    sys.stdout.flush()
+    sys.stderr.flush()
+
+    # Shut down
+    sys.exit(code)
+
+async def get_proxy_url_brightdata(country=None, return_session=False):
     '''
     Function to get the proxy URL
     '''
@@ -46,9 +71,11 @@ def get_proxy_url_brightdata(country=None, return_session=False):
         username = 'REDACTED'
     password = 'REDACTED'
 
-    if username == 'REDACTED':
-        print("Please enter your proxy auth details username and password in the get_proxy_url_brightdata function")
-        sys.exit()
+    async with asyncio.Lock():
+        if username == 'REDACTED':
+            print("Please enter your proxy auth details username and password in the get_proxy_url_brightdata function")
+            _exit_program(0)
+        
 
     port = 22225
 
@@ -145,8 +172,7 @@ class AuHousePricesScraper:
         }
         while True:
             if use_proxy:
-                proxy_url = PROXY_URL
-                # proxy_url = get_proxy_url_brightdata()
+                proxy_url = await get_proxy_url_brightdata()
             else:
                 proxy_url = None
             async with aiohttp.ClientSession() as session:
