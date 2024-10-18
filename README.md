@@ -1,4 +1,4 @@
-# Generic Real Estate Consulting Project
+# Real Estate Consulting Project
 
 See the `domain_scraper.py` file in the `scripts` directory to get started scraping data. 
 
